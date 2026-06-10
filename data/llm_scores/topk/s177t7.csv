@@ -1,0 +1,302 @@
+|Sequence|Object|p_llm
+0|a large, grey chair |0|-28.595855712890625
+1|a large grey chair facing backwards in the room|0|-29.901281356811523
+2|a grey chair |0|-30.367895126342773
+3|a large, grey chair facing backwards|0|-28.62410545349121
+4|a large chair facing backwards|0|-28.36688995361328
+5|a backwards grey chair|0|-29.049575805664062
+6|a large, grey chair, facing backwards|0|-29.477140426635742
+7|a grey chair that is facing backwards|0|-30.874954223632812
+8|a grey chair|0|-31.078832626342773
+9|a large grey chair|0|-30.29890251159668
+10|a large, grey chair that is facing backwards|0|-30.784879684448242
+11|a chair facing backwards|0|-31.003141403198242
+12|a large grey chair facing backwards 1|0|-31.518604278564453
+13|a large grey chair |0|-29.67390251159668
+14|a large grey chair facing backwards in a room|0|-31.438861846923828
+15|a grey chair facing away|0|-30.31895637512207
+16|a large chair|0|-30.632238388061523
+17|a large, grey chair  facing backwards|0|-30.25185203552246
+18|a large grey facing backwards chair|0|-30.36895179748535
+19|a grey chair is facing backwards|0|-30.85721778869629
+20|a grey, large chair, facing backwards|0|-31.14637565612793
+21|a large grey chair, facing backwards|0|-30.10556411743164
+22|a large grey chair facing backwards|0|-25.187816619873047
+23|a large, grey chair facing backward|0|-31.097719192504883
+24|a large grey chair that is facing backwards|0|-31.290008544921875
+25|"a large grey chair facing backwards"""|0|-30.734691619873047
+26|a chair, grey, large, facing backwards|0|-32.05937957763672
+27|a backwards-facing grey chair|0|-29.61884117126465
+28|a large grey chair is facing backwards|0|-30.921401977539062
+29|a grey, large chair facing backwards|0|-29.714677810668945
+30|a large, grey chair 1|0|-31.70172882080078
+31|a large, grey chair facing forwards|0|-29.313610076904297
+32|a backwards-facing large grey chair|0|-30.915525436401367
+33|a large, grey, backwards-facing chair|0|-30.58725929260254
+34|a large, grey chair is facing backwards|0|-31.0467472076416
+35|a large|0|-31.049625396728516
+36|a grey chair, facing backwards|0|-28.97679328918457
+37|a grey chair backwards|0|-30.352270126342773
+38|a large, grey chair|0|-29.548980712890625
+39|a big grey chair facing away|0|-30.563154220581055
+40|a|0|-29.373933792114258
+41|a large, grey chair facing|0|-31.172985076904297
+42|a large grey chair  facing backwards|0|-31.72282600402832
+43|a large grey chair facing away|0|-30.593093872070312
+44|a large grey chair facing backwards is in the room|0|-31.475542068481445
+45|a large grey chair facing backwards |0|-28.422191619873047
+46|a large gray chair facing backwards|0|-30.89410972595215
+0|a large, grey chair |1|-29.01675796508789
+1|a chair facing forwards|1|-29.429346084594727
+2|a large, grey chair facing backwards|1|-31.22063446044922
+3|a large grey chair facing the front|1|-32.6621208190918
+4|a large grey chair, facing forwards|1|-32.172279357910156
+5|a large, grey chair that is facing forwards|1|-30.895662307739258
+6|a large grey chair facing forwards in the room|1|-32.17157745361328
+7|a forward-facing grey chair|1|-32.2497444152832
+8|a backwards grey chair|1|-32.26652145385742
+9|a grey chair|1|-31.11247444152832
+10|a large chair facing forwards|1|-29.130062103271484
+11|a  large, grey chair facing forwards|1|-30.83794403076172
+12|a large gray chair facing forward|1|-32.292423248291016
+13|a large grey chair facing forwards |1|-30.221860885620117
+14|"a large grey chair facing forwards"""|1|-32.22186279296875
+15|a large chair|1|-32.06624221801758
+16|a small grey chair facing backwards|1|-31.618701934814453
+17|a large, grey chair, facing forwards|1|-30.039072036743164
+18|a large grey chair facing forward|1|-30.678672790527344
+19|a large, grey chair is facing forwards|1|-31.23737907409668
+20|a large grey chair facing forwards|1|-27.112485885620117
+21|a small, grey desk facing backwards|1|-31.958703994750977
+22|a large,|1|-31.82823944091797
+23|a large, grey chair faces forwards|1|-32.486820220947266
+24|a large chair facing forward|1|-32.223812103271484
+25|a backwards-facing grey chair|1|-31.395254135131836
+26|a large grey chair  facing forwards|1|-32.29689025878906
+27|a large, grey chair  facing forwards|1|-29.925662994384766
+28|a small, grey chair facing backwards|1|-31.382949829101562
+29|a large, grey chair facing forwards|1|-22.98625946044922
+30|a large, grey chair  (2)|1|-34.03577423095703
+31|a grey chair facing forwards|1|-30.54696273803711
+32|a large|1|-31.68158721923828
+33|a large, grey chair|1|-26.32925796508789
+34|a grey chair facing forwards |1|-32.16765213012695
+35|a|1|-29.92296028137207
+36|a large, grey desk facing forwards|1|-31.381126403808594
+37|a large grey chair is facing forwards|1|-32.55514144897461
+0|a red chair |2|-29.301794052124023
+1|a red chair facing backward|2|-29.8608341217041
+2|a large, grey chair facing backwards|2|-32.19383239746094
+3|"a red chair facing backwards"""|2|-32.097633361816406
+4|a red chair facing backwards |2|-30.773466110229492
+5|a large chair facing backwards|2|-31.364036560058594
+6|a red chair, facing away|2|-31.788095474243164
+7|a red chair facing backwards in a room|2|-32.811790466308594
+8|a small, grey chair|2|-31.984228134155273
+9|a chair facing backwards|2|-31.68584442138672
+10|a red, large chair facing backwards|2|-31.91861343383789
+11|a large, red, backwards-facing chair|2|-32.28456497192383
+12|a large, red, facing-backwards chair|2|-32.79066467285156
+13|a large red chair facing backwards|2|-25.99150276184082
+14|a large chair|2|-30.51893424987793
+15|a large red chair|2|-27.90612030029297
+16|a red chair facing backwards in the room|2|-31.208316802978516
+17|a large chair that is red in color and facing backwards|2|-33.94026184082031
+18|a small grey chair facing backwards|2|-31.168140411376953
+19|a large red chair facing backward|2|-29.60087776184082
+20|a red chair facing away|2|-30.8139591217041
+21|a red chair|2|-26.239294052124023
+22|a large red chair, facing backwards|2|-31.60991096496582
+23|a large, red desk|2|-31.153141021728516
+24|a small, grey desk facing backwards|2|-31.91802406311035
+25|a red chair in the room|2|-31.777498245239258
+26|a red chair is facing backwards|2|-30.51559829711914
+27|a large,|2|-30.653108596801758
+28|a red chair that is facing backwards|2|-31.64073371887207
+29|a large red chair is facing backwards|2|-31.439146041870117
+30|a small, grey chair facing backwards|2|-30.458240509033203
+31|a large, grey chair facing forwards|2|-32.42073440551758
+32|a large red chair |2|-30.90612030029297
+33|a grey chair facing backwards|2|-31.73529052734375
+34|a  large, red chair facing backwards|2|-30.9333553314209
+35|a large|2|-30.655773162841797
+36|a|2|-28.924179077148438
+37|a red chair, facing backwards|2|-29.694345474243164
+38|a red chair facing backwards|2|-26.976591110229492
+39|a large, red desk facing backwards|2|-30.096242904663086
+40|"a red chair"""|2|-31.801794052124023
+0|a small, grey chair facing backwards |3|-31.101390838623047
+1|a small, grey chair that is facing backwards|3|-30.06092071533203
+2|a large, grey chair facing backwards|3|-28.740694046020508
+3|a small grey chair|3|-30.110319137573242
+4|a small, grey chair  (4)|3|-32.18025588989258
+5|a grey, small chair facing backwards|3|-31.147193908691406
+6|a small, grey chair in the room|3|-31.712970733642578
+7|a small, grey chair  facing backwards|3|-31.074073791503906
+8|a grey desk facing backwards|3|-30.658220291137695
+9|a small grey chair |3|-29.727506637573242
+10|a small chair facing backwards|3|-29.38166046142578
+11|a large, red chair facing backwards|3|-29.30876922607422
+12|a small, grey chair|3|-31.268245697021484
+13|a small grey facing backwards chair|3|-31.342941284179688
+14|a chair facing backwards|3|-30.125337600708008
+15|a small chair|3|-30.37314796447754
+16|a small, grey, backwards-facing chair|3|-31.853012084960938
+17|a small, gray chair facing backwards|3|-31.96129035949707
+18|a small, grey chair  |3|-31.143245697021484
+19|a small-grey-chair-facing-backwards|3|-32.10784912109375
+20|a small, grey chair is facing backwards|3|-30.707021713256836
+21|a small, grey desk facing backwards|3|-30.735584259033203
+22|a small, grey chair faced backwards|3|-31.83431053161621
+23|a small, grey chair with its back to you|3|-33.74460220336914
+24|a small gray chair facing backwards|3|-31.379518508911133
+25|a small, grey chair |3|-30.658870697021484
+26|a  small, grey chair facing backwards|3|-32.09766387939453
+27|a small, grey chair facing forwards|3|-30.77277374267578
+28|a small, grey chair faces backwards|3|-31.720121383666992
+29|a small, grey chair with its back to us|3|-33.388526916503906
+30|a small grey chair that is facing backwards|3|-31.257766723632812
+31|a small, grey chair facing backwards|3|-28.132640838623047
+32|a large, grey chair facing forwards|3|-29.490694046020508
+33|a small, grey chair, facing backwards, in the room|3|-33.84783935546875
+34|a grey chair facing backwards|3|-29.451921463012695
+35|a small, grey chair, facing backwards|3|-31.844186782836914
+36|a small, grey desk|3|-30.323562622070312
+37|a large, grey chair|3|-31.353958129882812
+38|a small grey chair, facing backwards|3|-30.127138137817383
+39|a|3|-28.92915916442871
+40|a large, grey desk facing forwards|3|-30.661048889160156
+41|a small, grey chair facing|3|-31.83527374267578
+42|a small grey desk|3|-29.088525772094727
+43|a small,|3|-31.238380432128906
+44|a small, grey chair with its back to the viewer|3|-33.73463439941406
+0|a large, grey desk face forwards|4|-10.426125526428223
+1|a large, grey desk-facing forwards|4|-10.45855712890625
+2|a grey desk facing forward|4|-9.728650093078613
+3|a chair facing forwards|4|-10.321776390075684
+4|a large grey desk facing forward|4|-8.778493881225586
+5|a large, grey  desk facing forwards|4|-10.636542320251465
+6|a large, grey desk faced forwards|4|-10.482372283935547
+7|a large, grey desk, facing forwards|4|-12.873169898986816
+8|a large, grey desk|4|-3.6773488521575928
+9|a large, grey desk in the room|4|-10.701727867126465
+10|a  large, grey desk facing forwards|4|-9.729270935058594
+11|a large, grey desk  |4|-9.396099090576172
+12|a grey, large desk|4|-9.872186660766602
+13|a large grey desk |4|-9.178592681884766
+14|a large grey desk is facing forwards|4|-10.433614730834961
+15|a large, grey desk  facing forwards|4|-7.496482849121094
+16|a chair|4|-10.653648376464844
+17|a large, grey desk |4|-6.341411590576172
+18|a large grey chair facing forwards|4|-10.687945365905762
+19|a small, grey desk facing backwards|4|-9.170880317687988
+20|a small grey desk facing backwards|4|-9.265007972717285
+21|a grey desk, facing forwards|4|-10.249797821044922
+22|a large,|4|-10.445911407470703
+23|a large, grey desk  (5)|4|-10.513755798339844
+24|a small, grey desk facing forwards|4|-10.39952278137207
+25|a large grey desk|4|-9.694217681884766
+26|a small, grey chair facing backwards|4|-9.749138832092285
+27|a large, grey chair facing forwards|4|-8.62462043762207
+28|a grey chair facing forwards|4|-10.431983947753906
+29|a large, grey desk that is facing forwards|4|-9.505863189697266
+30|a large|4|-10.573017120361328
+31|a|4|-8.006294250488281
+32|a large, grey desk faces forwards|4|-9.465526580810547
+33|a large, grey desk facing forwards|4|-1.7248293161392212
+34|a large grey desk, facing forwards|4|-10.301422119140625
+35|a large, grey desk that faces forwards|4|-10.650510787963867
+36|a large, grey desk is facing forwards|4|-8.58433723449707
+37|a large, grey table|4|-10.243131637573242
+38|a grey desk facing forwards|4|-9.195281982421875
+39|a large, grey desk facing forward|4|-9.85764217376709
+40|a large grey desk facing forwards|4|-8.138964653015137
+0|a large, red desk with its back facing the viewer|5|-33.495121002197266
+1|"a large, red desk"""|5|-31.87405776977539
+2|a large, red desk facing downwards|5|-32.44176483154297
+3|a large, red desk facing the opposite direction of the other objects|5|-35.67486572265625
+4|a large desk|5|-30.816207885742188
+5|a large, red desk, facing backwards|5|-31.984025955200195
+6|a red desk facing backwards|5|-30.525794982910156
+7|a large, red desk with its back facing us|5|-33.28270721435547
+8|a large red desk, facing backwards|5|-32.276302337646484
+9|a large, red table facing backwards|5|-32.072959899902344
+10|a large, red chair facing backwards|5|-29.462461471557617
+11|a large, red desk that is facing backwards|5|-31.16390037536621
+12|a chair facing backwards|5|-31.691349029541016
+13|a large, red desk  facing backwards|5|-30.2191219329834
+14|a large, red desk facing backward|5|-29.39488983154297
+15|a large, red desk (6)|5|-31.894895553588867
+16|a large desk facing backwards|5|-31.744388580322266
+17|a large, red desk with its back to you|5|-34.135581970214844
+18|a large, red  desk facing backwards|5|-32.468666076660156
+19|a large, red desk facing|5|-32.12926483154297
+20|a large, red desk|5|-26.06155776977539
+21|a red desk|5|-32.07419204711914
+22|a small, grey desk facing backwards|5|-29.720827102661133
+23|a small grey desk facing backwards|5|-30.914993286132812
+24|a large, red desk  |5|-31.91312026977539
+25|a large, red desk facing away|5|-31.98863983154297
+26|a large,|5|-31.81342887878418
+27|a red desk, facing backwards|5|-31.294591903686523
+28|a large, red desk |5|-29.15530776977539
+29|a large, red desk  (6)|5|-32.57661056518555
+30|a large, red desk face backwards|5|-31.363420486450195
+31|a backwards-facing red desk|5|-31.699634552001953
+32|a large, red desk faced backwards|5|-32.35409927368164
+33|a small, grey chair facing backwards|5|-30.955062866210938
+34|a desk|5|-31.03255271911621
+35|a large, red desk is facing backwards|5|-31.278079986572266
+36|a large, red desk faces backwards|5|-32.14099884033203
+37|a large|5|-31.67394256591797
+38|a large, red desk with its back facing you|5|-32.98583221435547
+39|a large, red desk facing forwards|5|-30.69696617126465
+40|a  large, red desk facing backwards|5|-30.766525268554688
+41|a|5|-29.48920249938965
+42|a large, grey desk facing forwards|5|-31.01170539855957
+43|a large, red desk facing backwards|5|-23.11363983154297
+44|a red desk |5|-32.13914489746094
+45|a red desk facing backward|5|-31.33293342590332
+0|a large, grey chair facing backwards|6|-30.94344139099121
+1|a desk facing backwards|6|-31.272615432739258
+2|a small, grey desk is facing backwards|6|-30.83618927001953
+3|a small, grey desk |6|-28.610754013061523
+4|a small, grey desk  facing backwards|6|-30.094650268554688
+5|"a small grey desk facing backwards"""|6|-31.088224411010742
+6|a small grey desk facing backwards is in the room|6|-32.38494873046875
+7|a small, grey chair|6|-30.56720542907715
+8|a chair facing backwards|6|-31.10346794128418
+9|a small chair|6|-31.253070831298828
+10|a small, grey desk, facing backwards|6|-32.585060119628906
+11|a small desk facing backwards|6|-29.940845489501953
+12|a small grey chair facing backwards|6|-29.376455307006836
+13|a small grey desk facing backwards,|6|-31.533536911010742
+14|a small grey desk facing forwards|6|-31.3936767578125
+15|a small grey desk facing backwards in a room|6|-32.653846740722656
+16|a small, grey desk facing backwards|6|-23.217519760131836
+17|a small grey desk facing backwards|6|-30.675094604492188
+18|a grey desk|6|-29.17374038696289
+19|a small, grey desk that is facing backwards|6|-33.550113677978516
+20|a small grey desk |6|-30.688724517822266
+21|a small, grey desk facing forwards|6|-29.944082260131836
+22|a small, grey desk facing backward|6|-30.50296401977539
+23|a small, grey desk  |6|-31.493566513061523
+24|a  small, grey desk facing backwards|6|-32.1301155090332
+25|a small grey desk, facing backwards|6|-30.956769943237305
+26|a small, gray desk facing backwards|6|-31.705299377441406
+27|a small grey desk  facing backwards|6|-31.745601654052734
+28|a small, grey table|6|-30.588205337524414
+29|a small, grey chair facing backwards|6|-27.794431686401367
+30|a small grey desk facing backwards |6|-30.986661911010742
+31|a large, grey chair facing forwards|6|-30.99031639099121
+32|a small, grey desk facing|6|-31.717517852783203
+33|a small, grey desk|6|-25.852941513061523
+34|a small grey desk is facing backwards|6|-31.790922164916992
+35|a|6|-29.049015045166016
+36|a large, grey desk facing forwards|6|-30.218931198120117
+37|a large, red desk facing backwards|6|-30.827136993408203
+38|a small desk|6|-31.441925048828125
+39|a small grey desk|6|-30.868412017822266
+40|a small,|6|-31.724895477294922
+41|a small grey desk facing backwards in the room|6|-30.58856773376465
+42|a small, grey desk faces backwards|6|-31.6397762298584

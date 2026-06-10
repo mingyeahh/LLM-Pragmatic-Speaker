@@ -1,0 +1,88 @@
+data/corpus/s326t6.xml
+a thing facing forwards
+a thing facing to the left
+a thing
+a thing facing to the right
+a chair facing forwards
+a chair facing to the left
+a chair
+a chair facing to the right
+a desk facing forwards
+a desk facing to the left
+a desk
+a desk facing to the right
+a grey thing facing forwards
+a grey thing facing to the left
+a grey thing
+a grey thing facing to the right
+a grey chair facing forwards
+a grey chair facing to the left
+a grey chair
+a grey chair facing to the right
+a grey desk facing forwards
+a grey desk facing to the left
+a grey desk
+a grey desk facing to the right
+a green thing facing forwards
+a green thing facing to the left
+a green thing
+a green thing facing to the right
+a green chair facing forwards
+a green chair facing to the left
+a green chair
+a green chair facing to the right
+a green desk facing forwards
+a green desk facing to the left
+a green desk
+a green desk facing to the right
+a large thing facing forwards
+a large thing facing to the left
+a large thing
+a large chair facing forwards
+a large chair facing to the left
+a large chair
+a large desk facing forwards
+a large desk facing to the left
+a large desk
+a large, grey thing facing forwards
+a large, grey thing facing to the left
+a large, grey thing
+a large, grey chair facing forwards
+a large, grey chair facing to the left
+a large, grey chair
+a large, grey desk facing forwards
+a large, grey desk facing to the left
+a large, grey desk
+a large, green thing facing forwards
+a large, green thing facing to the left
+a large, green thing
+a large, green chair facing forwards
+a large, green chair facing to the left
+a large, green chair
+a large, green desk facing forwards
+a large, green desk facing to the left
+a large, green desk
+a small thing facing forwards
+a small thing
+a small thing facing to the right
+a small chair
+a small chair facing to the right
+a small desk facing forwards
+a small desk
+a small desk facing to the right
+a small, grey thing facing forwards
+a small, grey thing
+a small, grey thing facing to the right
+a small, grey chair
+a small, grey chair facing to the right
+a small, grey desk facing forwards
+a small, grey desk
+a small, grey desk facing to the right
+a small, green thing facing forwards
+a small, green thing
+a small, green thing facing to the right
+a small, green chair
+a small, green chair facing to the right
+a small, green desk facing forwards
+a small, green desk
+a small, green desk facing to the right

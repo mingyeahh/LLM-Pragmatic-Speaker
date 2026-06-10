@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rsa-speaker"
+version = "0.1.0"
+description = "Are LLMs good pragmatic speakers? Comparing LLM and RSA referential-utterance scores."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Mingyue Jian", email = "s2531301@ed.ac.uk" },
+    { name = "N. Siddharth", email = "n.siddharth@ed.ac.uk" },
+]
+keywords = ["pragmatics", "rational speech act", "RSA", "LLM", "reference game", "TUNA"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    # numpy capped <2.3 to match SciPy's supported range (SciPy <1.13 requires numpy <2.3).
+    "numpy>=1.24,<2.3",
+    "pandas>=2.0",
+    "scipy>=1.10",
+    "matplotlib>=3.7",
+]
+
+[project.optional-dependencies]
+# The LLM scoring/generation phases need a local GGUF model via llama-cpp-python.
+llm = ["llama-cpp-python>=0.2.70"]
+
+[project.urls]
+Paper = "https://arxiv.org/abs/2411.01562"
+
+[tool.setuptools]
+packages = ["rsa_speaker"]

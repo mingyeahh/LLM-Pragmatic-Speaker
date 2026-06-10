@@ -1,0 +1,328 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,"a small, red sofa facing to the left",0,0,0,0,0,0,0
+1,"a large blue fan, facing to the left",0,0,1,0,0,0,0
+2,a red sofa facing to the left,0,0,0,0,0,0,0
+3,a small green fan,0,1,0,0,0,0,0
+4,"a large, red thing facing backwards",0,0,0,1,0,0,1
+5,"a large, red sofa  facing backwards",0,0,0,0,0,0,1
+6,"a blue, small fan facing left",1,0,0,0,0,0,0
+7,"a small, red fan",0,0,0,0,0,0,0
+8,"a small, blue thing facing to the left",1,0,0,0,0,0,0
+9,"a large, blue sofa in the room",0,0,0,0,0,1,0
+10,a blue thing,1,0,1,0,0,1,0
+11,a green couch facing to the left,0,1,0,0,1,0,0
+12,"a small, blue fan",1,0,0,0,0,0,0
+13,"a small fan, blue in color, facing left",1,0,0,0,0,0,0
+14,a red fan,0,0,0,1,0,0,0
+15,a blue fan facing the left,1,0,1,0,0,0,0
+16,"a small, blue thing",1,0,0,0,0,0,0
+17,"a large, blue thing",0,0,1,0,0,1,0
+18,"a large, green sofa",0,0,0,0,0,0,0
+19,a green fan in a room,0,1,0,0,0,0,0
+20,"a blue, small fan facing to the left",1,0,0,0,0,0,0
+21,a small fan that is blue,1,0,0,0,0,0,0
+22,a large blue fan facing to the left,0,0,1,0,0,0,0
+23,"a large fan, facing backwards",0,0,0,1,0,0,0
+24,"a large, blue fan facing to the left",0,0,1,0,0,0,0
+25,a blue sofa facing to the left,0,0,0,0,0,1,0
+26,a blue sofa,0,0,0,0,0,1,0
+27,a large blue fan faces left,0,0,1,0,0,0,0
+28,a large blue fan facing to the left ,0,0,1,0,0,0,0
+29,a small green fan to the left,0,1,0,0,0,0,0
+30,a green sofa facing backwards,0,0,0,0,0,0,0
+31,"a large, blue sofa faced to the left",0,0,0,0,0,1,0
+32,a couch,1,1,1,1,1,1,1
+33,a small,0,0,0,0,0,0,0
+34,a fan,1,1,1,1,0,0,0
+35,a large red fan facing backwards,0,0,0,1,0,0,0
+36,"a large, red couch",0,0,0,1,0,0,1
+37,"a fan, blue, small, facing left",1,0,0,0,0,0,0
+38,"a large, red sofa facing downwards",0,0,0,0,0,0,1
+39,"a  large, blue fan facing to the left",0,0,1,0,0,0,0
+40,a  green sofa,0,0,0,0,1,0,0
+41,a large blue sofa,0,0,0,0,0,1,0
+42,"a large, blue sofa  (6)",0,0,0,0,0,1,0
+43,a large red fan ,0,0,0,1,0,0,0
+44,"a red, backwards fan",0,0,0,1,0,0,0
+45,a small green sofa facing left,0,0,0,0,1,0,0
+46,a blue fan is facing left,1,0,1,0,0,0,0
+47,"a large, red sofa facing to the right",0,0,0,0,0,0,0
+48,"a large, red sofa facing backwards",0,0,0,0,0,0,1
+49,a big red fan facing backwards,0,0,0,1,0,0,0
+50,"a large, red fan facing to the left",0,0,0,0,0,0,0
+51,"a large, red sofa, facing backwards",0,0,0,0,0,0,1
+52,a little green couch,0,1,0,0,1,0,0
+53,"a large blue sofa, facing to the left",0,0,0,0,0,1,0
+54,a small green sofa is facing left,0,0,0,0,1,0,0
+55,a blue fan facing backwards,0,0,0,0,0,0,0
+56,"a large, red, backwards-facing sofa",0,0,0,0,0,0,1
+57,a large red fan backwards,0,0,0,1,0,0,0
+58,"a large, red sofa  ",0,0,0,0,0,0,1
+59,a small fan facing to the left,1,1,0,0,0,0,0
+60,a little blue fan facing left,1,0,0,0,0,0,0
+61,a blue fan in the room,1,0,1,0,0,0,0
+62,a large blue fan,0,0,1,0,0,0,0
+63,"a large, blue fan  facing to the left",0,0,1,0,0,0,0
+64,a large thing facing to the left,0,0,1,0,0,1,0
+65,a small blue facing left fan,1,0,0,0,0,0,0
+66,a green fan,0,1,0,0,0,0,0
+67,"a large, blue fan""",0,0,1,0,0,0,0
+68,"a  small, green sofa facing to the left",0,0,0,0,1,0,0
+69,a sofa,0,0,0,0,1,1,1
+70,a small green fan ,0,1,0,0,0,0,0
+71,"a large, blue fan facing to the left ",0,0,1,0,0,0,0
+72,a small blue fan,1,0,0,0,0,0,0
+73,a red thing,0,0,0,1,0,0,1
+74,"a green fan, facing to the left",0,1,0,0,0,0,0
+75,"a large, blue fan, facing to the left",0,0,1,0,0,0,0
+76,"a large, blue sofa faces left",0,0,0,0,0,1,0
+77,a green fan facing left,0,1,0,0,0,0,0
+78,a large red fan,0,0,0,1,0,0,0
+79,"a large, red sofa facing to the left",0,0,0,0,0,0,0
+80,a large red sofa facing backward,0,0,0,0,0,0,1
+81,a backwards-facing red fan,0,0,0,1,0,0,0
+82,a small fan that is green in color and facing to the left,0,1,0,0,0,0,0
+83,"a large, red sofa facing upwards",0,0,0,0,0,0,0
+84,a green thing facing to the left,0,1,0,0,1,0,0
+85,"a large, green fan facing backwards",0,0,0,0,0,0,0
+86,"a small, blue sofa facing to the left",0,0,0,0,0,0,0
+87,"a large, red sofa facing backward",0,0,0,0,0,0,1
+88,"a large, red, fan facing backwards",0,0,0,1,0,0,0
+89,"a green fan""",0,1,0,0,0,0,0
+90,a green couch,0,1,0,0,1,0,0
+91,"a large, red sofa facing forwards",0,0,0,0,0,0,0
+92,a large blue sofa faces left,0,0,0,0,0,1,0
+93,"a large, blue thing facing backwards",0,0,0,0,0,0,0
+94,a blue fan facing to the left,1,0,1,0,0,0,0
+95,"a large, green thing",0,0,0,0,0,0,0
+96,a large blue sofa facing to the left,0,0,0,0,0,1,0
+97,"a large red fan, facing backwards",0,0,0,1,0,0,0
+98,a small thing,1,1,0,0,1,0,0
+99,"a large, blue fan  (3)",0,0,1,0,0,0,0
+100,a large blue sofa is facing to the left,0,0,0,0,0,1,0
+101,"a green, small sofa",0,0,0,0,1,0,0
+102,"a large, red sofa that is facing backwards",0,0,0,0,0,0,1
+103,a large red fan is facing backwards,0,0,0,1,0,0,0
+104,"a small fan facing to the left, colored blue",0,0,0,0,0,0,0
+105,"a large, blue fan facing to the left,",0,0,1,0,0,0,0
+106,"a large, green thing facing to the left",0,0,0,0,0,0,0
+107,a small fan in a room,1,1,0,0,0,0,0
+108,a thing facing backwards,0,0,0,1,0,0,1
+109,a blue small fan,1,0,0,0,0,0,0
+110,a blue fan on the left,1,0,1,0,0,0,0
+111,a blue fan faces left,1,0,1,0,0,0,0
+112,"a blue fan, small in size, facing to the left",1,0,0,0,0,0,0
+113,a large blue sofa faces to the left,0,0,0,0,0,1,0
+114,"a  large, blue sofa facing to the left",0,0,0,0,0,1,0
+115,"a large, red sofa facing the wall",0,0,0,0,0,0,1
+116,a small fan facing left,1,1,0,0,0,0,0
+117,a small green fan facing to the left,0,1,0,0,0,0,0
+118,"a small, green sofa facing to the left",0,0,0,0,1,0,0
+119,"a green, small sofa facing left",0,0,0,0,1,0,0
+120,"a small, green fan",0,1,0,0,0,0,0
+121,a large fan facing backwards,0,0,0,1,0,0,0
+122,a blue fan is facing to the left,1,0,1,0,0,0,0
+123,"a red, backwards-facing fan",0,0,0,1,0,0,0
+124,"a red, large fan",0,0,0,1,0,0,0
+125,a backwards red fan,0,0,0,1,0,0,0
+126,"a small fan facing to the left, colored green",0,0,0,0,0,0,0
+127,"a large fan, red in color, facing backwards",0,0,0,1,0,0,0
+128,"a small, green couch",0,1,0,0,1,0,0
+129,a small green sofa faces to the left,0,0,0,0,1,0,0
+130,"a small, blue fan facing to the left",1,0,0,0,0,0,0
+131,a red thing facing backwards,0,0,0,1,0,0,1
+132,"a large, backwards red fan",0,0,0,1,0,0,0
+133,a small sofa facing to the left,0,0,0,0,1,0,0
+134,a green fan facing backwards,0,0,0,0,0,0,0
+135,"a large, blue sofa""",0,0,0,0,0,1,0
+136,"a small,",0,0,0,0,0,0,0
+137,a large fan with a red color and facing backwards,0,0,0,1,0,0,0
+138,"a large, blue fan ",0,0,1,0,0,0,0
+139,"a large, red sofa is facing backwards",0,0,0,0,0,0,1
+140,a red thing facing to the left,0,0,0,0,0,0,0
+141,a red sofa facing backwards,0,0,0,0,0,0,1
+142,a large  red sofa facing backwards,0,0,0,0,0,0,1
+143,a large red sofa ,0,0,0,0,0,0,1
+144,"a  large, red fan facing backwards",0,0,0,1,0,0,0
+145,"a large, blue sofa, facing to the left",0,0,0,0,0,1,0
+146,a green fan facing to the left,0,1,0,0,0,0,0
+147,a small blue fan facing to the left,1,0,0,0,0,0,0
+148,a green fan facing the left,0,1,0,0,0,0,0
+149,a large fan facing to the left,0,0,1,0,0,0,0
+150,a green fan on the left,0,1,0,0,0,0,0
+151,a blue fan facing left,1,0,1,0,0,0,0
+152,a big blue sofa facing left,0,0,0,0,0,1,0
+153,"a green fan, facing left",0,1,0,0,0,0,0
+154,"a large, green fan facing to the left",0,0,0,0,0,0,0
+155,a small fan that is green in color,0,1,0,0,0,0,0
+156,a sofa facing to the left,0,0,0,0,1,1,0
+157,"a red, large sofa facing backwards",0,0,0,0,0,0,1
+158,a thing facing to the left,1,1,1,0,1,1,0
+159,"a blue fan, facing left",1,0,1,0,0,0,0
+160,a small green sofa,0,0,0,0,1,0,0
+161,"a small, green thing",0,1,0,0,1,0,0
+162,a,0,0,0,0,0,0,0
+163,a blue sofa facing the left,0,0,0,0,0,1,0
+164,a green small sofa facing to the left,0,0,0,0,1,0,0
+165,a large blue fan is facing left,0,0,1,0,0,0,0
+166,"a large, blue sofa that is facing to the left",0,0,0,0,0,1,0
+167,a red sofa,0,0,0,0,0,0,1
+168,"a small, red thing facing to the left",0,0,0,0,0,0,0
+169,"a  large, red sofa facing backwards",0,0,0,0,0,0,1
+170,a large fan that is red in color and facing backwards,0,0,0,1,0,0,0
+171,a small sofa facing left,0,0,0,0,1,0,0
+172,"a small green sofa, facing left",0,0,0,0,1,0,0
+173,"a small fan, blue",1,0,0,0,0,0,0
+174,a small green fan facing the left,0,1,0,0,0,0,0
+175,"a small, green thing facing to the left",0,1,0,0,1,0,0
+176,a large blue sofa facing the left,0,0,0,0,0,1,0
+177,a large blue sofa facing left,0,0,0,0,0,1,0
+178,a large blue sofa ,0,0,0,0,0,1,0
+179,a large blue fan facing the left,0,0,1,0,0,0,0
+180,a small green sofa faces left,0,0,0,0,1,0,0
+181,a large red sofa facing backwards,0,0,0,0,0,0,1
+182,a small green fan facing left,0,1,0,0,0,0,0
+183,"a small fan facing to the left, blue in color",1,0,0,0,0,0,0
+184,a green couch facing left,0,1,0,0,1,0,0
+185,"a large, blue sofa facing backwards",0,0,0,0,0,0,0
+186,"a small, green fan facing to the left",0,1,0,0,0,0,0
+187,"a large, blue sofa 6",0,0,0,0,0,1,0
+188,a green fan ,0,1,0,0,0,0,0
+189,a sofa facing backwards,0,0,0,0,0,0,1
+190,a green fan in the room,0,1,0,0,0,0,0
+191,a large red sofa,0,0,0,0,0,0,1
+192,a small green fan is facing to the left,0,1,0,0,0,0,0
+193,"a large, red, backwards-facing fan",0,0,0,1,0,0,0
+194,"a large, red sofa faces backwards",0,0,0,0,0,0,1
+195,a small green sofa ,0,0,0,0,1,0,0
+196,"a large, green sofa facing to the left",0,0,0,0,0,0,0
+197,a blue thing facing backwards,0,0,0,0,0,0,0
+198,a small sofa,0,0,0,0,1,0,0
+199,a small fan,1,1,0,0,0,0,0
+200,a blue fan to the left,1,0,1,0,0,0,0
+201,"a large, red fan",0,0,0,1,0,0,0
+202,"a green, small sofa facing to the left",0,0,0,0,1,0,0
+203,"a large, blue sofa-facing to the left",0,0,0,0,0,1,0
+204,"a green, facing-left sofa",0,0,0,0,1,0,0
+205,"a small green fan, facing to the left",0,1,0,0,0,0,0
+206,a small fan in the room,1,1,0,0,0,0,0
+207,"a large, green thing facing backwards",0,0,0,0,0,0,0
+208,a blue fan,1,0,1,0,0,0,0
+209,a large fan is red and facing backwards,0,0,0,1,0,0,0
+210,"a large, red sofa facing the opposite direction of other objects",0,0,0,0,0,0,1
+211,"a large, red sofa face backwards",0,0,0,0,0,0,1
+212,a small thing facing to the left,1,1,0,0,1,0,0
+213,"a small fan, green in color, facing left",0,1,0,0,0,0,0
+214,a green thing,0,1,0,0,1,0,0
+215,a large red sofa is facing backwards,0,0,0,0,0,0,1
+216,"a large, blue fan facing the left",0,0,1,0,0,0,0
+217,a small  green sofa,0,0,0,0,1,0,0
+218,"a large, blue thing facing to the left",0,0,1,0,0,1,0
+219,a blue fan ,1,0,1,0,0,0,0
+220,a large red fan facing to the left,0,0,0,0,0,0,0
+221,"a large, red thing facing to the left",0,0,0,0,0,0,0
+222,a large blue fan to the left,0,0,1,0,0,0,0
+223,"a large, blue sofa  facing to the left",0,0,0,0,0,1,0
+224,a large fan,0,0,1,1,0,0,0
+225,"a small, green couch facing to the left",0,1,0,0,1,0,0
+226,a blue fan facing left ,1,0,1,0,0,0,0
+227,a fan facing backwards,0,0,0,1,0,0,0
+228,"a large, blue fan 3",0,0,1,0,0,0,0
+229,"a large, blue sofa facing left",0,0,0,0,0,1,0
+230,"a large, backwards-facing red fan",0,0,0,1,0,0,0
+231,"a large, blue sofa",0,0,0,0,0,1,0
+232,"a large,",0,0,0,0,0,0,0
+233,"a small fan, blue in color",1,0,0,0,0,0,0
+234,a little blue fan,1,0,0,0,0,0,0
+235,"a red, large fan facing backwards",0,0,0,1,0,0,0
+236,"a small, red sofa",0,0,0,0,0,0,0
+237,"a large, blue fan facing left",0,0,1,0,0,0,0
+238,"a small, red fan facing to the left",0,0,0,0,0,0,0
+239,a large blue fan faces to the left,0,0,1,0,0,0,0
+240,"a large, blue fan is facing to the left",0,0,1,0,0,0,0
+241,"a small, red thing",0,0,0,0,0,0,0
+242,a fan that is red and facing backwards,0,0,0,1,0,0,0
+243,"a blue fan, small, facing left",1,0,0,0,0,0,0
+244,a large blue fan is facing to the left,0,0,1,0,0,0,0
+245,a red backwards fan,0,0,0,1,0,0,0
+246,"a large, red fan facing backwards",0,0,0,1,0,0,0
+247,"a blue fan""",1,0,1,0,0,0,0
+248,a  red sofa facing backwards,0,0,0,0,0,0,1
+249,a little green sofa facing left,0,0,0,0,1,0,0
+250,"a small fan, blue, facing left",1,0,0,0,0,0,0
+251,a thing,1,1,1,1,1,1,1
+252,a large thing,0,0,1,1,0,1,1
+253,a little green fan facing left,0,1,0,0,0,0,0
+254,a small fan that is green and facing to the left,0,1,0,0,0,0,0
+255,"a large, red sofa ",0,0,0,0,0,0,1
+256,"a large, green sofa facing backwards",0,0,0,0,0,0,0
+257,a blue sofa facing backwards,0,0,0,0,0,0,0
+258,"a small fan, green in color, facing to the left",0,1,0,0,0,0,0
+259,"a large, blue sofa is facing to the left",0,0,0,0,0,1,0
+260,a green thing facing backwards,0,0,0,0,0,0,0
+261,a large sofa facing backwards,0,0,0,0,0,0,1
+262,a small green fan  facing to the left,0,1,0,0,0,0,0
+263,a small green sofa is facing to the left,0,0,0,0,1,0,0
+264,"a large, red sofa facing the opposite direction of the other objects",0,0,0,0,0,0,1
+265,"a small green sofa, facing to the left",0,0,0,0,1,0,0
+266,"a large, red sofa facing",0,0,0,0,0,0,1
+267,a large,0,0,0,0,0,0,0
+268,"a small fan, blue in color, facing to the left",1,0,0,0,0,0,0
+269,"a blue fan, small in size, facing left",1,0,0,0,0,0,0
+270,"a large blue sofa, facing left",0,0,0,0,0,1,0
+271,"a small, green sofa",0,0,0,0,1,0,0
+272,"a large, blue fan faces to the left",0,0,1,0,0,0,0
+273,"a large, blue fan facing to the left;",0,0,1,0,0,0,0
+274,"a large, blue sofa ",0,0,0,0,0,1,0
+275,"a blue fan, facing to the left",1,0,1,0,0,0,0
+276,a backwards facing red fan,0,0,0,1,0,0,0
+277,"a large, blue sofa facing to the left",0,0,0,0,0,1,0
+278,a small green sofa facing to the left,0,0,0,0,1,0,0
+279,a red fan facing to the left,0,0,0,0,0,0,0
+280,a red fan facing backwards,0,0,0,1,0,0,0
+281,a blue thing facing to the left,1,0,1,0,0,1,0
+282,a green sofa facing to the left,0,0,0,0,1,0,0
+283,a green fan is facing left,0,1,0,0,0,0,0
+284,a large fan that is red and facing backwards,0,0,0,1,0,0,0
+285,a large sofa facing to the left,0,0,0,0,0,1,0
+286,a backwards red sofa,0,0,0,0,0,0,1
+287,a green sofa,0,0,0,0,1,0,0
+288,a backward-facing red fan,0,0,0,1,0,0,0
+289,a large red fan facing to the right,0,0,0,0,0,0,0
+290,"a small, blue sofa",0,0,0,0,0,0,0
+291,a large fan with a red color facing backwards,0,0,0,1,0,0,0
+292,"a large, blue fan facing to the left""",0,0,1,0,0,0,0
+293,a large thing facing backwards,0,0,0,1,0,0,1
+294,"a large, blue sofa facing the left",0,0,0,0,0,1,0
+295,a green fan is facing to the left,0,1,0,0,0,0,0
+296,"a red, facing-backwards fan",0,0,0,1,0,0,0
+297,"a large, blue sofa to the left",0,0,0,0,0,1,0
+298,a large blue sofa  facing to the left,0,0,0,0,0,1,0
+299,a blue fan is in the room,1,0,1,0,0,0,0
+300,"a large, blue fan faces left",0,0,1,0,0,0,0
+301,"a large, red sofa",0,0,0,0,0,0,1
+302,"a large, red, backwards fan",0,0,0,1,0,0,0
+303,"a large, blue fan in the room",0,0,1,0,0,0,0
+304,"a large, blue fan",0,0,1,0,0,0,0
+305,a green small sofa facing left,0,0,0,0,1,0,0
+306,"a large, blue fan  ",0,0,1,0,0,0,0
+307,"a large blue fan, facing left",0,0,1,0,0,0,0
+308,"a small, green couch facing left",0,1,0,0,1,0,0
+309,a red facing backwards fan,0,0,0,1,0,0,0
+310,a green fan to the left,0,1,0,0,0,0,0
+311,"a large, blue sofa, facing left",0,0,0,0,0,1,0
+312,"a large, blue sofa (6)",0,0,0,0,0,1,0
+313,a fan facing to the left,1,1,1,0,0,0,0
+314,a green fan is in the room,0,1,0,0,0,0,0
+315,a small green sofa  facing to the left,0,0,0,0,1,0,0
+316,"a large, green fan",0,0,0,0,0,0,0
+317,a large fan that is red in color and is facing backwards,0,0,0,1,0,0,0
+318,a small fan facing the left,1,1,0,0,0,0,0
+319,"a large, blue sofa  ",0,0,0,0,0,1,0
+320,a small green sofa facing the left,0,0,0,0,1,0,0
+321,a blue fan facing left in the room,1,0,1,0,0,0,0
+322,"a large, blue fan facing backwards",0,0,0,0,0,0,0
+323,"a large, red sofa""",0,0,0,0,0,0,1
+324,"a large, red thing",0,0,0,1,0,0,1
+325,a large sofa,0,0,0,0,0,1,1
+326,"a large, blue sofa faces to the left",0,0,0,0,0,1,0

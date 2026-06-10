@@ -1,0 +1,317 @@
+|Sequence|Object|p_llm
+0|a large, grey desk face forwards|0|-31.902061462402344
+1|a large, grey, desk, facing forwards|0|-31.303569793701172
+2|a large desk, grey in color|0|-32.1458625793457
+3|a large desk|0|-28.61991310119629
+4|a large, grey desk  #1|0|-32.22552490234375
+5|a grey, large, desk, facing forwards|0|-32.44892501831055
+6|a large, grey desk, facing forwards|0|-29.412506103515625
+7|a large, grey desk|0|-31.29100799560547
+8|a large, grey desk in the room|0|-31.19601821899414
+9|a blue desk|0|-30.668725967407227
+10|a large, grey desk  |0|-30.80105209350586
+11|a large desk that is grey and facing forwards|0|-32.071075439453125
+12|a grey, large desk|0|-31.104848861694336
+13|a large desk that is grey in color and facing forwards|0|-32.4188232421875
+14|a large grey desk |0|-30.88848114013672
+15|a large, grey desk 1|0|-32.2037467956543
+16|a large grey desk  facing forwards|0|-30.200632095336914
+17|a large grey desk is facing forwards|0|-30.60723876953125
+18|a large grey desk  (1)|0|-31.762819290161133
+19|a large, grey desk  facing forwards|0|-29.505451202392578
+20|a large grey facing forwards desk|0|-30.3675594329834
+21|a large, grey desk |0|-29.92605209350586
+22|a grey, large desk facing forwards|0|-29.542686462402344
+23|a grey facing forwards desk|0|-30.870380401611328
+24|a grey desk|0|-24.183679580688477
+25|a large grey desk in the room|0|-31.37100601196289
+26|a large desk, grey, facing forwards|0|-30.949342727661133
+27|a grey large desk facing forwards|0|-30.252281188964844
+28|a large desk facing forwards|0|-27.286903381347656
+29|a large desk, grey in color, facing forwards|0|-30.64645004272461
+30|a large gray desk facing forwards|0|-30.03927230834961
+31|a desk, grey, large, facing forwards|0|-32.128231048583984
+32|a large|0|-30.881004333496094
+33|a large, grey desk that is facing forwards|0|-31.524972915649414
+34|a large, gray desk facing forwards|0|-31.176677703857422
+35|a big grey desk facing forward|0|-31.15110206604004
+36|a|0|-28.937767028808594
+37|a large, grey desk faces forwards|0|-31.14029884338379
+38|a large, grey desk facing forwards|0|-30.606548309326172
+39|a large desk that is grey in color and is facing forwards|0|-32.716697692871094
+40|a large, grey desk is facing forwards|0|-30.12517738342285
+41|a large desk, grey in colour, facing forwards|0|-30.82688331604004
+42|a large, grey desk is in the room|0|-31.510875701904297
+43|a large, grey desk  (1)|0|-31.295473098754883
+44|a large grey desk facing forwards|0|-30.775196075439453
+45|a grey table|0|-30.268707275390625
+0|a large blue table|1|-11.770254135131836
+1|a large desk that is blue in colour and facing forwards|1|-11.336014747619629
+2|a small, green desk|1|-9.889474868774414
+3|a large, blue table|1|-11.492705345153809
+4|a large desk|1|-8.159015655517578
+5|a large desk with a blue top|1|-11.592605590820312
+6|a large desk with a blue surface|1|-11.42499828338623
+7|a large desk that is blue in color and facing forwards|1|-10.963006019592285
+8|a large desk facing forwards that is blue|1|-11.561455726623535
+9|a long, blue desk|1|-11.425216674804688
+10|a large, blue fan|1|-10.799458503723145
+11|a large desk, blue in colour|1|-11.518925666809082
+12|a  large, blue desk|1|-9.887359619140625
+13|a desk facing forwards|1|-10.802603721618652
+14|a large desk that is blue in color and faces forwards|1|-12.161422729492188
+15|a large desk, blue|1|-11.083745956420898
+16|a large desk that is blue in color, facing forwards|1|-12.084501266479492
+17|a large desk facing forwards that is blue in color|1|-12.036527633666992
+18|a large desk with a blue surface facing forwards|1|-12.09235954284668
+19|a large desk that is blue in colour|1|-11.53500747680664
+20|a large desk, blue in colour, facing forwards|1|-10.133663177490234
+21|a large desk that is blue in colour and is facing forwards|1|-12.341114044189453
+22|a large desk is blue and facing forwards|1|-10.771893501281738
+23|a large desk, blue in color, facing forwards|1|-9.982791900634766
+24|a large desk in the room|1|-10.811588287353516
+25|a large Blue desk|1|-11.7576904296875
+26|a large desk with a blue color|1|-10.908864974975586
+27|a large,|1|-10.563192367553711
+28|a blue table|1|-9.774898529052734
+29|a large desk that is blue and facing forwards|1|-10.184307098388672
+30|a large blue desk|1|-4.504628658294678
+31|a large, blue|1|-10.971333503723145
+32|a large desk, blue in color|1|-11.350940704345703
+33|a desk, blue, facing forwards|1|-11.466760635375977
+34|a large desk facing forwards, painted blue|1|-11.275712966918945
+35|a large desk facing forwards is blue|1|-10.780060768127441
+36|a desk is blue|1|-11.567282676696777
+37|a large desk facing forwards|1|-10.817612648010254
+38|a desk that is blue and facing forwards|1|-11.768165588378906
+39|a large desk facing forwards, colored blue|1|-10.204341888427734
+40|a large desk that is blue and faces forwards|1|-11.972331047058105
+41|a large desk facing forwards and painted blue|1|-11.693221092224121
+42|a large|1|-10.605392456054688
+43|a large desk that is blue|1|-10.902933120727539
+44|a|1|-8.493741989135742
+45|a large desk that is blue in color|1|-11.242292404174805
+46|a large desk facing forwards, blue in color|1|-11.805622100830078
+47|a large desk that is blue in color and is facing forwards|1|-12.114978790283203
+48|a large desk with a blue color facing forwards|1|-11.615095138549805
+49|a large desk facing forwards, blue in colour|1|-11.99364185333252
+50|a large desk, blue, facing forwards|1|-10.793950080871582
+51|a blue, large desk facing forwards|1|-11.180384635925293
+52|a large  blue desk facing forwards|1|-11.385233879089355
+53|a large desk is blue|1|-10.303651809692383
+0|a small, green desk facing to the left|2|-32.268898010253906
+1|a large desk|2|-29.243358612060547
+2|a large red desk is facing backwards|2|-31.357492446899414
+3|a large red desk|2|-27.530118942260742
+4|a large desk with a red color facing backwards|2|-32.12668228149414
+5|a small, green fan facing to the left|2|-32.185367584228516
+6|a  red desk facing backwards|2|-32.29383850097656
+7|a large red desk that is facing backwards|2|-33.0114631652832
+8|a Red desk|2|-31.37269401550293
+9|a large red desk, facing backwards|2|-31.24226188659668
+10|a large, red fan|2|-32.28011703491211
+11|a large desk that is red in colour and facing backwards|2|-32.84418487548828
+12|a large desk that is red in color and facing backwards|2|-32.43192672729492
+13|a large desk with a red color and facing backwards|2|-32.58707046508789
+14|a large desk with a red colour facing backwards|2|-33.040626525878906
+15|a large desk facing backwards|2|-27.86353302001953
+16|a large, red, desk facing backwards|2|-32.49408721923828
+17|a large, red  desk facing backwards|2|-32.57209777832031
+18|a red, large desk|2|-32.18366241455078
+19|a large desk that is red and facing backwards|2|-31.616418838500977
+20|a large red desk facing away|2|-32.38179016113281
+21|a large, red, desk|2|-32.35649490356445
+22|a large desk, red in colour, facing backwards|2|-32.93272018432617
+23|a large red desk facing backward|2|-30.569290161132812
+24|a large,|2|-31.197158813476562
+25|a large, red, backwards-facing desk|2|-32.409934997558594
+26|a large, red fan facing backwards|2|-30.861108779907227
+27|a red table|2|-29.459367752075195
+28|a large desk is red and facing backwards|2|-32.086402893066406
+29|a large desk, red in color, facing backwards|2|-32.742191314697266
+30|a red, large desk facing backwards|2|-31.108949661254883
+31|a backwards-facing red desk|2|-32.054325103759766
+32|a small green desk facing to the left|2|-30.285734176635742
+33|a large desk with a red color|2|-32.476844787597656
+34|a red, desk facing backwards|2|-32.018455505371094
+35|a large|2|-31.414318084716797
+36|a red fan|2|-29.636701583862305
+37|a  large, red desk facing backwards|2|-31.72484588623047
+38|a large red desk |2|-30.405118942260742
+39|a|2|-28.745880126953125
+40|a  red  desk  facing  backwards|2|-32.50534439086914
+41|a large desk with a red surface|2|-32.60145950317383
+42|a red, backwards desk|2|-31.879295349121094
+43|a large desk, facing backwards|2|-32.42133331298828
+44|a large, red, backwards desk|2|-32.37550735473633
+45|a large red desk facing backwards|2|-26.100542068481445
+46|a red facing desk|2|-31.941617965698242
+47|a large desk that is red in color and is facing backwards|2|-33.72613525390625
+0|a small, green table|3|-8.989205360412598
+1|a little green desk|3|-9.038405418395996
+2|a small, green desk|3|-1.8251433372497559
+3|a small, green fan|3|-8.293892860412598
+4|a small desk, green in color, facing to the left|3|-11.691484451293945
+5|a small desk facing the left|3|-10.252938270568848
+6|a large, grey desk|3|-10.251182556152344
+7|a green, small desk|3|-9.974544525146484
+8|a green desk|3|-5.498836040496826
+9|a small desk, facing to the left|3|-10.800960540771484
+10|a small desk to the left|3|-11.23819351196289
+11|a green, small desk facing to the left|3|-9.483840942382812
+12|a large, blue fan facing forwards|3|-10.944063186645508
+13|a small green facing left desk|3|-10.226055145263672
+14|a large, red desk|3|-10.661398887634277
+15|a green small desk facing to the left|3|-11.496354103088379
+16|a small table|3|-9.874092102050781
+17|a small green desk|3|-3.241359233856201
+18|a green small desk|3|-11.047072410583496
+19|a large, blue desk facing forwards|3|-9.03632926940918
+20|a small desk facing left|3|-8.349950790405273
+21|a large grey desk|3|-10.114789962768555
+22|a small green fan|3|-10.423419952392578
+23|a large desk facing forwards|3|-10.645803451538086
+24|a small desk |3|-10.980735778808594
+25|a desk|3|-10.176898002624512
+26|a green small desk facing left|3|-10.662837982177734
+27|a small desk facing to the left, colored green|3|-11.843316078186035
+28|a small desk facing to the left|3|-7.038918495178223
+29|a little green table|3|-10.007155418395996
+30|a small, green, facing-left desk|3|-10.933938026428223
+31|a|3|-8.690367698669434
+32|a  small, green desk facing to the left|3|-11.548009872436523
+33|a small desk|3|-7.6604228019714355
+34|a large, red desk facing backwards|3|-8.945725440979004
+35|a large, grey desk facing forwards|3|-9.767626762390137
+36|a small desk, green, facing left|3|-11.046228408813477
+37|a green, small desk facing left|3|-9.372817039489746
+38|a small,|3|-10.553483963012695
+39|a small|3|-10.929769515991211
+40|a desk facing left|3|-11.098734855651855
+41|a small green table|3|-11.026004791259766
+42|a desk facing to the left|3|-10.071078300476074
+0|a large, blue desk|4|-30.288814544677734
+1|a small, green fan|4|-30.987998962402344
+2|a large, blue fan  facing forwards|4|-29.857479095458984
+3|a large blue fan |4|-29.962636947631836
+4|a large, blue fan in the room|4|-30.91377067565918
+5|a large blue fan facing forwards |4|-30.504837036132812
+6|a large, blue fan is in the room|4|-30.949785232543945
+7|a large blue fan facing forwards in the room|4|-31.43390464782715
+8|a large, blue fan|4|-24.729137420654297
+9|a large blue fan facing forward|4|-30.08220672607422
+10|a large fan|4|-28.713211059570312
+11|a large, blue fan face|4|-30.354137420654297
+12|a large, blue fan  (5)|4|-31.438861846923828
+13|a blue desk facing forwards|4|-31.29082679748535
+14|a large blue fan facing forwards|4|-26.528274536132812
+15|a large, blue fan facing forwards|4|-23.29222869873047
+16|a fan facing forwards|4|-30.82487678527832
+17|a large fan facing forwards|4|-27.903837203979492
+18|a large fan, blue|4|-30.29288673400879
+19|a blue fan|4|-25.940114974975586
+20|a  large, blue fan facing forwards|4|-30.560453414916992
+21|"a large, blue fan"""|4|-29.736949920654297
+22|"a large blue fan facing forwards"""|4|-30.856399536132812
+23|a large, blue fan that is facing forwards|4|-31.1594181060791
+24|a large blue fan|4|-27.095449447631836
+25|a fan|4|-29.19104766845703
+26|a green fan|4|-30.3524112701416
+27|a large blue fan  facing forwards|4|-30.91316032409668
+28|a large, blue fan, facing forwards|4|-37.909332275390625
+29|a large blue fan, facing forwards|4|-30.550138473510742
+30|a large, blue desk facing forwards|4|-29.074464797973633
+31|a large blue fan faces forwards|4|-31.218238830566406
+32|a large, blue fan  |4|-30.986949920654297
+33|a large, blue fan is facing forwards|4|-29.594539642333984
+34|a large, blue fan |4|-27.635387420654297
+35|a large, blue fan faces forwards|4|-29.895931243896484
+36|a|4|-29.934364318847656
+37|a large blue fan is facing forwards|4|-31.144039154052734
+0|"a large, red fan"""|5|-8.788665771484375
+1|a large red desk|5|-9.34577751159668
+2|a large red fan facing backward|5|-9.541418075561523
+3|a red desk facing backwards|5|-9.971458435058594
+4|a small, green fan facing to the left|5|-10.256831169128418
+5|a large, red fan facing backward|5|-8.387848854064941
+6|a large, red fan|5|-3.819915294647217
+7|a large, red fan facing forwards|5|-8.661286354064941
+8|a large red fan |5|-9.662101745605469
+9|a large red fan, facing backwards|5|-10.004852294921875
+10|a large, red fan faces backwards|5|-9.433469772338867
+11|a large, red fan in the room|5|-10.15122127532959
+12|a large fan facing backwards|5|-11.07634449005127
+13|a large fan|5|-8.650492668151855
+14|a red fan facing backward|5|-10.090583801269531
+15|a large red fan|5|-9.724678039550781
+16|a  large, red fan facing backwards|5|-11.923212051391602
+17|a large, red fan  facing backwards|5|-9.377145767211914
+18|a large, red fan that is facing backwards|5|-9.850249290466309
+19|a large, red fan facing to the left|5|-12.612101554870605
+20|a large red fan facing backwards|5|-8.072745323181152
+21|a large, red desk|5|-7.242310523986816
+22|a red desk|5|-9.662043571472168
+23|a fan facing backwards|5|-7.878631591796875
+24|a red fan, facing backwards|5|-9.898250579833984
+25|a large, red fan  |5|-10.015228271484375
+26|a fan|5|-8.908031463623047
+27|a large,|5|-10.211991310119629
+28|a large, red fan, facing backwards|5|-10.591246604919434
+29|a large, red fan facing backwards|5|-1.8409736156463623
+30|a large, red fan facing the opposite direction of the other objects|5|-13.844013214111328
+31|a large, red fan  (6)|5|-10.726716995239258
+32|a large, red fan facing to the right|5|-10.371065139770508
+33|a large, red fan faced backwards|5|-10.037076950073242
+34|a red fan|5|-9.958253860473633
+35|a red fan facing backwards|5|-6.524778366088867
+36|a large, red fan |5|-6.991790771484375
+37|a large, red fan is facing backwards|5|-9.393568992614746
+38|a|5|-8.234254837036133
+39|a large, red fan facing the opposite direction of other objects|5|-14.055290222167969
+40|a large, red fan face backwards|5|-10.795368194580078
+0|a fan facing to the left|6|-30.970117568969727
+1|a small, green fan|6|-22.316131591796875
+2|a small, green desk|6|-30.992778778076172
+3|a small, green desk facing to the left|6|-30.778791427612305
+4|a small fan facing left|6|-30.132862091064453
+5|a large, red fan|6|-31.30790138244629
+6|a small green fan faces to the left|6|-30.866655349731445
+7|a green fan facing to the left|6|-28.72122573852539
+8|a small green fan is facing to the left|6|-30.466344833374023
+9|a green, small desk|6|-30.589630126953125
+10|a large, blue fan|6|-31.176372528076172
+11|a small green fan facing the left|6|-28.446090698242188
+12|a small green fan to the left|6|-28.456228256225586
+13|a small green fan facing left|6|-29.540931701660156
+14|a large, blue fan facing forwards|6|-29.14936065673828
+15|a small fan facing to the left|6|-28.555814743041992
+16|a green desk facing left|6|-30.35137939453125
+17|a green fan facing the left|6|-30.995067596435547
+18|a small green fan facing to the left|6|-28.445241928100586
+19|a small, green desk facing the left|6|-31.1456356048584
+20|a small green fan  facing to the left|6|-30.83206558227539
+21|a fan|6|-31.06006622314453
+22|a green fan to the left|6|-30.092378616333008
+23|a small green desk facing the left|6|-31.0328426361084
+24|a small green desk|6|-31.31228256225586
+25|a large, red fan facing backwards|6|-28.99502944946289
+26|a small green fan on the left side|6|-32.56106948852539
+27|a large, blue desk facing forwards|6|-30.222339630126953
+28|a small green fan|6|-29.187118530273438
+29|a small green desk facing to the left|6|-32.23374557495117
+30|a small green fan, facing left|6|-31.17544174194336
+31|a small green fan on the left side of the room|6|-32.30516052246094
+32|a green, small fan facing to the left|6|-30.78548240661621
+33|a green desk facing to the left|6|-29.886188507080078
+34|"a small green fan"""|6|-31.062118530273438
+35|a small green fan, facing to the left|6|-32.848426818847656
+36|a small, green desk |6|-31.227153778076172
+37|a small fan|6|-30.431182861328125
+38|a|6|-28.98311424255371
+39|a  small, green fan facing to the left|6|-30.960044860839844
+40|a large, red desk facing backwards|6|-31.081289291381836
+41|a small green fan |6|-29.233993530273438
+42|a green fan on the left|6|-30.77566146850586
+43|a small green fan faces left|6|-30.328819274902344
+44|a small,|6|-31.13479995727539
+45|a green, small fan facing left|6|-31.065799713134766

@@ -1,0 +1,328 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,"a small, blue thing facing forwards",0,0,0,0,0,0,0
+1,"a chair, blue, large, facing left",1,0,0,0,0,0,0
+2,a blue thing,1,1,0,0,1,0,0
+3,"a large, green chair facing backwards",0,0,0,0,0,0,0
+4,a small gray fan facing forwards,0,0,0,0,0,0,1
+5,"a small, blue fan",0,0,0,0,0,0,0
+6,"a large, blue, facing-left chair",1,0,0,0,0,0,0
+7,"a grey, small chair facing forwards",0,0,0,1,0,0,0
+8,"a large blue chair, facing backwards",0,1,0,0,0,0,0
+9,"a small, blue thing",0,0,0,0,0,0,0
+10,"a large, blue thing",1,1,0,0,1,0,0
+11,"a small, blue fan facing forwards",0,0,0,0,0,0,0
+12,"a blue chair facing left, large",1,0,0,0,0,0,0
+13,a large blue fan facing to the left,0,0,0,0,0,0,0
+14,"a large chair, blue, facing left",1,0,0,0,0,0,0
+15,"a small, grey chair facing the front",0,0,0,1,0,0,0
+16,a large blue chair facing backwards in the room,0,1,0,0,0,0,0
+17,a chair that is green and facing left,0,0,1,0,0,0,0
+18,"a small, gray chair facing forward",0,0,0,1,0,0,0
+19,"a large, blue fan facing to the left",0,0,0,0,0,0,0
+20,a blue chair facing leftwards,1,0,0,0,0,0,0
+21,a grey fan facing forward,0,0,0,0,0,0,1
+22,"a small, gray chair facing forwards",0,0,0,1,0,0,0
+23,a green facing left chair,0,0,1,0,0,0,0
+24,a fan,0,0,0,0,1,1,1
+25,a grey thing,0,0,0,1,0,0,1
+26,"a large, grey thing",0,0,0,0,0,0,0
+27,a large chair facing left,1,0,1,0,0,0,0
+28,a large blue fan ,0,0,0,0,1,0,0
+29,"a small, grey thing",0,0,0,1,0,0,1
+30,a large chair that is green and facing to the left,0,0,1,0,0,0,0
+31,a blue chair facing left,1,0,0,0,0,0,0
+32,a grey fan facing backwards,0,0,0,0,0,0,0
+33,"a small, grey chair""",0,0,0,1,0,0,0
+34,"a large, blue chair facing upwards",0,0,0,0,0,0,0
+35,a grey fan,0,0,0,0,0,0,1
+36,a blue fan facing backwards,0,0,0,0,1,0,0
+37,a large blue facing left chair,1,0,0,0,0,0,0
+38,"a large, blue chair facing the opposite direction of the others",0,1,0,0,0,0,0
+39,a small grey fan ,0,0,0,0,0,0,1
+40,"a large, blue chair with its back to us",0,1,0,0,0,0,0
+41,"a large, green fan 6",0,0,0,0,0,1,0
+42,a large blue fan,0,0,0,0,1,0,0
+43,"a small, grey chair  (4)",0,0,0,1,0,0,0
+44,"a small, grey, facing forwards chair",0,0,0,1,0,0,0
+45,"a blue chair, facing left",1,0,0,0,0,0,0
+46,"a large chair facing to the left, colored green",0,0,0,0,0,0,0
+47,"a large, blue chair facing to the left",1,0,0,0,0,0,0
+48,a fan facing left,0,0,0,0,0,1,0
+49,a grey thing facing backwards,0,0,0,0,0,0,0
+50,a large thing facing to the left,1,0,1,0,0,1,0
+51,"a large, blue fan  (5)",0,0,0,0,1,0,0
+52,"a large, green chair ",0,0,1,0,0,0,0
+53,"a fan, green",0,0,0,0,0,1,0
+54,a large blue fan backwards,0,0,0,0,1,0,0
+55,a green fan,0,0,0,0,0,1,0
+56,"a chair that is large, green, and facing to the left",0,0,1,0,0,0,0
+57,"a large, blue fan""",0,0,0,0,1,0,0
+58,a small grey fan facing forward,0,0,0,0,0,0,1
+59,"a small, grey chair faced forwards",0,0,0,1,0,0,0
+60,"a small, grey fan ",0,0,0,0,0,0,1
+61,"a large, green fan to the left",0,0,0,0,0,1,0
+62,a large green fan facing the left,0,0,0,0,0,1,0
+63,a green fan that is facing to the left,0,0,0,0,0,1,0
+64,"a large chair, blue in color, facing to the left",1,0,0,0,0,0,0
+65,"a small, grey chair, facing forwards",0,0,0,1,0,0,0
+66,"a chair, green, large, facing left",0,0,1,0,0,0,0
+67,"a green fan, facing to the left",0,0,0,0,0,1,0
+68,a large chair facing to the left,1,0,1,0,0,0,0
+69,"a small, grey chair ",0,0,0,1,0,0,0
+70,a small grey fan  facing forwards,0,0,0,0,0,0,1
+71,a grey thing facing forwards,0,0,0,1,0,0,1
+72,"a chair that is large, blue, and facing to the left",1,0,0,0,0,0,0
+73,"a large, green fan faces to the left",0,0,0,0,0,1,0
+74,"a grey, small chair",0,0,0,1,0,0,0
+75,"a small, grey chair  facing forwards",0,0,0,1,0,0,0
+76,"a large green fan, facing to the left",0,0,0,0,0,1,0
+77,a small gray chair facing forwards,0,0,0,1,0,0,0
+78,a blue chair,1,1,0,0,0,0,0
+79,a small grey fan facing forwards,0,0,0,0,0,0,1
+80,a green thing facing to the left,0,0,1,0,0,1,0
+81,"a small, grey fan  facing forwards",0,0,0,0,0,0,1
+82,"a large chair, green in color, facing to the left",0,0,1,0,0,0,0
+83,"a large, green fan facing backwards",0,0,0,0,0,0,0
+84,a blue chair ,1,1,0,0,0,0,0
+85,"a small, grey thing facing forwards",0,0,0,1,0,0,1
+86,"a large, blue fan, facing backwards",0,0,0,0,1,0,0
+87,"a large, blue fan faces backwards",0,0,0,0,1,0,0
+88,"a small, grey fan facing forward",0,0,0,0,0,0,1
+89,a blue chair in the room,1,1,0,0,0,0,0
+90,a large green fan to the left,0,0,0,0,0,1,0
+91,"a large, blue fan-facing backwards",0,0,0,0,1,0,0
+92,"a large, blue thing facing backwards",0,1,0,0,1,0,0
+93,a large green chair ,0,0,1,0,0,0,0
+94,"a large, green chair facing to the left,",0,0,1,0,0,0,0
+95,a blue fan facing to the left,0,0,0,0,0,0,0
+96,a large blue fan is facing backwards,0,0,0,0,1,0,0
+97,a blue chair is facing to the left,1,0,0,0,0,0,0
+98,"a small, grey chair in the room",0,0,0,1,0,0,0
+99,"a large, green thing",0,0,1,0,0,1,0
+100,a small grey fan facing to the front,0,0,0,0,0,0,1
+101,"a small grey fan, facing forwards",0,0,0,0,0,0,1
+102,a small grey chair,0,0,0,1,0,0,0
+103,a small thing,0,0,0,1,0,0,1
+104,a large blue chair is facing backwards,0,1,0,0,0,0,0
+105,"a  large, green chair facing to the left",0,0,1,0,0,0,0
+106,"a large, grey thing facing to the left",0,0,0,0,0,0,0
+107,"a small, grey chair that faces forwards",0,0,0,1,0,0,0
+108,"a large, green chair is facing to the left",0,0,1,0,0,0,0
+109,"a large, green thing facing to the left",0,0,1,0,0,1,0
+110,a big blue chair facing left,1,0,0,0,0,0,0
+111,"a large, green chair""",0,0,1,0,0,0,0
+112,a backwards-facing blue chair,0,1,0,0,0,0,0
+113,"a large, green chair",0,0,1,0,0,0,0
+114,a thing facing backwards,0,1,0,0,1,0,0
+115,"a small, grey chair face forwards",0,0,0,1,0,0,0
+116,a green chair,0,0,1,0,0,0,0
+117,"a chair, large, blue, facing left",1,0,0,0,0,0,0
+118,"a large, blue fan facing  backwards",0,0,0,0,1,0,0
+119,"a large, blue chair facing the wall",0,1,0,0,0,0,0
+120,"a large, blue fan facing forwards",0,0,0,0,0,0,0
+121,"a small, green fan",0,0,0,0,0,0,0
+122,a large fan facing backwards,0,0,0,0,1,0,0
+123,a blue chair facing left ,1,0,0,0,0,0,0
+124,a large green chair facing the left,0,0,1,0,0,0,0
+125,"a large, blue fan that is facing backwards",0,0,0,0,1,0,0
+126,a blue chair facing the left,1,0,0,0,0,0,0
+127,a grey fan facing to the left,0,0,0,0,0,0,0
+128,"a small, grey chair-facing forwards",0,0,0,1,0,0,0
+129,a green fan facing backwards,0,0,0,0,0,0,0
+130,"a small, grey fan",0,0,0,0,0,0,1
+131,a large green chair facing to the left,0,0,1,0,0,0,0
+132,"a small,",0,0,0,0,0,0,0
+133,a large green chair facing left,0,0,1,0,0,0,0
+134,"a small, green fan facing forwards",0,0,0,0,0,0,0
+135,"a large, blue fan ",0,0,0,0,1,0,0
+136,a large chair that is blue and facing to the left,1,0,0,0,0,0,0
+137,"a large, green fan facing left",0,0,0,0,0,1,0
+138,a large blue chair,1,1,0,0,0,0,0
+139,"a large, green chair, facing left",0,0,1,0,0,0,0
+140,"a large, green fan that is facing to the left",0,0,0,0,0,1,0
+141,a green thing facing forwards,0,0,0,0,0,0,0
+142,"a grey, small fan facing forwards",0,0,0,0,0,0,1
+143,a chair that is facing backwards,0,1,0,0,0,0,0
+144,"a large, grey chair",0,0,0,0,0,0,0
+145,a chair facing backwards,0,1,0,0,0,0,0
+146,a green fan facing to the left,0,0,0,0,0,1,0
+147,"a small, green thing facing forwards",0,0,0,0,0,0,0
+148,"a small, green chair",0,0,0,0,0,0,0
+149,a green fan facing the left,0,0,0,0,0,1,0
+150,"a small, grey fan that is facing forwards",0,0,0,0,0,0,1
+151,"a small, grey fan faces forwards",0,0,0,0,0,0,1
+152,a small-grey-chair-facing-forwards,0,0,0,1,0,0,0
+153,a large fan facing to the left,0,0,0,0,0,1,0
+154,a green fan on the left,0,0,0,0,0,1,0
+155,"a large, green fan in the room",0,0,0,0,0,1,0
+156,"a large, green fan facing to the left",0,0,0,0,0,1,0
+157,"a green fan, facing left",0,0,0,0,0,1,0
+158,a thing facing to the left,1,0,1,0,0,1,0
+159,"a blue chair facing left""",1,0,0,0,0,0,0
+160,"a small, green thing",0,0,0,0,0,0,0
+161,a,0,0,0,0,0,0,0
+162,a grey chair facing forwards,0,0,0,1,0,0,0
+163,"a large, blue fan facing backward",0,0,0,0,1,0,0
+164,"a small, grey chair that is facing forwards",0,0,0,1,0,0,0
+165,a blue chair is facing left,1,0,0,0,0,0,0
+166,a chair,1,1,1,1,0,0,0
+167,a large blue fan facing backward,0,0,0,0,1,0,0
+168,a blue chair facing forwards,0,0,0,0,0,0,0
+169,"a blue, large chair facing left",1,0,0,0,0,0,0
+170,"a small, blue chair",0,0,0,0,0,0,0
+171,a green fan faces left,0,0,0,0,0,1,0
+172,"a large, grey fan facing backwards",0,0,0,0,0,0,0
+173,"a large chair, blue in color, facing left",1,0,0,0,0,0,0
+174,a large green fan,0,0,0,0,0,1,0
+175,"a small, grey fan is facing forwards",0,0,0,0,0,0,1
+176,"a small, grey chair is in the room",0,0,0,1,0,0,0
+177,"a large, green chair facing the left",0,0,1,0,0,0,0
+178,a grey chair is facing forwards,0,0,0,1,0,0,0
+179,a small chair,0,0,0,1,0,0,0
+180,"a  large, green fan facing to the left",0,0,0,0,0,1,0
+181,a small grey chair facing forwards,0,0,0,1,0,0,0
+182,a small grey fan is facing forwards,0,0,0,0,0,0,1
+183,"a small, grey chair is facing forwards",0,0,0,1,0,0,0
+184,a green fan ,0,0,0,0,0,1,0
+185,a grey fan is facing forwards,0,0,0,0,0,0,1
+186,"a large, blue fan 5",0,0,0,0,1,0,0
+187,a blue large chair facing left,1,0,0,0,0,0,0
+188,"a large, grey chair facing to the left",0,0,0,0,0,0,0
+189,a blue facing-left chair,1,0,0,0,0,0,0
+190,a blue chair 1,1,1,0,0,0,0,0
+191,a grey chair ,0,0,0,1,0,0,0
+192,a large chair,1,1,1,0,0,0,0
+193,"a large, blue chair",1,1,0,0,0,0,0
+194,"a large, green fan (6) facing to the left",0,0,0,0,0,1,0
+195,a blue thing facing backwards,0,1,0,0,1,0,0
+196,"a large, green chair that is facing to the left",0,0,1,0,0,0,0
+197,a small fan,0,0,0,0,0,0,1
+198,"a chair, blue, large, facing backwards",0,1,0,0,0,0,0
+199,"a small, grey chair",0,0,0,1,0,0,0
+200,"a large, green thing facing backwards",0,0,0,0,0,0,0
+201,"a large, blue chair with its back to the viewer",0,1,0,0,0,0,0
+202,a blue fan,0,0,0,0,1,0,0
+203,a thing facing forwards,0,0,0,1,0,0,1
+204,a blue facing left chair,1,0,0,0,0,0,0
+205,"a large green chair, facing to the left",0,0,1,0,0,0,0
+206,a grey chair,0,0,0,1,0,0,0
+207,a green thing,0,0,1,0,0,1,0
+208,a green fan facing forwards,0,0,0,0,0,0,0
+209,"a large, green fan, facing to the left",0,0,0,0,0,1,0
+210,a small grey fan,0,0,0,0,0,0,1
+211,"a large, green fan, facing left",0,0,0,0,0,1,0
+212,"a large, blue chair with its back facing the viewer",0,1,0,0,0,0,0
+213,"a chair, blue, large, facing, left",1,0,0,0,0,0,0
+214,a backwards blue chair,0,1,0,0,0,0,0
+215,"a large, blue chair  facing backwards",0,1,0,0,0,0,0
+216,a little grey chair,0,0,0,1,0,0,0
+217,"a large, blue thing facing to the left",1,0,0,0,0,0,0
+218,a blue chair facing to the left,1,0,0,0,0,0,0
+219,"a large, blue fan is in the room",0,0,0,0,1,0,0
+220,"a large chair, green, facing left",0,0,1,0,0,0,0
+221,a blue fan facing forwards,0,0,0,0,0,0,0
+222,"a large, green fan facing the left",0,0,0,0,0,1,0
+223,"a  small, grey chair",0,0,0,1,0,0,0
+224,a big green chair facing left,0,0,1,0,0,0,0
+225,a large fan,0,0,0,0,1,1,0
+226,a grey small chair facing forwards,0,0,0,1,0,0,0
+227,"a large, blue chair facing to the right",0,0,0,0,0,0,0
+228,"a large, blue chair, facing backwards",0,1,0,0,0,0,0
+229,"a large, blue chair that is facing backwards",0,1,0,0,0,0,0
+230,a fan facing backwards,0,0,0,0,1,0,0
+231,"a large, grey fan",0,0,0,0,0,0,0
+232,"a blue chair facing left, large in size",1,0,0,0,0,0,0
+233,a large blue chair facing backwards,0,1,0,0,0,0,0
+234,"a large, green fan  (6)",0,0,0,0,0,1,0
+235,"a large, green fan is facing to the left",0,0,0,0,0,1,0
+236,"a large, blue chair ",1,1,0,0,0,0,0
+237,a chair facing forwards,0,0,0,1,0,0,0
+238,a grey chair facing backwards,0,0,0,0,0,0,0
+239,"a large,",0,0,0,0,0,0,0
+240,a large green chair is facing to the left,0,0,1,0,0,0,0
+241,a large chair facing backwards,0,1,0,0,0,0,0
+242,"a large, grey chair facing backwards",0,0,0,0,0,0,0
+243,a blue chair to the left,1,0,0,0,0,0,0
+244,a green chair facing backwards,0,0,0,0,0,0,0
+245,"a small, grey chair  ",0,0,0,1,0,0,0
+246,a blue chair facing left in the room,1,0,0,0,0,0,0
+247,"a small, grey chair faces forwards",0,0,0,1,0,0,0
+248,a large blue chair facing to the left,1,0,0,0,0,0,0
+249,"a large, blue chair facing the left",1,0,0,0,0,0,0
+250,"a large, blue fan backwards",0,0,0,0,1,0,0
+251,a small chair facing forwards,0,0,0,1,0,0,0
+252,"a large, green chair facing to the left""",0,0,1,0,0,0,0
+253,a chair facing left,1,0,1,0,0,0,0
+254,a small grey fan facing to the left,0,0,0,0,0,0,0
+255,a blue chair facing left in a room,1,0,0,0,0,0,0
+256,a thing,1,1,1,1,1,1,1
+257,"a large, blue chair facing  backwards",0,1,0,0,0,0,0
+258,a large thing,1,1,1,0,1,1,0
+259,a large blue fan facing backwards,0,0,0,0,1,0,0
+260,"a small, grey fan in the room",0,0,0,0,0,0,1
+261,"a small, grey fan, facing forwards",0,0,0,0,0,0,1
+262,a grey chair facing to the left,0,0,0,0,0,0,0
+263,"a small, grey fan facing forwards",0,0,0,0,0,0,1
+264,a green thing facing backwards,0,0,0,0,0,0,0
+265,"a small, green chair facing forwards",0,0,0,0,0,0,0
+266,a large,0,0,0,0,0,0,0
+267,"a large, green fan on the left",0,0,0,0,0,1,0
+268,"a large, blue fan facing to the right",0,0,0,0,0,0,0
+269,a blue thing facing forwards,0,0,0,0,0,0,0
+270,"a large, blue chair facing backwards",0,1,0,0,0,0,0
+271,"a large, blue, chair, facing, left",1,0,0,0,0,0,0
+272,"a small, grey, chair facing forwards",0,0,0,1,0,0,0
+273,"a  large, blue fan facing backwards",0,0,0,0,1,0,0
+274,a green fan turned to the left,0,0,0,0,0,1,0
+275,a green chair facing forwards,0,0,0,0,0,0,0
+276,a small gray chair facing forward,0,0,0,1,0,0,0
+277,"a large, green chair (3)",0,0,1,0,0,0,0
+278,"a large, green chair in the room",0,0,1,0,0,0,0
+279,"a small, grey chair facing forwards",0,0,0,1,0,0,0
+280,"a large, blue chair facing downwards",1,1,0,0,0,0,0
+281,a blue chair facing backwards,0,1,0,0,0,0,0
+282,"a small, grey chair facing forward",0,0,0,1,0,0,0
+283,"a large, blue chair facing the opposite direction of the other chairs",0,1,0,0,0,0,0
+284,a grey fan facing forwards,0,0,0,0,0,0,1
+285,a blue thing facing to the left,1,0,0,0,0,0,0
+286,"a large, blue chair is facing backwards",0,1,0,0,0,0,0
+287,"a blue chair, facing to the left",1,0,0,0,0,0,0
+288,"a large, green chair facing to the left",0,0,1,0,0,0,0
+289,a large thing facing backwards,0,1,0,0,1,0,0
+290,a green fan is facing to the left,0,0,0,0,0,1,0
+291,"a large, grey thing facing backwards",0,0,0,0,0,0,0
+292,"a large, green chair facing to the right",0,0,0,0,0,0,0
+293,"a large, blue chair facing backward",0,1,0,0,0,0,0
+294,"a large, green fan  facing to the left",0,0,0,0,0,1,0
+295,"a large, blue chair facing forwards",0,0,0,0,0,0,0
+296,a large green fan facing to the left,0,0,0,0,0,1,0
+297,"a large, green chair facing to the left ",0,0,1,0,0,0,0
+298,"a large, grey fan facing to the left",0,0,0,0,0,0,0
+299,a large blue chair facing backwards ,0,1,0,0,0,0,0
+300,"a large, blue fan in the room",0,0,0,0,1,0,0
+301,"a large green chair, facing left",0,0,1,0,0,0,0
+302,"a large, blue fan",0,0,0,0,1,0,0
+303,a small fan facing forwards,0,0,0,0,0,0,1
+304,"a large, blue fan  ",0,0,0,0,1,0,0
+305,a blue chair facing backward,0,1,0,0,0,0,0
+306,"a large blue fan, facing backwards",0,0,0,0,1,0,0
+307,"a small, grey fan""",0,0,0,0,0,0,1
+308,"a large, blue fan  facing backwards",0,0,0,0,1,0,0
+309,a large fan facing left,0,0,0,0,0,1,0
+310,a large blue chair facing backward,0,1,0,0,0,0,0
+311,"a large, blue fan is facing backwards",0,0,0,0,1,0,0
+312,a large green chair,0,0,1,0,0,0,0
+313,a green fan to the left,0,0,0,0,0,1,0
+314,a fan facing to the left,0,0,0,0,0,1,0
+315,"a large, green fan",0,0,0,0,0,1,0
+316,a green chair facing to the left,0,0,1,0,0,0,0
+317,a grey thing facing to the left,0,0,0,0,0,0,0
+318,"a large, green chair, facing to the left",0,0,1,0,0,0,0
+319,"a chair, green, facing left",0,0,1,0,0,0,0
+320,a chair facing to the left,1,0,1,0,0,0,0
+321,"a large, blue fan facing backwards",0,0,0,0,1,0,0
+322,"a small, blue chair facing forwards",0,0,0,0,0,0,0
+323,"a  large, blue chair facing backwards",0,1,0,0,0,0,0
+324,a fan facing forwards,0,0,0,0,0,0,1
+325,a small thing facing forwards,0,0,0,1,0,0,1
+326,a chair that is green and facing to the left,0,0,1,0,0,0,0

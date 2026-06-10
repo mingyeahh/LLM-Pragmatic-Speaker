@@ -1,0 +1,352 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,"a small, green desk  facing to the left",0,0,0,1,0,0,0
+1,"a large fan, facing forwards",0,0,0,0,1,0,0
+2,a small green fan,0,0,0,0,0,0,1
+3,a red desk facing to the left,0,0,0,0,0,0,0
+4,"a large, red thing facing backwards",0,0,1,0,0,1,0
+5,"a small, green fan facing left",0,0,0,0,0,0,1
+6,"a small, red fan",0,0,0,0,0,0,0
+7,a large desk with a blue color facing forwards,0,1,0,0,0,0,0
+8,"a small, blue thing facing to the left",0,0,0,0,0,0,0
+9,a large desk that is blue in color,0,1,0,0,0,0,0
+10,a blue thing,0,1,0,0,1,0,0
+11,"a large, red desk that is facing backwards",0,0,1,0,0,0,0
+12,"a small green desk, facing left",0,0,0,1,0,0,0
+13,"a small, green desk face to the left",0,0,0,1,0,0,0
+14,a desk facing forwards,1,1,0,0,0,0,0
+15,"a small, blue fan",0,0,0,0,0,0,0
+16,a red fan,0,0,0,0,0,1,0
+17,a large desk facing forwards is blue,0,1,0,0,0,0,0
+18,"a small, green desk facing left",0,0,0,1,0,0,0
+19,"a small, blue thing",0,0,0,0,0,0,0
+20,a blue desk is facing forwards,0,1,0,0,0,0,0
+21,"a large, blue thing",0,1,0,0,1,0,0
+22,"a large, red fan facing forwards",0,0,0,0,0,0,0
+23,a small green fan on the left,0,0,0,0,0,0,1
+24,"a large, grey desk is facing forwards",1,0,0,0,0,0,0
+25,"a large, blue desk facing backwards",0,0,0,0,0,0,0
+26,a large desk with a blue color,0,1,0,0,0,0,0
+27,"a large, red fan faces backwards",0,0,0,0,0,1,0
+28,a large desk that is blue in color and facing forwards,0,1,0,0,0,0,0
+29,"a red desk, facing backwards",0,0,1,0,0,0,0
+30,a large red desk,0,0,1,0,0,0,0
+31,"a small, green desk to the left",0,0,0,1,0,0,0
+32,a large desk that is grey in color and is facing forwards,1,0,0,0,0,0,0
+33,a large desk that is blue in colour,0,1,0,0,0,0,0
+34,"a small, red desk facing to the left",0,0,0,0,0,0,0
+35,a small green fan to the left,0,0,0,0,0,0,1
+36,a blue desk facing forward,0,1,0,0,0,0,0
+37,a green desk facing to the left,0,0,0,1,0,0,0
+38,a fan,0,0,0,0,1,1,1
+39,a grey large desk facing forwards,1,0,0,0,0,0,0
+40,a grey thing,1,0,0,0,0,0,0
+41,"a large, grey thing",1,0,0,0,0,0,0
+42,"a large, red desk facing forwards",0,0,0,0,0,0,0
+43,a small green desk,0,0,0,1,0,0,0
+44,"a large, red desk  (3)",0,0,1,0,0,0,0
+45,"a large, grey desk  ",1,0,0,0,0,0,0
+46,"a small, blue desk",0,0,0,0,0,0,0
+47,a small green desk to the left,0,0,0,1,0,0,0
+48,a red desk facing the opposite direction of the other desks,0,0,1,0,0,0,0
+49,"a blue, large fan facing forwards",0,0,0,0,1,0,0
+50,a large blue desk facing forwards,0,1,0,0,0,0,0
+51,"a small, grey thing",0,0,0,0,0,0,0
+52,"a small, green desk faced to the left",0,0,0,1,0,0,0
+53,"a large, red fan facing to the left",0,0,0,0,0,0,0
+54,a grey fan facing backwards,0,0,0,0,0,0,0
+55,"a large, red desk  facing backwards",0,0,1,0,0,0,0
+56,"a large, red fan ",0,0,0,0,0,1,0
+57,a grey fan,0,0,0,0,0,0,0
+58,a blue fan facing backwards,0,0,0,0,0,0,0
+59,"a large desk, grey in colour, facing forwards",1,0,0,0,0,0,0
+60,a small fan facing to the left,0,0,0,0,0,0,1
+61,a large blue fan,0,0,0,0,1,0,0
+62,"a large, red desk is facing backwards",0,0,1,0,0,0,0
+63,a grey thing facing backwards,0,0,0,0,0,0,0
+64,a small desk facing to the left,0,0,0,1,0,0,0
+65,a small desk,0,0,0,1,0,0,0
+66,"a large, grey desk is in the room",1,0,0,0,0,0,0
+67,"a large, red desk",0,0,1,0,0,0,0
+68,"a large, blue fan  (5)",0,0,0,0,1,0,0
+69,a green fan,0,0,0,0,0,0,1
+70,"a large, blue fan""",0,0,0,0,1,0,0
+71,a grey desk facing backwards,0,0,0,0,0,0,0
+72,"a small, green desk  ",0,0,0,1,0,0,0
+73,"a large desk, blue in colour, facing forwards",0,1,0,0,0,0,0
+74,"a red desk""",0,0,1,0,0,0,0
+75,a small green fan ,0,0,0,0,0,0,1
+76,"a large fan, blue in color, facing forwards",0,0,0,0,1,0,0
+77,"a large, blue desk",0,1,0,0,0,0,0
+78,"a large, grey desk in the room",1,0,0,0,0,0,0
+79,a red thing,0,0,1,0,0,1,0
+80,"a large, red desk with its back facing us",0,0,1,0,0,0,0
+81,"a large, red fan facing to the right",0,0,0,0,0,0,0
+82,"a large, red fan  facing backwards",0,0,0,0,0,1,0
+83,a grey thing facing forwards,1,0,0,0,0,0,0
+84,a  blue  desk,0,1,0,0,0,0,0
+85,a small green desk ,0,0,0,1,0,0,0
+86,"a large, green desk facing forwards",0,0,0,0,0,0,0
+87,"a large desk, blue in color",0,1,0,0,0,0,0
+88,"a small, green fan facing the left",0,0,0,0,0,0,1
+89,a green fan facing left,0,0,0,0,0,0,1
+90,a large red fan,0,0,0,0,0,1,0
+91,"a large desk facing forwards, colored blue",0,0,0,0,0,0,0
+92,"a large, red desk facing the opposite direction of the others",0,0,1,0,0,0,0
+93,a green thing facing to the left,0,0,0,1,0,0,1
+94,"a large, green fan facing backwards",0,0,0,0,0,0,0
+95,"a large, red fan facing backward",0,0,0,0,0,1,0
+96,"a large, blue desk facing forwards",0,1,0,0,0,0,0
+97,a large desk in the room,1,1,1,0,0,0,0
+98,a desk facing backwards,0,0,1,0,0,0,0
+99,"a small, green desk faces to the left",0,0,0,1,0,0,0
+100,"a small, blue desk facing to the left",0,0,0,0,0,0,0
+101,"a large, blue fan faces forwards",0,0,0,0,1,0,0
+102,a red desk in the room,0,0,1,0,0,0,0
+103,"a large desk, grey in color, facing forwards",1,0,0,0,0,0,0
+104,"a large, blue thing facing backwards",0,0,0,0,0,0,0
+105,"a large, blue fan-facing forwards",0,0,0,0,1,0,0
+106,a blue fan facing to the left,0,0,0,0,0,0,0
+107,"a large, grey desk ",1,0,0,0,0,0,0
+108,"a large, green thing",0,0,0,0,0,0,0
+109,a large desk,1,1,1,0,0,0,0
+110,"a large, green fan facing forwards",0,0,0,0,0,0,0
+111,a small thing,0,0,0,1,0,0,1
+112,"a large, red desk faces backwards",0,0,1,0,0,0,0
+113,a large blue desk,0,1,0,0,0,0,0
+114,"a green, small fan facing to the left",0,0,0,0,0,0,1
+115,"a large, grey fan facing forwards",0,0,0,0,0,0,0
+116,"a large desk, blue in color, facing forwards",0,1,0,0,0,0,0
+117,a desk,1,1,1,1,0,0,0
+118,a large desk that is blue in colour and facing forwards,0,1,0,0,0,0,0
+119,"a large, red fan faced backwards",0,0,0,0,0,1,0
+120,a thing facing backwards,0,0,1,0,0,1,0
+121,"a large, blue fan is facing forwards",0,0,0,0,1,0,0
+122,"a blue desk, facing forwards",0,1,0,0,0,0,0
+123,a blue desk faces forwards,0,1,0,0,0,0,0
+124,a large desk that is blue,0,1,0,0,0,0,0
+125,"a large, blue fan that is facing forwards",0,0,0,0,1,0,0
+126,"a small, grey desk facing to the left",0,0,0,0,0,0,0
+127,a small fan facing left,0,0,0,0,0,0,1
+128,a small green fan facing to the left,0,0,0,0,0,0,1
+129,a grey desk in a room,1,0,0,0,0,0,0
+130,"a large, grey desk, facing forwards",1,0,0,0,0,0,0
+131,"a large, blue fan facing forwards",0,0,0,0,1,0,0
+132,"a small, green fan",0,0,0,0,0,0,1
+133,"a green, small desk",0,0,0,1,0,0,0
+134,a large fan facing backwards,0,0,0,0,0,1,0
+135,"a large, red fan that is facing backwards",0,0,0,0,0,1,0
+136,"a large, blue thing facing forwards",0,1,0,0,1,0,0
+137,a large desk that is blue and facing forwards,0,1,0,0,0,0,0
+138,a red desk,0,0,1,0,0,0,0
+139,"a large, grey desk facing forwards",1,0,0,0,0,0,0
+140,a grey fan facing to the left,0,0,0,0,0,0,0
+141,a red thing facing backwards,0,0,1,0,0,1,0
+142,"a small, blue fan facing to the left",0,0,0,0,0,0,0
+143,a green fan facing backwards,0,0,0,0,0,0,0
+144,"a small, grey fan",0,0,0,0,0,0,0
+145,a blue desk facing backwards,0,0,0,0,0,0,0
+146,"a large, grey desk  facing forwards",1,0,0,0,0,0,0
+147,a large desk facing forwards that is blue in color,0,1,0,0,0,0,0
+148,a small green fan faces left,0,0,0,0,0,0,1
+149,a blue desk in the room,0,1,0,0,0,0,0
+150,a red thing facing to the left,0,0,0,0,0,0,0
+151,"a large, blue fan ",0,0,0,0,1,0,0
+152,"a large, blue fan is facing forwards in the room",0,0,0,0,1,0,0
+153,a grey desk is facing forwards,1,0,0,0,0,0,0
+154,"a small, grey desk",0,0,0,0,0,0,0
+155,a green thing facing forwards,0,0,0,0,0,0,0
+156,"a small, green fan, facing to the left",0,0,0,0,0,0,1
+157,"a large, blue table",0,1,0,0,0,0,0
+158,"a  large, red fan facing backwards",0,0,0,0,0,1,0
+159,a large desk that is red in color and facing backwards,0,0,1,0,0,0,0
+160,a green fan facing to the left,0,0,0,0,0,0,1
+161,a red fan is facing backwards,0,0,0,0,0,1,0
+162,a thing facing to the left,0,0,0,1,0,0,1
+163,a large desk that is grey in color and facing forwards,1,0,0,0,0,0,0
+164,a green fan on the left,0,0,0,0,0,0,1
+165,"a large, red fan 6",0,0,0,0,0,1,0
+166,a small green facing left desk,0,0,0,1,0,0,0
+167,"a small, green thing",0,0,0,1,0,0,1
+168,a,0,0,0,0,0,0,0
+169,"a small, green fan on the left",0,0,0,0,0,0,1
+170,"a small, red thing facing to the left",0,0,0,0,0,0,0
+171,"a  large, blue fan facing forwards",0,0,0,0,1,0,0
+172,a large desk facing backwards,0,0,1,0,0,0,0
+173,"a large, blue fan  facing forwards",0,0,0,0,1,0,0
+174,"a large, red desk face backwards",0,0,1,0,0,0,0
+175,a large desk is blue,0,1,0,0,0,0,0
+176,"a red, large desk facing backwards",0,0,1,0,0,0,0
+177,"a large, blue fan (5)",0,0,0,0,1,0,0
+178,a blue desk,0,1,0,0,0,0,0
+179,a small green fan facing the left,0,0,0,0,0,0,1
+180,"a small, green thing facing to the left",0,0,0,1,0,0,1
+181,"a large, grey desk faces forwards",1,0,0,0,0,0,0
+182,a red fan facing forwards,0,0,0,0,0,0,0
+183,"a large, grey fan facing backwards",0,0,0,0,0,0,0
+184,a small green desk facing to the left,0,0,0,1,0,0,0
+185,a small green fan facing left,0,0,0,0,0,0,1
+186,"a large, red fan in the room",0,0,0,0,0,1,0
+187,"a small, green fan that is facing to the left",0,0,0,0,0,0,1
+188,"a small, green fan facing to the left",0,0,0,0,0,0,1
+189,"a small, grey thing facing to the left",0,0,0,0,0,0,0
+190,"a large, red fan backwards",0,0,0,0,0,1,0
+191,"a small, green desk is facing to the left",0,0,0,1,0,0,0
+192,"a large, blue fan 5",0,0,0,0,1,0,0
+193,"a small, green desk ",0,0,0,1,0,0,0
+194,"a small, green desk""",0,0,0,1,0,0,0
+195,a blue desk facing forwards,0,1,0,0,0,0,0
+196,"a large, grey, desk, facing forwards",1,0,0,0,0,0,0
+197,a small green fan is facing to the left,0,0,0,0,0,0,1
+198,"a small, green desk",0,0,0,1,0,0,0
+199,a red desk turned backwards,0,0,1,0,0,0,0
+200,a small green desk is facing to the left,0,0,0,1,0,0,0
+201,a blue thing facing backwards,0,0,0,0,0,0,0
+202,a blue desk  facing forwards,0,1,0,0,0,0,0
+203,a small fan,0,0,0,0,0,0,1
+204,"a large, red fan",0,0,0,0,0,1,0
+205,"a small green fan, facing to the left",0,0,0,0,0,0,1
+206,a green small desk,0,0,0,1,0,0,0
+207,a green desk facing backwards,0,0,0,0,0,0,0
+208,"a large, green thing facing backwards",0,0,0,0,0,0,0
+209,a blue table,0,1,0,0,0,0,0
+210,"a large, red desk, facing backwards",0,0,1,0,0,0,0
+211,a red desk backwards,0,0,1,0,0,0,0
+212,a blue fan,0,0,0,0,1,0,0
+213,"a large, blue fan face forwards",0,0,0,0,1,0,0
+214,a red desk facing backwards,0,0,1,0,0,0,0
+215,a thing facing forwards,1,1,0,0,1,0,0
+216,a grey facing forwards desk,1,0,0,0,0,0,0
+217,a small thing facing to the left,0,0,0,1,0,0,1
+218,"a grey, large desk facing forwards",1,0,0,0,0,0,0
+219,a grey desk faces forwards,1,0,0,0,0,0,0
+220,a red fan facing backward,0,0,0,0,0,1,0
+221,a grey desk facing to the left,0,0,0,0,0,0,0
+222,a green thing,0,0,0,1,0,0,1
+223,a green fan facing forwards,0,0,0,0,0,0,0
+224,"a small, green fan  facing to the left",0,0,0,0,0,0,1
+225,"a large fan, blue in colour, facing forwards",0,0,0,0,1,0,0
+226,"a blue desk facing forwards""",0,1,0,0,0,0,0
+227,"a small, green fan""",0,0,0,0,0,0,1
+228,"a small, red desk",0,0,0,0,0,0,0
+229,a grey desk facing forwards,1,0,0,0,0,0,0
+230,a red thing facing forwards,0,0,0,0,0,0,0
+231,"a large, blue fan is in the room",0,0,0,0,1,0,0
+232,"a small, green desk facing to the left",0,0,0,1,0,0,0
+233,a blue fan facing forwards,0,0,0,0,1,0,0
+234,"a small green desk, facing to the left",0,0,0,1,0,0,0
+235,"a large desk facing forwards, painted blue",0,1,0,0,0,0,0
+236,a large fan,0,0,0,0,1,1,0
+237,"a large, red fan, facing backwards",0,0,0,0,0,1,0
+238,a large desk is blue and facing forwards,0,1,0,0,0,0,0
+239,a fan facing backwards,0,0,0,0,0,1,0
+240,a green table,0,0,0,1,0,0,0
+241,"a large, grey fan",0,0,0,0,0,0,0
+242,a small green fan face,0,0,0,0,0,0,1
+243,"a large, grey desk  (1)",1,0,0,0,0,0,0
+244,a large gray desk facing forwards,1,0,0,0,0,0,0
+245,a blue desk facing forwards ,0,1,0,0,0,0,0
+246,"a small, green fan faces to the left",0,0,0,0,0,0,1
+247,a large fan is facing forwards,0,0,0,0,1,0,0
+248,"a large,",0,0,0,0,0,0,0
+249,"a large, grey thing facing forwards",1,0,0,0,0,0,0
+250,a large fan facing forwards,0,0,0,0,1,0,0
+251,a large thing facing forwards,1,1,0,0,1,0,0
+252,a blue desk facing forwards in a room,0,1,0,0,0,0,0
+253,"a small, green desk, facing to the left",0,0,0,1,0,0,0
+254,a blue desk is in the room,0,1,0,0,0,0,0
+255,"a large, grey desk facing backwards",0,0,0,0,0,0,0
+256,"a large, grey desk",1,0,0,0,0,0,0
+257,a small green desk facing left,0,0,0,1,0,0,0
+258,"a small, red fan facing to the left",0,0,0,0,0,0,0
+259,"a red fan, facing backwards",0,0,0,0,0,1,0
+260,"a small, red thing",0,0,0,0,0,0,0
+261,a red desk facing forwards,0,0,0,0,0,0,0
+262,"a large, grey desk that is facing forwards",1,0,0,0,0,0,0
+263,"a large, red fan facing backwards",0,0,0,0,0,1,0
+264,"a small, green table",0,0,0,1,0,0,0
+265,"a large, red desk facing backwards",0,0,1,0,0,0,0
+266,"a large, red fan is facing backwards",0,0,0,0,0,1,0
+267,a thing,1,1,1,1,1,1,1
+268,a large thing,1,1,1,0,1,1,0
+269,"a large, red desk ",0,0,1,0,0,0,0
+270,a large desk facing forwards,1,1,0,0,0,0,0
+271,"a large fan, blue, facing forwards",0,0,0,0,1,0,0
+272,"a large, red fan  (6)",0,0,0,0,0,1,0
+273,a small green desk facing the left,0,0,0,1,0,0,0
+274,"a large, red thing facing forwards",0,0,0,0,0,0,0
+275,a green thing facing backwards,0,0,0,0,0,0,0
+276,a small green fan  facing to the left,0,0,0,0,0,0,1
+277,"a large, green thing facing forwards",0,0,0,0,0,0,0
+278,"a  large, blue desk facing forwards",0,1,0,0,0,0,0
+279,a large,0,0,0,0,0,0,0
+280,"a small, green fan is facing to the left",0,0,0,0,0,0,1
+281,"a large desk, blue, facing forwards",0,1,0,0,0,0,0
+282,a blue desk ,0,1,0,0,0,0,0
+283,"a grey desk, facing forwards",1,0,0,0,0,0,0
+284,a large desk that is grey in colour and is facing forwards,1,0,0,0,0,0,0
+285,"a large, blue fan, facing forwards",0,0,0,0,1,0,0
+286,a blue thing facing forwards,0,1,0,0,1,0,0
+287,"a large, green desk facing backwards",0,0,0,0,0,0,0
+288,a grey desk is in the room,1,0,0,0,0,0,0
+289,"a large, red fan  ",0,0,0,0,0,1,0
+290,a blue desk fan,0,0,0,0,0,0,0
+291,"a large, red fan""",0,0,0,0,0,1,0
+292,a grey desk  facing forwards,1,0,0,0,0,0,0
+293,a red fan facing to the left,0,0,0,0,0,0,0
+294,a red fan facing backwards,0,0,0,0,0,1,0
+295,a red desk with its back facing us,0,0,1,0,0,0,0
+296,"a large desk, grey, facing forwards",1,0,0,0,0,0,0
+297,"a large desk, blue",0,1,0,0,0,0,0
+298,a grey fan facing forwards,0,0,0,0,0,0,0
+299,a blue thing facing to the left,0,0,0,0,0,0,0
+300,"a large desk, grey in color",1,0,0,0,0,0,0
+301,a large desk that is grey in colour and facing forwards,1,0,0,0,0,0,0
+302,a red desk ,0,0,1,0,0,0,0
+303,"a small, green fan to the left",0,0,0,0,0,0,1
+304,a red desk that is facing backwards,0,0,1,0,0,0,0
+305,"a large, red desk""",0,0,1,0,0,0,0
+306,"a blue, large desk facing forwards",0,1,0,0,0,0,0
+307,a red desk facing backward,0,0,1,0,0,0,0
+308,a large thing facing backwards,0,0,1,0,0,1,0
+309,"a large, grey thing facing backwards",0,0,0,0,0,0,0
+310,a grey desk in the room,1,0,0,0,0,0,0
+311,a blue desk in a room,0,1,0,0,0,0,0
+312,"a large, red desk facing the opposite direction of the other desks",0,0,1,0,0,0,0
+313,"a large, green desk",0,0,0,0,0,0,0
+314,"a blue desk""",0,1,0,0,0,0,0
+315,a red table,0,0,1,0,0,0,0
+316,"a large, blue fan in the room",0,0,0,0,1,0,0
+317,"a large desk, facing forwards, grey in color",1,0,0,0,0,0,0
+318,"a large, blue fan",0,0,0,0,1,0,0
+319,a red desk is facing backwards,0,0,1,0,0,0,0
+320,"a large, blue fan  ",0,0,0,0,1,0,0
+321,"a large, red desk facing backward",0,0,1,0,0,0,0
+322,"a small, green fan ",0,0,0,0,0,0,1
+323,"a large, blue",0,1,0,0,1,0,0
+324,a green fan to the left,0,0,0,0,0,0,1
+325,"a large, gray desk facing forwards",1,0,0,0,0,0,0
+326,a fan facing to the left,0,0,0,0,0,0,1
+327,"a large, green fan",0,0,0,0,0,0,0
+328,a small green desk faces left,0,0,0,1,0,0,0
+329,a blue desk facing to the left,0,0,0,0,0,0,0
+330,a blue desk facing forwards in the room,0,1,0,0,0,0,0
+331,a desk facing to the left,0,0,0,1,0,0,0
+332,a large grey facing forwards desk,1,0,0,0,0,0,0
+333,a green desk,0,0,0,1,0,0,0
+334,"a small, grey fan facing to the left",0,0,0,0,0,0,0
+335,a grey thing facing to the left,0,0,0,0,0,0,0
+336,"a large, red desk  ",0,0,1,0,0,0,0
+337,"a small, green desk that is facing to the left",0,0,0,1,0,0,0
+338,"a large, blue fan  | facing forwards",0,0,0,0,1,0,0
+339,"a green, small fan facing left",0,0,0,0,0,0,1
+340,a green desk facing forwards,0,0,0,0,0,0,0
+341,a small green table,0,0,0,1,0,0,0
+342,"a large, blue fan facing backwards",0,0,0,0,0,0,0
+343,a large grey desk,1,0,0,0,0,0,0
+344,"a large, red thing",0,0,1,0,0,1,0
+345,"a small, green desk facing the left",0,0,0,1,0,0,0
+346,a fan facing forwards,0,0,0,0,1,0,0
+347,a grey desk,1,0,0,0,0,0,0
+348,a grey table,1,0,0,0,0,0,0
+349,a little green table,0,0,0,1,0,0,0
+350,"a large, red fan facing the opposite direction of the other objects",0,0,0,0,0,1,0

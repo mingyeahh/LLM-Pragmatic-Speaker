@@ -1,0 +1,89 @@
+data/corpus/s106t3.xml
+a red thing
+a red thing facing to the right
+a red thing facing backwards
+a red sofa
+a red sofa facing to the right
+a red sofa facing backwards
+a red desk
+a red desk facing to the right
+a red desk facing backwards
+a green thing
+a green thing facing to the right
+a green thing facing backwards
+a green sofa
+a green sofa facing to the right
+a green sofa facing backwards
+a green desk
+a green desk facing to the right
+a green desk facing backwards
+a thing
+a thing facing to the right
+a thing facing backwards
+a sofa
+a sofa facing to the right
+a sofa facing backwards
+a desk
+a desk facing to the right
+a desk facing backwards
+a blue thing
+a blue thing facing to the right
+a blue thing facing backwards
+a blue sofa
+a blue sofa facing to the right
+a blue sofa facing backwards
+a blue desk
+a blue desk facing to the right
+a blue desk facing backwards
+a large, red thing
+a large, red thing facing to the right
+a large, red sofa
+a large, red sofa facing to the right
+a large, green thing
+a large, green thing facing to the right
+a large, green sofa
+a large, green sofa facing to the right
+a large thing
+a large thing facing to the right
+a large sofa
+a large sofa facing to the right
+a large, blue thing
+a large, blue thing facing to the right
+a large, blue sofa
+a large, blue sofa facing to the right
+a small, red thing
+a small, red thing facing to the right
+a small, red thing facing backwards
+a small, red sofa
+a small, red sofa facing to the right
+a small, red sofa facing backwards
+a small, red desk
+a small, red desk facing to the right
+a small, red desk facing backwards
+a small, green thing
+a small, green thing facing to the right
+a small, green thing facing backwards
+a small, green sofa
+a small, green sofa facing to the right
+a small, green sofa facing backwards
+a small, green desk
+a small, green desk facing to the right
+a small, green desk facing backwards
+a small thing
+a small thing facing to the right
+a small thing facing backwards
+a small sofa
+a small sofa facing to the right
+a small sofa facing backwards
+a small desk
+a small desk facing to the right
+a small desk facing backwards
+a small, blue thing
+a small, blue thing facing to the right
+a small, blue thing facing backwards
+a small, blue sofa
+a small, blue sofa facing to the right
+a small, blue sofa facing backwards
+a small, blue desk
+a small, blue desk facing to the right
+a small, blue desk facing backwards

@@ -1,0 +1,306 @@
+|Sequence|Object|p_llm
+0|a blue chair facing left|0|-30.527645111083984
+1|a large, blue chair facing to the left in the room|0|-31.03060531616211
+2|a large, blue chair facing to the left |0|-27.969661712646484
+3|a big blue chair facing left|0|-30.27044677734375
+4|a blue chair to the left|0|-30.78668975830078
+5|a blue chair is facing to the left|0|-31.214622497558594
+6|a large, blue chair facing to the left'|0|-31.227474212646484
+7|a large, blue chair facing left|0|-28.023847579956055
+8|a large, blue chair  facing to the left|0|-30.388275146484375
+9|a large blue chair facing to the left |0|-30.559885025024414
+10|a large, blue chair facing to the left of the room|0|-31.506092071533203
+11|a large chair facing to the left|0|-30.57360076904297
+12|a blue chair, facing left|0|-30.225887298583984
+13|a large, blue chair |0|-28.83490562438965
+14|a large|0|-31.062467575073242
+15|a large chair facing left|0|-30.574626922607422
+16|a blue chair is facing left|0|-30.88408660888672
+17|a large, blue chair facing to the left|0|-24.860286712646484
+18|a large blue chair|0|-30.398914337158203
+19|a large, blue chair facing the left|0|-28.56214714050293
+20|"a large, blue chair facing to the left"""|0|-28.641536712646484
+21|a large chair|0|-30.83066177368164
+22|a large, blue chair facing to the left is in the room|0|-31.36609649658203
+23|a blue chair facing to the left|0|-28.84823989868164
+24|a large blue chair is facing left|0|-31.148784637451172
+25|a large, blue chair is facing to the left|0|-31.086610794067383
+26|a large blue chair |0|-30.289539337158203
+27|a|0|-30.421977996826172
+28|a blue chair |0|-31.11770248413086
+29|a large, blue chair facing to the left,|0|-29.282161712646484
+30|a large blue chair to the left|0|-30.737760543823242
+31|a large, blue chair, facing to the left|0|-31.80223274230957
+32|a large blue chair facing to the left|0|-26.614572525024414
+33|a large, blue chair, facing left|0|-29.888776779174805
+34|a large blue chair, facing to the left|0|-31.104665756225586
+35|a large blue chair is facing to the left|0|-30.89900779724121
+36|a large blue chair facing the left|0|-30.486591339111328
+37|a large blue chair, facing left|0|-30.48660659790039
+38|a large, blue chair|0|-29.60053062438965
+0|a large, blue chair  facing backwards|1|-9.559178352355957
+1|a large,|1|-10.17973518371582
+2|a large blue fan facing backwards|1|-10.353334426879883
+3|a large, blue chair backwards|1|-9.976543426513672
+4|a large, blue chair is facing backwards|1|-8.77744197845459
+5|a large, blue, backwards-facing chair|1|-10.291914939880371
+6|a large, blue chair facing backwards|1|-8.2518310546875
+7|a large, blue chair facing forwards|1|-8.738890647888184
+8|a chair, blue, large, facing backwards|1|-10.37164306640625
+9|a small grey fan facing forwards|1|-10.047563552856445
+10|a large blue chair facing backward|1|-8.585329055786133
+11|a blue chair facing backwards|1|-5.642209053039551
+12|a blue chair is facing backwards|1|-10.318191528320312
+13|a chair that is facing backwards|1|-10.475371360778809
+14|a large, blue chair |1|-8.312480926513672
+15|a large|1|-9.877290725708008
+16|a chair, facing backwards|1|-10.212908744812012
+17|a backwards blue chair|1|-8.942853927612305
+18|a large, blue chair facing the wall|1|-9.943631172180176
+19|a large, blue chair facing away|1|-10.356078147888184
+20|a blue chair, facing backwards|1|-10.414745330810547
+21|a large, blue chair facing to the left|1|-8.422698020935059
+22|a large, blue chair facing the opposite direction of the others|1|-12.219584465026855
+23|a large, blue chair facing the left|1|-10.521756172180176
+24|a small grey chair facing forwards|1|-8.943998336791992
+25|a large, blue chair facing|1|-10.512328147888184
+26|a chair|1|-9.640471458435059
+27|a large, blue chair with its back to the viewer|1|-11.550800323486328
+28|a large, blue chair that is facing backwards|1|-9.434508323669434
+29|a large, blue chair with its back to us|1|-11.0264253616333
+30|a large, blue chair facing downwards|1|-10.090453147888184
+31|a large blue chair facing backwards|1|-4.382204055786133
+32|a large, blue chair, facing backwards|1|-7.867786407470703
+33|a large, blue fan facing backwards|1|-7.301149368286133
+34|a fan facing backwards|1|-10.276103973388672
+35|a large blue chair is facing backwards|1|-9.887809753417969
+36|a  large, blue chair facing backwards|1|-10.337593078613281
+37|a|1|-8.549834251403809
+38|a chair facing backwards|1|-7.05288028717041
+39|a small, grey chair facing forwards|1|-8.094972610473633
+40|a large, blue chair facing to the right|1|-9.766448020935059
+41|a large, blue chair facing upwards|1|-9.793578147888184
+42|a large blue chair facing to the left|1|-10.645737648010254
+43|a large blue chair, facing backwards|1|-9.722882270812988
+44|a small, grey fan facing forwards|1|-9.042550086975098
+45|a large, blue fan|1|-9.152986526489258
+46|a backwards-facing blue chair|1|-9.892918586730957
+47|a chair is facing backwards|1|-10.080860137939453
+48|a large, blue chair facing backward|1|-8.254515647888184
+49|a large, blue chair|1|-9.085918426513672
+0|a large, green chair facing to the left|2|-33.28105926513672
+1|a large,|2|-32.187171936035156
+2|a large green chair, facing to the left|2|-32.294166564941406
+3|a large, green chair that is facing to the left|2|-32.0587272644043
+4|a large chair, green, facing left|2|-32.51087188720703
+5|a large, green chair to the left|2|-33.664459228515625
+6|a large chair facing to the left, green in color|2|-34.498931884765625
+7|a large chair facing to the left, colored green|2|-33.28087615966797
+8|a large green chair facing the left|2|-29.698240280151367
+9|a large green chair is facing to the left|2|-32.27714157104492
+10|a big green chair facing left|2|-31.951414108276367
+11|a large, green chair, facing to the left|2|-29.965171813964844
+12|a large, green chair  facing to the left|2|-30.909954071044922
+13|a large, green chair, facing left|2|-31.922399520874023
+14|a green chair|2|-25.285171508789062
+15|a large chair facing to the left|2|-32.999202728271484
+16|"a large green chair facing left"""|2|-32.26888656616211
+17|a large green chair facing left|2|-27.89100456237793
+18|a large green chair|2|-32.354644775390625
+19|a large chair facing left|2|-31.888540267944336
+20|a large, green chair is facing to the left|2|-34.12458801269531
+21|a large chair, green in color, facing left|2|-33.624855041503906
+22|a large, green fan facing to the left|2|-31.362167358398438
+23|a large, blue chair facing to the left|2|-30.50387954711914
+24|a small grey chair facing forwards|2|-31.59387969970703
+25|a chair|2|-28.27210235595703
+26|a large, green chair (3) facing to the left|2|-33.6171989440918
+27|a large chair|2|-31.29498291015625
+28|a green facing left chair|2|-32.17435836791992
+29|a large chair that is green in color and facing to the left|2|-33.21946334838867
+30|a large green chair, facing left|2|-32.16639709472656
+31|a large chair that is green and facing to the left|2|-32.755855560302734
+32|a large, green chair that is facing left|2|-34.15604782104492
+33|a large, green chair in the room|2|-32.65983581542969
+34|a large green chair facing to the left|2|-32.92710876464844
+35|a large chair that is green and facing left|2|-33.3449821472168
+36|a|2|-31.17835235595703
+37|a small, grey chair facing forwards|2|-31.332700729370117
+38|a large green chair facing left |2|-31.98672866821289
+39|a large, green chair  (3)|2|-32.55088424682617
+40|a large, green chair facing the left|2|-33.4460334777832
+41|a large blue chair facing to the left|2|-32.08417510986328
+42|a small, grey fan facing forwards|2|-32.10429000854492
+43|a  large, green chair facing to the left|2|-31.9403133392334
+44|a green, large chair facing left|2|-32.889671325683594
+45|a large, green chair (3)|2|-33.2045783996582
+46|a large chair, green in color, facing to the left|2|-32.924278259277344
+0|a large, green chair facing to the left|3|-8.683402061462402
+1|a small, grey chair, facing forwards|3|-8.764119148254395
+2|a small, grey chair facing forward|3|-9.8807954788208
+3|a blue chair|3|-8.47930908203125
+4|a small, grey chair  facing forwards|3|-10.39006233215332
+5|a grey chair|3|-7.069892883300781
+6|a small, grey chair faces forwards|3|-9.743047714233398
+7|a small, grey fan |3|-10.374560356140137
+8|a large, blue chair facing backwards|3|-10.53614616394043
+9|a small grey fan facing forwards|3|-9.799593925476074
+10|a grey chair |3|-10.085517883300781
+11|a small chair facing forwards|3|-7.882462978363037
+12|a small gray chair facing forward|3|-10.266091346740723
+13|a green chair|3|-10.240423202514648
+14|a small, grey chair-facing forwards|3|-10.543923377990723
+15|a small, gray chair facing forwards|3|-9.434814453125
+16|a large, blue chair facing to the left|3|-7.226907730102539
+17|a small, grey fan|3|-7.430838584899902
+18|a small,|3|-10.456356048583984
+19|a grey fan facing forwards|3|-9.997481346130371
+20|a grey, small chair facing forwards|3|-8.804280281066895
+21|a small, grey chair  |3|-10.19238567352295
+22|"a small, grey chair"""|3|-10.03613567352295
+23|a grey chair facing forwards|3|-5.952350616455078
+24|a small chair|3|-7.941086292266846
+25|a grey chair is facing forwards|3|-9.64200210571289
+26|a grey chair facing forward|3|-9.483600616455078
+27|a|3|-8.937670707702637
+28|a small grey chair|3|-3.119060754776001
+29|a small, grey chair that is facing forwards|3|-10.042265892028809
+30|a small, grey chair facing forwards|3|-1.9276705980300903
+31|a small, grey chair is facing forwards|3|-8.30138111114502
+32|a small, grey chair in the room|3|-10.050725936889648
+33|a small, grey, facing forwards chair|3|-10.377181053161621
+34|a  small, grey chair facing forwards|3|-10.480945587158203
+35|a chair facing forwards|3|-9.228974342346191
+36|a small, grey chair|3|-4.223635196685791
+37|a small gray chair facing forwards|3|-9.868244171142578
+38|a small, grey chair |3|-6.918947696685791
+39|a large blue chair facing to the left|3|-9.387823104858398
+40|a small, grey fan facing forwards|3|-6.116641998291016
+41|a small, grey chair face forwards|3|-10.502992630004883
+42|a large, blue chair|3|-9.919459342956543
+0|a blue fan is facing backwards|4|-31.23894500732422
+1|"a large, blue fan"""|4|-30.906869888305664
+2|a large blue fan|4|-25.143529891967773
+3|a large, blue fan facing backward|4|-29.398910522460938
+4|a large, blue chair facing backwards|4|-31.048873901367188
+5|a small grey fan facing forwards|4|-29.935192108154297
+6|a large, blue fan faces backwards|4|-31.130186080932617
+7|a blue fan |4|-30.630943298339844
+8|a large, blue fan backwards|4|-30.359994888305664
+9|a large, blue fan facing forwards|4|-30.95560073852539
+10|a large, blue fan-facing backwards|4|-31.577247619628906
+11|a  large, blue fan facing backwards|4|-31.012056350708008
+12|a large|4|-31.467735290527344
+13|a large fan|4|-29.672199249267578
+14|a blue fan|4|-30.880943298339844
+15|a large, blue fan facing to the right|4|-30.5476016998291
+16|a large, blue fan |4|-27.586557388305664
+17|a large, blue chair facing to the left|4|-30.486604690551758
+18|a small, grey fan|4|-30.971031188964844
+19|a large fan facing backwards|4|-28.350433349609375
+20|a large, blue fan 5|4|-30.698280334472656
+21|a large, blue fan facing to the left|4|-31.062135696411133
+22|a large, blue fan  |4|-30.688119888305664
+23|a blue fan facing backward|4|-31.129146575927734
+24|a large, blue fan facing backwards|4|-23.258285522460938
+25|a large, blue fan, facing backwards|4|-28.815383911132812
+26|a fan facing backwards|4|-30.15091896057129
+27|a blue fan, facing backwards|4|-30.14934730529785
+28|a large, blue fan  facing backwards|4|-30.592729568481445
+29|a large, blue fan that is facing backwards|4|-30.834430694580078
+30|a blue fan in the room|4|-31.279117584228516
+31|a|4|-29.72223663330078
+32|a fan|4|-29.23038673400879
+33|a small, grey chair facing forwards|4|-31.148101806640625
+34|a large, blue fan  (5)|4|-31.112607955932617
+35|a blue fan facing backwards|4|-30.92198944091797
+36|a small, grey fan facing forwards|4|-28.078187942504883
+37|a large, blue fan|4|-24.703744888305664
+38|a  blue fan|4|-31.176939010620117
+39|a large, blue fan is facing backwards|4|-30.398685455322266
+40|a large, blue fan is in the room|4|-31.029693603515625
+41|a blue fan facing to the left|4|-31.569761276245117
+0|a large, green chair facing to the left|5|-29.318010330200195
+1|a large, green fan facing to the left'|5|-30.902767181396484
+2|a large, green fan  facing to the left|5|-30.954336166381836
+3|a large, green fan |5|-29.66803741455078
+4|a large green fan to the left|5|-31.091642379760742
+5|a large fan facing to the left|5|-29.47121810913086
+6|"a large, green fan facing to the left"""|5|-28.379329681396484
+7|a large, green fan|5|-29.67584991455078
+8|a large, green fan facing to the left,|5|-30.027767181396484
+9|a large green fan facing the left|5|-30.827754974365234
+10|a large, green fan facing left|5|-29.7952938079834
+11|a green chair|5|-30.913402557373047
+12|a green fan facing left|5|-28.3976993560791
+13|a green fan, facing left|5|-30.853736877441406
+14|a blue fan|5|-31.428640365600586
+15|a green chair facing to the left|5|-29.89356231689453
+16|a large, green fan facing to the left|5|-24.762142181396484
+17|a large, green fan faces to the left|5|-31.34107780456543
+18|a large, green fan facing to the left of the large, blue chair facing to the left|5|-35.15689468383789
+19|a large, green fan facing the left|5|-30.312057495117188
+20|a large, green fan is facing to the left|5|-31.07511329650879
+21|a large, green fan facing to the left of the room|5|-31.78177261352539
+22|a green fan facing the left|5|-30.978769302368164
+23|a|5|-31.15904426574707
+24|a large, green fan facing to the left |5|-28.723079681396484
+25|a large, green fan to the left|5|-29.360280990600586
+26|a large, green fan that is facing to the left|5|-31.54646873474121
+27|a green fan on the left|5|-30.284265518188477
+28|a green fan to the left|5|-29.873449325561523
+29|a fan facing to the left|5|-30.116453170776367
+30|"a large, green fan"""|5|-31.08991241455078
+31|a large, green fan, facing to the left|5|-31.860126495361328
+32|a large green fan facing to the left|5|-30.99125862121582
+33|a large, green fan on the left|5|-30.773387908935547
+34|a small, grey fan facing forwards|5|-31.34621238708496
+35|a large, green fan facing to the left in the room|5|-31.163898468017578
+36|a green fan facing to the left|5|-27.827957153320312
+0|a large, green chair facing to the left|6|-28.856786727905273
+1|a grey, small fan facing forwards|6|-32.43514633178711
+2|a large blue fan facing backwards|6|-30.165393829345703
+3|a small grey fan is facing forwards|6|-30.74431800842285
+4|a small gray fan facing forwards|6|-31.293142318725586
+5|a small, grey fan |6|-28.647602081298828
+6|a small, grey fan is facing forwards|6|-30.057876586914062
+7|a small, grey fan facing to the left|6|-32.002994537353516
+8|a small grey fan facing forwards|6|-29.149824142456055
+9|a small grey fan, facing forwards|6|-31.065462112426758
+10|a grey fan is facing forwards|6|-31.37539291381836
+11|a large, green fan|6|-30.082015991210938
+12|a green chair|6|-30.859771728515625
+13|a small fan|6|-30.726551055908203
+14|a small grey fan|6|-30.238325119018555
+15|a large, green fan facing to the left|6|-27.201980590820312
+16|a large, blue chair facing to the left|6|-28.08568572998047
+17|a small, grey fan|6|-29.038227081298828
+18|a small grey chair facing forwards|6|-30.02680015563965
+19|"a small, grey fan"""|6|-30.733539581298828
+20|a small, grey fan facing forward|6|-30.726531982421875
+21|a grey fan facing forwards|6|-30.87520408630371
+22|a large, green chair|6|-31.159469604492188
+23|a small, grey fan that is facing forwards|6|-30.727405548095703
+24|a small grey fan facing to the front|6|-31.70567512512207
+25|a small grey fan |6|-30.105512619018555
+26|a blue chair facing to the left|6|-31.951642990112305
+27|a large, blue fan facing backwards|6|-27.559755325317383
+28|a small grey fan facing the front|6|-31.725473403930664
+29|a|6|-29.982830047607422
+30|a small, grey fan  facing forwards|6|-29.589008331298828
+31|a small, grey chair facing forwards|6|-28.39750099182129
+32|a small, grey fan, facing forwards|6|-30.07198143005371
+33|a small, grey fan faces forwards|6|-30.77184295654297
+34|a small, grey fan in the room|6|-31.473974227905273
+35|a small, grey chair|6|-30.477108001708984
+36|a large blue chair facing to the left|6|-30.630966186523438
+37|a fan facing forwards|6|-30.611675262451172
+38|a small, grey fan face forwards|6|-31.43225860595703
+39|a large green fan facing to the left|6|-31.74921417236328
+40|a small, grey fan facing forwards|6|-27.64649200439453
+41|a small fan facing forwards|6|-29.078826904296875
+42|a large, blue fan|6|-30.000303268432617
+43|a small, gray fan facing forwards|6|-31.164104461669922
+44|a grey fan facing forward|6|-30.876739501953125
+45|a large, blue chair|6|-30.733205795288086
+46|a small grey fan facing to the left|6|-32.07117462158203

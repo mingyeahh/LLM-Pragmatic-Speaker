@@ -1,0 +1,125 @@
+data/corpus/s73t2.xml
+a grey thing facing forwards
+a grey thing facing to the left
+a grey thing
+a grey thing facing to the right
+a grey thing facing backwards
+a grey chair facing forwards
+a grey chair facing to the left
+a grey chair
+a grey chair facing to the right
+a grey chair facing backwards
+a grey sofa facing forwards
+a grey sofa facing to the left
+a grey sofa
+a grey sofa facing backwards
+a red thing facing forwards
+a red thing facing to the left
+a red thing
+a red thing facing to the right
+a red thing facing backwards
+a red chair facing forwards
+a red chair facing to the left
+a red chair
+a red chair facing to the right
+a red chair facing backwards
+a red sofa facing forwards
+a red sofa facing to the left
+a red sofa
+a red sofa facing backwards
+a thing facing forwards
+a thing facing to the left
+a thing
+a thing facing to the right
+a thing facing backwards
+a chair facing forwards
+a chair facing to the left
+a chair
+a chair facing to the right
+a chair facing backwards
+a sofa facing forwards
+a sofa facing to the left
+a sofa
+a sofa facing backwards
+a blue thing facing forwards
+a blue thing facing to the left
+a blue thing
+a blue thing facing to the right
+a blue thing facing backwards
+a blue chair facing forwards
+a blue chair facing to the left
+a blue chair
+a blue chair facing to the right
+a blue chair facing backwards
+a blue sofa facing forwards
+a blue sofa facing to the left
+a blue sofa
+a blue sofa facing backwards
+a large, grey thing facing forwards
+a large, grey thing
+a large, grey chair facing forwards
+a large, grey chair
+a large, grey sofa facing forwards
+a large, grey sofa
+a large, red thing facing forwards
+a large, red thing
+a large, red chair facing forwards
+a large, red chair
+a large, red sofa facing forwards
+a large, red sofa
+a large thing facing forwards
+a large thing
+a large chair facing forwards
+a large chair
+a large sofa facing forwards
+a large sofa
+a large, blue thing facing forwards
+a large, blue thing
+a large, blue chair facing forwards
+a large, blue chair
+a large, blue sofa facing forwards
+a large, blue sofa
+a small, grey thing facing to the left
+a small, grey thing
+a small, grey thing facing to the right
+a small, grey thing facing backwards
+a small, grey chair facing to the left
+a small, grey chair
+a small, grey chair facing to the right
+a small, grey chair facing backwards
+a small, grey sofa facing to the left
+a small, grey sofa
+a small, grey sofa facing backwards
+a small, red thing facing to the left
+a small, red thing
+a small, red thing facing to the right
+a small, red thing facing backwards
+a small, red chair facing to the left
+a small, red chair
+a small, red chair facing to the right
+a small, red chair facing backwards
+a small, red sofa facing to the left
+a small, red sofa
+a small, red sofa facing backwards
+a small thing facing to the left
+a small thing
+a small thing facing to the right
+a small thing facing backwards
+a small chair facing to the left
+a small chair
+a small chair facing to the right
+a small chair facing backwards
+a small sofa facing to the left
+a small sofa
+a small sofa facing backwards
+a small, blue thing facing to the left
+a small, blue thing
+a small, blue thing facing to the right
+a small, blue thing facing backwards
+a small, blue chair facing to the left
+a small, blue chair
+a small, blue chair facing to the right
+a small, blue chair facing backwards
+a small, blue sofa facing to the left
+a small, blue sofa
+a small, blue sofa facing backwards

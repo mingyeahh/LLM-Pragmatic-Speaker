@@ -1,0 +1,97 @@
+data/corpus/s323t4.xml
+a red thing
+a red thing facing backwards
+a red thing facing to the left
+a red fan
+a red fan facing backwards
+a red fan facing to the left
+a red sofa
+a red sofa facing backwards
+a red sofa facing to the left
+a green thing
+a green thing facing backwards
+a green thing facing to the left
+a green fan
+a green fan facing backwards
+a green fan facing to the left
+a green sofa
+a green sofa facing backwards
+a green sofa facing to the left
+a thing
+a thing facing backwards
+a thing facing to the left
+a fan
+a fan facing backwards
+a fan facing to the left
+a sofa
+a sofa facing backwards
+a sofa facing to the left
+a blue thing
+a blue thing facing backwards
+a blue thing facing to the left
+a blue fan
+a blue fan facing backwards
+a blue fan facing to the left
+a blue sofa
+a blue sofa facing backwards
+a blue sofa facing to the left
+a large, red thing
+a large, red thing facing backwards
+a large, red thing facing to the left
+a large, red fan
+a large, red fan facing backwards
+a large, red fan facing to the left
+a large, red sofa
+a large, red sofa facing backwards
+a large, red sofa facing to the left
+a large, green thing
+a large, green thing facing backwards
+a large, green thing facing to the left
+a large, green fan
+a large, green fan facing backwards
+a large, green fan facing to the left
+a large, green sofa
+a large, green sofa facing backwards
+a large, green sofa facing to the left
+a large thing
+a large thing facing backwards
+a large thing facing to the left
+a large fan
+a large fan facing backwards
+a large fan facing to the left
+a large sofa
+a large sofa facing backwards
+a large sofa facing to the left
+a large, blue thing
+a large, blue thing facing backwards
+a large, blue thing facing to the left
+a large, blue fan
+a large, blue fan facing backwards
+a large, blue fan facing to the left
+a large, blue sofa
+a large, blue sofa facing backwards
+a large, blue sofa facing to the left
+a small, red thing
+a small, red thing facing to the left
+a small, red fan
+a small, red fan facing to the left
+a small, red sofa
+a small, red sofa facing to the left
+a small, green thing
+a small, green thing facing to the left
+a small, green fan
+a small, green fan facing to the left
+a small, green sofa
+a small, green sofa facing to the left
+a small thing
+a small thing facing to the left
+a small fan
+a small fan facing to the left
+a small sofa
+a small sofa facing to the left
+a small, blue thing
+a small, blue thing facing to the left
+a small, blue fan
+a small, blue fan facing to the left
+a small, blue sofa
+a small, blue sofa facing to the left

@@ -1,0 +1,304 @@
+|Sequence|Object|p_llm
+0|a red sofa, facing to the right|0|-30.77066993713379
+1|a large, red, sofa, facing, right|0|-32.16875076293945
+2|a large  red sofa|0|-30.990510940551758
+3|a large, red sofa facing to the right|0|-23.392505645751953
+4|a large, red sofa is in the room|0|-31.176565170288086
+5|a large, red sofa  facing to the right|0|-29.552234649658203
+6|a large, red sofa, facing to the right|0|-29.33238410949707
+7|a red sofa |0|-30.181140899658203
+8|a red sofa facing to the right |0|-31.088726043701172
+9|a large, red couch|0|-31.54737663269043
+10|a large, red sofa facing the right|0|-28.678380966186523
+11|a large, red sofa 1|0|-31.293182373046875
+12|a big red sofa facing right|0|-31.176177978515625
+13|a large, red sofa that is facing to the right|0|-31.597354888916016
+14|a  large, red sofa facing to the right|0|-31.531856536865234
+15|a large, red sofa (1)|0|-31.202503204345703
+16|a large red facing right sofa|0|-30.77046775817871
+17|a red sofa is facing to the right|0|-30.75408363342285
+18|a large, red sofa  (1)|0|-30.848432540893555
+19|a large,|0|-30.744720458984375
+20|"a large, red sofa"""|0|-30.825607299804688
+21|a large, red sofa, facing right|0|-31.711544036865234
+22|a, large, red sofa|0|-31.474843978881836
+23|a large, red sofa in the room|0|-31.70899772644043
+24|a large, red, facing-right sofa|0|-31.43637466430664
+25|a large, red sofa  #1|0|-31.584545135498047
+26|a red sofa|0|-30.157703399658203
+27|a red sofa, facing right|0|-31.01814079284668
+28|a large, red sofa  |0|-30.794357299804688
+29|a large red sofa|0|-24.3564510345459
+30|a large|0|-30.90961265563965
+31|a large, red sofa |0|-27.184982299804688
+32|a large, red sofa facing right|0|-28.452392578125
+33|a large sofa|0|-27.042526245117188
+34|a large, red sofa is facing to the right|0|-31.685861587524414
+35|a large, red sofa to the right|0|-30.381011962890625
+36|a|0|-28.85030746459961
+37|a red sofa facing to the right|0|-31.465940475463867
+38|a large, red sofa|0|-24.450607299804688
+0|a small red couch|1|-32.2572021484375
+1|a little red couch|1|-32.36792755126953
+2|a little red sofa facing to the right|1|-32.23358917236328
+3|a small, red desk|1|-32.41930389404297
+4|a small, red|1|-31.691123962402344
+5|a red sofa facing the right|1|-32.25334930419922
+6|a small, red, sofa, facing to the right|1|-34.0252799987793
+7|a |1|-32.16270446777344
+8|a large, red sofa facing to the right|1|-31.493131637573242
+9|a small, red sofa|1|-22.456748962402344
+10|a small red sofa|1|-24.819854736328125
+11|a  small, red sofa facing to the right|1|-31.23114585876465
+12|a small red couch facing to the right|1|-32.36478805541992
+13|a Small, red sofa|1|-32.40081787109375
+14|a small, red desk facing to the right|1|-31.292713165283203
+15|a small  red sofa facing to the right|1|-31.77672004699707
+16|a red sofa facing right|1|-30.969518661499023
+17|a  small, red sofa|1|-32.610801696777344
+18|a small sofa that is red and facing to the right|1|-32.84136199951172
+19|a small , red sofa facing to the right|1|-32.155818939208984
+20|a small, red couch facing to the right|1|-30.97162628173828
+21|a small,  red sofa facing to the right|1|-33.87348937988281
+22|a sofa|1|-31.870718002319336
+23|a small sofa facing right|1|-31.8824520111084
+24|a second red sofa|1|-32.54568099975586
+25|a little red sofa facing right|1|-32.761322021484375
+26|a red sofa|1|-29.97819709777832
+27|a sofa facing to the right|1|-32.53893280029297
+28|a small, red  sofa|1|-31.318296432495117
+29|a small sofa facing to the right and colored red|1|-32.906715393066406
+30|a small sofa facing to the right|1|-33.154415130615234
+31|a small, red couch facing right|1|-32.93934631347656
+32|a large red sofa|1|-31.1878719329834
+33|a blue sofa facing to the right|1|-32.730648040771484
+34|a small, blue sofa facing to the right|1|-31.890092849731445
+35|a small, red, facing-right sofa|1|-33.322113037109375
+36|a|1|-28.576765060424805
+37|a couch|1|-32.67051696777344
+38|a  small, red sofa  facing to the right|1|-33.33748245239258
+39|a small sofa, red in color, facing to the right|1|-32.681026458740234
+40|a small,|1|-30.425003051757812
+41|a red sofa facing to the right|1|-29.193359375
+42|a small|1|-30.943567276000977
+43|a little red sofa|1|-32.60675048828125
+44|a small sofa facing the right|1|-32.704559326171875
+45|a small Red sofa|1|-31.53289222717285
+46|a small sofa facing to the right, colored red|1|-31.80877685546875
+47|a large, red sofa|1|-32.24058151245117
+48|a small sofa that is red in color and facing to the right|1|-33.628353118896484
+0|a small, blue sofa faces to the right|2|-31.12955093383789
+1|a small, blue  sofa|2|-32.17870330810547
+2|a small, blue sofa faces right|2|-32.94835662841797
+3|a small, blue couch facing to the right|2|-32.46459197998047
+4|a small, blue sofa faced to the right|2|-32.05751037597656
+5|a small, blue sofa is in the room|2|-32.27933120727539
+6|a small, blue sofaFacing to the right|2|-32.47397994995117
+7|a small, blue sofa|2|-34.54902267456055
+8|a small, blue sofa facing right|2|-30.163999557495117
+9|a small, blue sofa face to the right|2|-33.545082092285156
+10|a small, blue sofa facing  to the right|2|-32.924957275390625
+11|a small, blue sofa that is facing to the right|2|-31.83047866821289
+12|a small red sofa facing to the right|2|-32.05186080932617
+13|a small blue couch|2|-32.171451568603516
+14|a small, blue sofa facing the right|2|-32.64387130737305
+15|a blue, small sofa facing to the right|2|-32.63203048706055
+16|a small, blue sofa facing to the righ|2|-34.803768157958984
+17|a small, blue sofa facing to the right |2|-37.280635833740234
+18|a small, blue sofa  (3)|2|-31.172204971313477
+19|a small, blue sofa that is facing to the right of the room|2|-36.09122848510742
+20|a little blue sofa|2|-31.595041275024414
+21|a small, blue sofa that faces to the right|2|-32.150482177734375
+22|a small, blue couch|2|-32.642738342285156
+23|a small, red sofa facing to the right|2|-32.61647033691406
+24|a small, blue sofa is facing to the right|2|-32.30585479736328
+25|a small, blue sofa, facing right|2|-32.41855239868164
+26|a small sofa facing to the right|2|-32.02169418334961
+27|a small, blue sofa is in the room, facing to the right|2|-35.17375946044922
+28|a blue sofa|2|-27.269969940185547
+29|a small, blue sofa, facing to the right|2|-29.62366485595703
+30|a small blue sofa|2|-25.642446517944336
+31|a  small, blue sofa facing to the right|2|-32.413169860839844
+32|a small, blue sofa, |2|-32.55464553833008
+33|a small, blue sofa facing to the right|2|-33.413448333740234
+34|a small, blue sofa facing to the  right|2|-34.45867156982422
+35|a|2|-30.260753631591797
+36|a small, blue sofa-facing to the right|2|-31.746854782104492
+37|a small, blue sofa (3)|2|-31.864971160888672
+38|a small, blue sofa Facing to the right|2|-32.5721435546875
+39|a small, blue|2|-32.56068801879883
+40|a small,|2|-31.835668563842773
+41|a small, blue sofa in the room|2|-31.965145111083984
+42|a small|2|-32.583717346191406
+43|a small, blue sofa  facing to the right|2|-29.745908737182617
+0|a small, green sofa |3|-30.415273666381836
+1|a small green sofa facing backwards|3|-24.956905364990234
+2|a small, green sofa facing backwards|3|-30.22172737121582
+3|a green sofa facing backward|3|-30.96062469482422
+4|a small, green sofa with its back to us|3|-31.82529067993164
+5|a small, green sofa facing the opposite direction of the others|3|-32.41285705566406
+6|a small, green sofa faces backwards|3|-30.745288848876953
+7|a green desk facing backwards|3|-29.697473526000977
+8|a small, green sofa with its back facing the viewer|3|-32.24398422241211
+9|a green sofa is facing backwards|3|-30.636615753173828
+10|a small, green sofa with its back facing forward|3|-31.834564208984375
+11|a small, green sofa that faces backwards|3|-30.729907989501953
+12|a  small, green sofa facing backwards|3|-32.01294708251953
+13|a small green sofa facing to the right|3|-31.690616607666016
+14|a small blue sofa facing to the right|3|-31.035118103027344
+15|a small, green couch facing backwards|3|-30.336042404174805
+16|a small, green sofa with its back facing us|3|-31.865814208984375
+17|a small, green sofa facing to the left|3|-30.555356979370117
+18|a small sofa facing backwards|3|-29.202770233154297
+19|a small, green sofa is facing backwards in the room|3|-31.986825942993164
+20|a green couch|3|-30.01641845703125
+21|a green sofa, facing backwards|3|-31.379634857177734
+22|a small, green sofa  |3|-31.266836166381836
+23|a small, green sofa facing the left|3|-31.77529525756836
+24|a small green desk|3|-29.56291389465332
+25|a sofa facing backwards|3|-30.82374382019043
+26|a small green sofa, facing backwards|3|-30.85464859008789
+27|a green facing backwards sofa|3|-31.24342155456543
+28|a small, green sofa backwards|3|-30.868398666381836
+29|a small green sofa|3|-27.530046463012695
+30|a small, green desk facing backwards|3|-31.38819694519043
+31|a small, green sofa that is facing backwards|3|-30.074684143066406
+32|a small, green, backwards-facing sofa|3|-31.266550064086914
+33|a small, green sofa, facing backwards|3|-31.629058837890625
+34|a small, green sofa facing the opposite direction of the other sofas|3|-32.11752700805664
+35|a small, green sofa with its back to the viewer|3|-31.95395278930664
+36|a small, green sofa  facing backwards|3|-29.937973022460938
+37|a blue sofa facing to the right|3|-30.43889808654785
+38|a small, blue sofa facing to the right|3|-30.844276428222656
+39|a small green sofa |3|-30.701921463012695
+40|a|3|-29.911659240722656
+41|a small, green sofa facing to the right|3|-30.508481979370117
+42|a small, green sofa is facing backwards|3|-31.025367736816406
+43|a small, green sofa facing in the opposite direction of the other sofas|3|-33.85931396484375
+44|a small green sofa facing backward|3|-30.019405364990234
+45|a small,|3|-31.085718154907227
+46|a green sofa facing backwards|3|-30.063926696777344
+47|a small, green sofa facing the wall|3|-31.233314514160156
+48|a large, red sofa|3|-30.692594528198242
+0|a small, red desk|4|-24.922313690185547
+1|a small, red desk  (5)|4|-31.8254337310791
+2|a small, red desk |4|-27.570751190185547
+3|a large, red sofa facing to the right|4|-31.2595157623291
+4|a small, red desk face to the right|4|-31.92021369934082
+5|a small, red desk to the right|4|-32.09013366699219
+6|a small, red desk is in the room|4|-31.725717544555664
+7|a desk facing to the right|4|-31.523296356201172
+8|a small, blue desk|4|-30.638233184814453
+9|a blue desk|4|-32.10308074951172
+10|a small  red desk facing to the right|4|-31.815860748291016
+11|a small, red desk facing the right|4|-29.986616134643555
+12|a small, red  desk facing to the right|4|-31.968046188354492
+13|"a small, red desk"""|4|-31.023876190185547
+14|a small, red desk faces to the right|4|-30.46244239807129
+15|a small, red desk  |4|-31.094188690185547
+16|a small, red desk that is facing to the right|4|-32.11423110961914
+17|a small, red desk facing to the left|4|-32.214324951171875
+18|a red desk|4|-28.06615447998047
+19|a sofa|4|-32.13656234741211
+20|a small, red desk  facing to the right|4|-28.92327308654785
+21|a small, red desk 1|4|-32.31935501098633
+22|a small desk facing to the right|4|-29.294668197631836
+23|a small red desk|4|-26.09634017944336
+24|a small, red desk is facing to the right|4|-29.576711654663086
+25|a  small, red desk facing to the right|4|-31.267574310302734
+26|a small, green desk facing backwards|4|-30.90894889831543
+27|a red sofa|4|-32.05561828613281
+28|a small, red desk faced to the right|4|-32.182518005371094
+29|a small, red sofa facing to the right|4|-32.022186279296875
+30|a small, red desk facing right|4|-31.18585205078125
+31|a desk|4|-32.06991958618164
+32|a|4|-29.331256866455078
+33|a small, red desk-facing to the right|4|-31.788089752197266
+34|a small desk|4|-30.80430793762207
+35|a small,|4|-31.193939208984375
+36|a small|4|-32.0797119140625
+37|a large, red sofa|4|-31.840206146240234
+38|a small, red desk, facing to the right|4|-31.75655746459961
+0|a small blue desk |5|-32.362335205078125
+1|a small, blue desk (6)|5|-33.16939926147461
+2|a small, blue desk to the right|5|-32.69204330444336
+3|a small, blue desk facing to  the right|5|-33.27976608276367
+4|a small, blue  desk facing to the right|5|-32.68314743041992
+5|a  small, blue desk facing to the right|5|-33.38422775268555
+6|a small, blue desk that faces to the right|5|-32.61823654174805
+7|a small, blue desk facing to the left|5|-31.972021102905273
+8|a small, blue desk facing right|5|-30.666656494140625
+9|a small, blue desk  facing to the right|5|-29.3330020904541
+10|a small, blue desk |5|-28.94546127319336
+11|a small blue desk, facing to the right|5|-32.539642333984375
+12|a green desk facing backwards|5|-32.979331970214844
+13|a small, blue desk|5|-26.13296127319336
+14|a small blue desk facing right|5|-31.300220489501953
+15|a small, blue desk  (6)|5|-32.3632698059082
+16|a small, red desk facing to the right|5|-32.95294952392578
+17|a small blue sofa facing to the right|5|-31.902894973754883
+18|a small, blue desk-facing to the right|5|-32.594261169433594
+19|a small blue desk  facing to the right|5|-32.8526725769043
+20|a small, blue desk face to the right|5|-32.75606918334961
+21|a small, blue desk facing backwards|5|-32.66604995727539
+22|a small, blue desk facing  to the right|5|-32.72977066040039
+23|a small, blue desk is facing to the right|5|-31.075302124023438
+24|"a small, blue desk"""|5|-31.728111267089844
+25|a small, blue desk faced to the right|5|-32.22673416137695
+26|a small blue desk facing to the right|5|-31.29170799255371
+27|a small blue desk|5|-32.604522705078125
+28|a small blue desk facing the right|5|-31.835657119750977
+29|a small desk facing to the right|5|-31.9936466217041
+30|a small, blue desk facing to the  right|5|-33.07072067260742
+31|a small, blue desk  |5|-32.09389877319336
+32|a small, blue desk in the room|5|-33.19023132324219
+33|a blue desk facing to the right|5|-32.341270446777344
+34|a small, blue desk faces to the right|5|-31.4783992767334
+35|a blue sofa facing to the right|5|-32.84268569946289
+36|a small, blue sofa facing to the right|5|-32.893497467041016
+37|a|5|-30.482446670532227
+38|a small, blue desk facing the right|5|-30.575775146484375
+39|a small,|5|-32.7841796875
+40|a small, blue desk, facing to the right|5|-29.93890380859375
+41|a small, blue desk that is facing to the right|5|-34.072837829589844
+0|a small, green desk|6|-25.596113204956055
+1|a small, green desk facing to the left|6|-30.34288787841797
+2|a small, green sofa facing backwards|6|-30.55512237548828
+3|a small, green desk facing backwards in the room|6|-29.395864486694336
+4|a desk facing backwards|6|-30.127174377441406
+5|a small, green desk facing to the right|6|-31.119020462036133
+6|a small, green desk facing forwards|6|-31.171621322631836
+7|a small, green desk facing the wall|6|-31.2443790435791
+8|a small, green table facing backwards|6|-30.598573684692383
+9|a small, green desk facing backwards;|6|-30.647571563720703
+10|a small, green desk is facing backwards|6|-30.042123794555664
+11|a small, green desk facing backwards, |6|-31.165075302124023
+12|a small, red desk facing to the right|6|-30.880701065063477
+13|a small, blue desk facing to the right|6|-29.616710662841797
+14|a small desk facing backwards|6|-28.37773323059082
+15|"a small, green desk facing backwards"""|6|-27.389759063720703
+16|a small green desk facing backward|6|-30.683944702148438
+17|a small, green desk facing backwards  |6|-30.335071563720703
+18|a  small, green desk facing backwards|6|-31.277202606201172
+19|a small, green desk facing the opposite direction of the other desks and sofas|6|-34.023651123046875
+20|"a small, green desk facing backwards <|user|>"|6|-31.85352897644043
+21|a small, green desk facing backward|6|-29.445026397705078
+22|a small, green desk that is facing backwards|6|-30.69524574279785
+23|a small, green desk facing downwards|6|-30.804401397705078
+24|a small, green desk facing backwards|6|-23.061634063720703
+25|a small, green desk facing backwards is object 7|6|-30.00905418395996
+26|a small green desk facing backwards|6|-30.70281982421875
+27|a small, green desk, facing backwards|6|-29.98783302307129
+28|a small, green desk  facing backwards|6|-29.236860275268555
+29|a small, green desk facing backwards |6|-26.530384063720703
+30|a small, green desk |6|-28.385175704956055
+31|a small, green desk faces backwards|6|-30.756675720214844
+32|a small, green desk facing backwards in a room|6|-31.682878494262695
+33|a|6|-29.671072006225586
+34|a small, green desk  |6|-31.158613204956055
+35|a small, green desk facing backwards is in the room|6|-30.56540870666504
+36|a small, green desk facing backwards'|6|-29.467884063720703
+37|a small,|6|-31.210250854492188
+38|a small, green desk facing backwards is object 7 in the room|6|-31.250200271606445
+39|"a small, green desk facing backwards """|6|-31.077259063720703
+40|a large, red sofa|6|-29.8469181060791

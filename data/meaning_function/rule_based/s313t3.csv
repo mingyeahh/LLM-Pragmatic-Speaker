@@ -1,0 +1,294 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,"a small, green couch facing backwards",0,0,0,1,0,0,1
+1,a small green desk facing backwards ,0,0,0,0,0,0,1
+2,"a small, blue desk facing backwards",0,0,0,0,0,0,0
+3,"a small, green sofa is facing backwards",0,0,0,1,0,0,0
+4,"a large, red sofa facing to the right ",1,0,0,0,0,0,0
+5,"a small, blue desk that is facing to the right",0,0,0,0,0,1,0
+6,a blue thing,0,0,1,0,0,1,0
+7,"a small, blue desk facing to the",0,0,0,0,0,1,0
+8,"a small, red sofa facing to the right",0,1,0,0,0,0,0
+9,"a small, blue thing",0,0,1,0,0,1,0
+10,"a large, blue thing",0,0,0,0,0,0,0
+11,"a small, green sofa with its back facing us",0,0,0,1,0,0,0
+12,"a red sofa, facing to the right",1,1,0,0,0,0,0
+13,a blue desk facing to the right,0,0,0,0,0,1,0
+14,"a large, green sofa",0,0,0,0,0,0,0
+15,"a small, green sofa ",0,0,0,1,0,0,0
+16,a little green sofa,0,0,0,1,0,0,0
+17,"a small, green sofa with its back to us",0,0,0,1,0,0,0
+18,"a  small, green sofa facing backwards",0,0,0,1,0,0,0
+19,a green sofa facing backward,0,0,0,1,0,0,0
+20,"a small, green desk faces backwards",0,0,0,0,0,0,1
+21,"a small, green desk facing the opposite direction of the other desks and sofas",0,0,0,0,0,0,0
+22,"a small, green desk facing backwards",0,0,0,0,0,0,1
+23,"a small, red sofa facing to the right, ",0,1,0,0,0,0,0
+24,a small blue sofa ,0,0,1,0,0,0,0
+25,"a small, red sofa;",0,1,0,0,0,0,0
+26,a blue sofa,0,0,1,0,0,0,0
+27,"a small, blue desk facing right",0,0,0,0,0,1,0
+28,a green sofa facing backwards,0,0,0,1,0,0,0
+29,a small,0,0,0,0,0,0,0
+30,a small sofa facing to the right,0,1,1,0,0,0,0
+31,"a small, green desk face backwards",0,0,0,0,0,0,1
+32,"a small, red sofa (2)",0,1,0,0,0,0,0
+33,a small green sofa facing backward,0,0,0,1,0,0,0
+34,"a small, green table facing backwards",0,0,0,0,0,0,1
+35,"a small, blue desk facing to the r",0,0,0,0,0,1,0
+36,a small  red sofa,0,1,0,0,0,0,0
+37,a small desk facing backwards,0,0,0,0,0,0,1
+38,"a small, green sofa faces backwards",0,0,0,1,0,0,0
+39,"a  small, green desk facing backwards",0,0,0,0,0,0,1
+40,a small green desk,0,0,0,0,0,0,1
+41,a large sofa facing to the right,1,0,0,0,0,0,0
+42,"a small, blue desk",0,0,0,0,0,1,0
+43,"a large, red sofa facing to the right  (1)",1,0,0,0,0,0,0
+44,"a small, green desk facing to the right",0,0,0,0,0,0,0
+45,"a large, blue thing facing to the right",0,0,0,0,0,0,0
+46,a blue sofa ,0,0,1,0,0,0,0
+47,"a small, blue desk facing to the  right",0,0,0,0,0,1,0
+48,"a small, green sofa  ",0,0,0,1,0,0,0
+49,"a large, red sofa facing to the right",1,0,0,0,0,0,0
+50,a sofa facing to the right,1,1,1,0,0,0,0
+51,"a small, red sofa facing right",0,1,0,0,0,0,0
+52,"a small, blue desk facing the right",0,0,0,0,0,1,0
+53,a blue sofa facing right,0,0,1,0,0,0,0
+54,"a large, red sofa  ",1,0,0,0,0,0,0
+55,"a small, red",0,1,0,0,1,0,0
+56,"a small, blue",0,0,1,0,0,1,0
+57,"a small, red desk facing backwards",0,0,0,0,0,0,0
+58,a small blue sofa facing to the right,0,0,1,0,0,0,0
+59,a small desk,0,0,0,0,1,1,1
+60,a small thing facing to the right,0,1,1,0,1,1,0
+61,"a small, green desk facing the opposite direction of the others",0,0,0,0,0,0,1
+62,"a small blue sofa, facing to the right",0,0,1,0,0,0,0
+63,"a small, red sofa facing to the right ",0,1,0,0,0,0,0
+64,a desk facing to the right,0,0,0,0,1,1,0
+65,"a small, green desk  ",0,0,0,0,0,0,1
+66,"a large, red sofa (1)",1,0,0,0,0,0,0
+67,a blue desk facing the right,0,0,0,0,0,1,0
+68,"a small, green thing facing backwards",0,0,0,1,0,0,1
+69,a sofa,1,1,1,1,0,0,0
+70,"a large, red sofa faces to the right",1,0,0,0,0,0,0
+71,"a large, red sofa facing to the right in the room",1,0,0,0,0,0,0
+72,a red thing,1,1,0,0,1,0,0
+73,"a small, red sofa, ",0,1,0,0,0,0,0
+74,"a small, green sofa-facing backwards",0,0,0,1,0,0,0
+75,"a small, blue desk is in the room",0,0,0,0,0,1,0
+76,a small green desk facing backward,0,0,0,0,0,0,1
+77,a desk facing backwards,0,0,0,0,0,0,1
+78,a small blue couch,0,0,1,0,0,1,0
+79,"a large, red sofa 1",1,0,0,0,0,0,0
+80,"a small, blue desk facing to the left",0,0,0,0,0,0,0
+81,a small  red desk facing to the right,0,0,0,0,1,0,0
+82,a green couch,0,0,0,1,0,0,1
+83,"a small, red desk facing to the right",0,0,0,0,1,0,0
+84,"a large, red sofa facing to the right is object 1",1,0,0,0,0,0,0
+85,"a large, red sofa, facing to the right",1,0,0,0,0,0,0
+86,"a small, blue desk (6)",0,0,0,0,0,1,0
+87,"a large, green thing",0,0,0,0,0,0,0
+88,"a small, red sofa  (2)",0,1,0,0,0,0,0
+89,"a small, blue desk  ",0,0,0,0,0,1,0
+90,"a small, blue desk is facing to the right",0,0,0,0,0,1,0
+91,a small thing,0,1,1,1,1,1,1
+92,a red desk facing to the right,0,0,0,0,1,0,0
+93,"a small, blue desk face",0,0,0,0,0,1,0
+94,a small red sofa,0,1,0,0,0,0,0
+95,"a small, blue desk in the room",0,0,0,0,0,1,0
+96,a ,0,0,0,0,0,0,0
+97,"a large, blue sofa facing to the right",0,0,0,0,0,0,0
+98,"a small, blue desk facing to the right",0,0,0,0,0,1,0
+99,a desk,0,0,0,0,1,1,1
+100,"a large, green sofa facing to the right",0,0,0,0,0,0,0
+101,"a small, red sofa  facing to the right",0,1,0,0,0,0,0
+102,a thing facing backwards,0,0,0,1,0,0,1
+103,"a large, red sofa facing the right",1,0,0,0,0,0,0
+104,"a small, green deck facing backwards",0,0,0,1,0,0,1
+105,"a small, blue desk facing to  the right",0,0,0,0,0,1,0
+106,"a small, green desk facing the wall",0,0,0,0,0,0,1
+107,"a small, red sofa that is facing to the right",0,1,0,0,0,0,0
+108,"a small, blue sofa facing backwards",0,0,0,0,0,0,0
+109,a green thing facing to the right,0,0,0,0,0,0,0
+110,a small red sofa  facing to the right,0,1,0,0,0,0,0
+111,a small red sofa facing the right,0,1,0,0,0,0,0
+112,"a small, green sofa facing to the left",0,0,0,0,0,0,0
+113,"a large, red sofa that is facing to the right",1,0,0,0,0,0,0
+114,"a small red sofa, facing to the right",0,1,0,0,0,0,0
+115,a red desk,0,0,0,0,1,0,0
+116,a small blue sofa that is facing to the right,0,0,1,0,0,0,0
+117,"a small, blue desk  (6)",0,0,0,0,0,1,0
+118,a small blue sofa facing to the left,0,0,0,0,0,0,0
+119,a red thing facing backwards,0,0,0,0,0,0,0
+120,"a small, blue, right-facing sofa",0,0,1,0,0,0,0
+121,"a small, blue desk-facing to the right",0,0,0,0,0,1,0
+122,a small blue sofa  facing to the right,0,0,1,0,0,0,0
+123,"a small,",0,0,0,0,0,0,0
+124,a blue desk facing backwards,0,0,0,0,0,0,0
+125,a small green desk facing backwards,0,0,0,0,0,0,1
+126,"a small, blue sofa facing to the right",0,0,1,0,0,0,0
+127,a small sofa that is blue in color and facing to the right,0,0,1,0,0,0,0
+128,a small blue sofa faces to the right,0,0,1,0,0,0,0
+129,"a small, green sofa facing the opposite direction of the others",0,0,0,1,0,0,0
+130,"a large, red sofa facing to the right'",1,0,0,0,0,0,0
+131,a small blue sofa,0,0,1,0,0,0,0
+132,"a small, red sofa facing to the right of the large, red sofa",0,0,0,0,0,0,0
+133,a red sofa facing backwards,0,0,0,0,0,0,0
+134,"a small, green desk facing",0,0,0,0,0,0,1
+135,"a  small, red desk facing to the right",0,0,0,0,1,0,0
+136,"a small, green desk that is facing backwards",0,0,0,0,0,0,1
+137,"a small, green sofa with its back to the viewer",0,0,0,1,0,0,0
+138,a small green sofa is facing backwards,0,0,0,1,0,0,0
+139,"a small, green sofa  facing backwards",0,0,0,1,0,0,0
+140,"a small, blue desk""",0,0,0,0,0,1,0
+141,"a small, green sofa facing to the right",0,0,0,0,0,0,0
+142,a small green sofa,0,0,0,1,0,0,0
+143,"a small, green thing",0,0,0,1,0,0,1
+144,a,0,0,0,0,0,0,0
+145,"a small, red sofa  ",0,1,0,0,0,0,0
+146,a red sofa,1,1,0,0,0,0,0
+147,a thing facing to the right,1,1,1,0,1,1,0
+148,"a small, blue desk ",0,0,0,0,0,1,0
+149,"a large, red sofa facing right",1,0,0,0,0,0,0
+150,a blue thing facing to the right,0,0,1,0,0,1,0
+151,a small red sofa facing to the right,0,1,0,0,0,0,0
+152,a blue desk,0,0,0,0,0,1,0
+153,"a small, red sofa faces to the right",0,1,0,0,0,0,0
+154,"a small, green desk facing backward",0,0,0,0,0,0,1
+155,"a small, blue desk;",0,0,0,0,0,1,0
+156,a small green desk facing to the left,0,0,0,0,0,0,0
+157,"a small, blue desk that faces to the right",0,0,0,0,0,1,0
+158,a small blue sofa facing the right,0,0,1,0,0,0,0
+159,a small red desk facing the right,0,0,0,0,1,0,0
+160,"a  small, red desk",0,0,0,0,1,0,0
+161,"a small, red sofa is facing to the right",0,1,0,0,0,0,0
+162,"a small, blue  sofa facing to the right",0,0,1,0,0,0,0
+163,a sofa facing backwards,0,0,0,1,0,0,0
+164,a large red sofa,1,0,0,0,0,0,0
+165,"a small, green desk ",0,0,0,0,0,0,1
+166,"a small, green sofa, facing backwards",0,0,0,1,0,0,0
+167,"a  small, red desk  facing to the right",0,0,0,0,1,0,0
+168,"a small, green desk",0,0,0,0,0,0,1
+169,a small green sofa ,0,0,0,1,0,0,0
+170,"a large, red sofa  facing to the right",1,0,0,0,0,0,0
+171,a blue thing facing backwards,0,0,0,0,0,0,0
+172,a small sofa,0,1,1,1,0,0,0
+173,"a large, red sofa to the right",1,0,0,0,0,0,0
+174,"a small , red desk facing to the right",0,0,0,0,1,0,0
+175,"a small, green desk, facing backwards",0,0,0,0,0,0,1
+176,a red sofa is facing to the right,1,1,0,0,0,0,0
+177,"a small, red sofa ",0,1,0,0,0,0,0
+178,a green desk facing backwards,0,0,0,0,0,0,1
+179,a small desk facing to the right,0,0,0,0,1,1,0
+180,"a small, green sofa that faces backwards",0,0,0,1,0,0,0
+181,"a large, red sofa facing to the right is object 1 in the room",1,0,0,0,0,0,0
+182,a small red desk facing to the right,0,0,0,0,1,0,0
+183,a red desk facing backwards,0,0,0,0,0,0,0
+184,"a small, red  desk facing to the right",0,0,0,0,1,0,0
+185,a small red desk face to the right,0,0,0,0,1,0,0
+186,a small  blue sofa facing to the right,0,0,1,0,0,0,0
+187,a blue sofa facing the right,0,0,1,0,0,0,0
+188,a green thing,0,0,0,1,0,0,1
+189,a small red desk ,0,0,0,0,1,0,0
+190,"a small, blue desk faces to the right",0,0,0,0,0,1,0
+191,"a small, red desk",0,0,0,0,1,0,0
+192,"a small, blue desk facing  to the right",0,0,0,0,0,1,0
+193,a small blue desk,0,0,0,0,0,1,0
+194,"a small, green, backwards-facing sofa",0,0,0,1,0,0,0
+195,"a  small, blue sofa facing to the right",0,0,1,0,0,0,0
+196,a small red desk  facing to the right,0,0,0,0,1,0,0
+197,"a small, green desk facing to the left",0,0,0,0,0,0,0
+198,a small  red desk,0,0,0,0,1,0,0
+199,"a large, red sofa facing to the right of the room",1,0,0,0,0,0,0
+200,"a small, red thing facing backwards",0,0,0,0,0,0,0
+201,"a small, red sofa facing to the right""",0,1,0,0,0,0,0
+202,"a small, green desk facing downwards",0,0,0,0,0,0,1
+203,a small red sofa is facing to the right,0,1,0,0,0,0,0
+204,"a large, blue sofa",0,0,0,0,0,0,0
+205,"a large,",0,0,0,0,0,0,0
+206,"a small, green desk facing forwards",0,0,0,0,0,0,0
+207,"a small, red sofa facing backwards",0,0,0,0,0,0,0
+208,a small red desk facing right,0,0,0,0,1,0,0
+209,"a large, green thing facing to the right",0,0,0,0,0,0,0
+210,"a small, red sofa",0,1,0,0,0,0,0
+211,"a large, red sofa is facing to the right",1,0,0,0,0,0,0
+212,a small red desk is facing to the right,0,0,0,0,1,0,0
+213,"a small, red thing",0,1,0,0,1,0,0
+214,"a large, red thing facing to the right",1,0,0,0,0,0,0
+215,"a small green desk facing backwards""",0,0,0,0,0,0,1
+216,"a small, green desk facing the opposite direction of other objects",0,0,0,0,0,0,1
+217,a green sofa is facing backwards,0,0,0,1,0,0,0
+218,"a small, red sofa, facing to the right",0,1,0,0,0,0,0
+219,"a small blue sofa, facing right",0,0,1,0,0,0,0
+220,"a small, blue, facing-right sofa",0,0,1,0,0,0,0
+221,"a small, blue couch",0,0,1,0,0,1,0
+222,a thing,1,1,1,1,1,1,1
+223,a large thing,1,0,0,0,0,0,0
+224,a small  blue desk facing to the right,0,0,0,0,0,1,0
+225,a small thing facing backwards,0,0,0,1,0,0,1
+226,"a large, red sofa ",1,0,0,0,0,0,0
+227,"a small, red thing facing to the right",0,1,0,0,1,0,0
+228,a green desk facing to the right,0,0,0,0,0,0,0
+229,a blue sofa facing backwards,0,0,0,0,0,0,0
+230,"a small, blue table",0,0,0,0,0,1,0
+231,a green thing facing backwards,0,0,0,1,0,0,1
+232,a large,0,0,0,0,0,0,0
+233,"a small, green sofa facing backwards",0,0,0,1,0,0,0
+234,"a small, green sofa",0,0,0,1,0,0,0
+235,"a small, green sofa that is facing backwards",0,0,0,1,0,0,0
+236,"a small, red sofa facing to the right;",0,1,0,0,0,0,0
+237,"a large, red sofa is in the room",1,0,0,0,0,0,0
+238,a green sofa facing to the right,0,0,0,0,0,0,0
+239,"a small, blue couch facing to the right",0,0,1,0,0,1,0
+240,"a small, green desk is facing backwards",0,0,0,0,0,0,1
+241,"a small, red sofa facing to the right, distinguishable from other objects by its size and color",0,1,0,0,0,0,0
+242,a small green sofa facing to the left,0,0,0,0,0,0,0
+243,"a large, red sofa  (1)",1,0,0,0,0,0,0
+244,"a blue sofa, facing to the right",0,0,1,0,0,0,0
+245,"a small, blue desk faced to the right",0,0,0,0,0,1,0
+246,a green sofa,0,0,0,1,0,0,0
+247,"a small, blue sofa",0,0,1,0,0,0,0
+248,a small sofa facing backwards,0,0,0,1,0,0,0
+249,a large thing facing to the right,1,0,0,0,0,0,0
+250,a  blue sofa,0,0,1,0,0,0,0
+251,"a large, red sofa",1,0,0,0,0,0,0
+252,a small red desk faces to the right,0,0,0,0,1,0,0
+253,a red sofa facing to the right,1,1,0,0,0,0,0
+254,"a small, green thing facing to the right",0,0,0,0,0,0,0
+255,a small blue sofa facing right,0,0,1,0,0,0,0
+256,a blue sofa facing to the right,0,0,1,0,0,0,0
+257,"a  small, blue desk facing to the right",0,0,0,0,0,1,0
+258,"a blue, small sofa facing to the right",0,0,1,0,0,0,0
+259,"a small, blue thing facing to the right",0,0,1,0,0,1,0
+260,"a small, green sofa with its back facing the viewer",0,0,0,1,0,0,0
+261,a red thing facing to the right,1,1,0,0,1,0,0
+262,"a small green sofa, facing backwards",0,0,0,1,0,0,0
+263,"a large, red sofa facing to the right""",1,0,0,0,0,0,0
+264,a  red desk,0,0,0,0,1,0,0
+265,a small red desk,0,0,0,0,1,0,0
+266,a blue sofa is facing to the right,0,0,1,0,0,0,0
+267,"a small, green desk  facing backwards",0,0,0,0,0,0,1
+268,"a small, blue desk, facing to the right",0,0,0,0,0,1,0
+269,a  red sofa,1,1,0,0,0,0,0
+270,"a small, blue thing facing backwards",0,0,0,0,0,0,0
+271,"a small, green sofa facing the opposite direction of the other sofas",0,0,0,1,0,0,0
+272,"a  large, red sofa",1,0,0,0,0,0,0
+273,a green desk,0,0,0,0,0,0,1
+274,"a small red desk, facing to the right",0,0,0,0,1,0,0
+275,a little blue sofa facing to the right,0,0,1,0,0,0,0
+276,a small blue sofa is facing to the right,0,0,1,0,0,0,0
+277,"a large, red sofa facing to the right;",1,0,0,0,0,0,0
+278,"a small, red sofa facing to the right'",0,1,0,0,0,0,0
+279,"a small, red couch",0,1,0,0,1,0,0
+280,"a large, red sofa""",1,0,0,0,0,0,0
+281,"a small, red sofa facing to the right  (2)",0,1,0,0,0,0,0
+282,a red sofa ,1,1,0,0,0,0,0
+283,"a large, red thing",1,0,0,0,0,0,0
+284,"a large, red sofa facing to the right is in the room",1,0,0,0,0,0,0
+285,a large sofa,1,0,0,0,0,0,0
+286,"a small, green desk facing the left",0,0,0,0,0,0,0
+287,"a small, green desk facing upwards",0,0,0,0,0,0,0
+288,"a small, blue  desk facing to the right",0,0,0,0,0,1,0
+289,"a small, green desk facing the opposite direction of the other desks",0,0,0,0,0,0,1
+290,"a small, red sofa""",0,1,0,0,0,0,0
+291,"a small, green sofa backwards",0,0,0,1,0,0,0
+292,a small green sofa facing backwards,0,0,0,1,0,0,0

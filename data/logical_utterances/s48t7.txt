@@ -1,0 +1,73 @@
+data/corpus/s48t7.xml
+a thing
+a thing facing forwards
+a thing facing backwards
+a chair
+a chair facing forwards
+a chair facing backwards
+a desk
+a desk facing forwards
+a desk facing backwards
+a grey thing
+a grey thing facing forwards
+a grey thing facing backwards
+a grey chair
+a grey chair facing forwards
+a grey chair facing backwards
+a grey desk
+a grey desk facing forwards
+a grey desk facing backwards
+a red thing
+a red thing facing forwards
+a red thing facing backwards
+a red chair
+a red chair facing forwards
+a red chair facing backwards
+a red desk
+a red desk facing forwards
+a red desk facing backwards
+a large thing
+a large thing facing forwards
+a large thing facing backwards
+a large chair
+a large chair facing forwards
+a large chair facing backwards
+a large desk
+a large desk facing forwards
+a large desk facing backwards
+a large, grey thing
+a large, grey thing facing forwards
+a large, grey thing facing backwards
+a large, grey chair
+a large, grey chair facing forwards
+a large, grey chair facing backwards
+a large, grey desk
+a large, grey desk facing forwards
+a large, grey desk facing backwards
+a large, red thing
+a large, red thing facing forwards
+a large, red thing facing backwards
+a large, red chair
+a large, red chair facing forwards
+a large, red chair facing backwards
+a large, red desk
+a large, red desk facing forwards
+a large, red desk facing backwards
+a small thing
+a small thing facing backwards
+a small chair
+a small chair facing backwards
+a small desk
+a small desk facing backwards
+a small, grey thing
+a small, grey thing facing backwards
+a small, grey chair
+a small, grey chair facing backwards
+a small, grey desk
+a small, grey desk facing backwards
+a small, red thing
+a small, red thing facing backwards
+a small, red chair
+a small, red chair facing backwards
+a small, red desk
+a small, red desk facing backwards

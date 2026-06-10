@@ -1,0 +1,308 @@
+|Sequence|Object|p_llm
+0|a small blue fan facing to the left|0|-24.963579177856445
+1|a small, blue fan facing to the left|0|-25.984130859375
+2|a small, blue fan is facing to the left|0|-30.058290481567383
+3|a small blue fan, facing left|0|-28.97165298461914
+4|a small fan facing left|0|-28.917245864868164
+5|a small, blue fan  facing to the left|0|-29.941837310791016
+6|a small, blue fan to the left|0|-29.284990310668945
+7|a blue fan on the left|0|-29.598237991333008
+8|a small blue fan to the left|0|-28.429397583007812
+9|a small, blue fan, facing to the left|0|-29.044321060180664
+10|a blue fan facing to the left|0|-27.209726333618164
+11|a blue fan facing the left|0|-28.931007385253906
+12|a small, blue fan facing the left|0|-29.951629638671875
+13|a blue fan |0|-28.965885162353516
+14|a small, blue fan  (1)|0|-30.18023109436035
+15|a small, blue fan on the left|0|-30.081439971923828
+16|a small fan facing to the left|0|-28.7901554107666
+17|a blue fan|0|-26.325260162353516
+18|a small, blue fan |0|-27.006256103515625
+19|a small, blue fan|0|-25.381256103515625
+20|a little blue fan|0|-29.251604080200195
+21|a small, blue fan 1|0|-29.287395477294922
+22|a small blue fan facing the left|0|-29.71268081665039
+23|a small blue fan facing left|0|-25.165019989013672
+24|a blue fan facing left|0|-26.284507751464844
+25|a small fan in the room|0|-29.83946990966797
+26|a small blue fan, facing to the left|0|-29.208581924438477
+27|a small blue fan |0|-28.06441879272461
+28|a small, blue fan facing to the left |0|-29.960693359375
+29|a blue fan, facing left|0|-28.80634880065918
+30|a blue fan, facing to the left|0|-29.51072120666504
+31|a small blue fan|0|-25.47848129272461
+32|a blue fan to the left|0|-29.312454223632812
+33|a small fan|0|-28.546382904052734
+34|a small, blue fan, facing left|0|-29.93354606628418
+35|a blue, small fan|0|-29.247907638549805
+36|a|0|-29.943347930908203
+37|a small, blue fan facing left|0|-26.852523803710938
+0|a small, blue fan facing to the left|1|-30.603355407714844
+1|a fan facing to the left|1|-31.658891677856445
+2|a small blue fan facing to the left|1|-31.84414291381836
+3|a small, green fan|1|-22.927875518798828
+4|"a green fan"""|1|-31.31148338317871
+5|a green fan is facing left|1|-32.148521423339844
+6|a green fan faces left|1|-32.28449249267578
+7|a small fan facing left|1|-31.279911041259766
+8|a small fan that is green and facing to the left|1|-32.484371185302734
+9|a large, red fan|1|-30.88367462158203
+10|a green fan facing to the left|1|-27.941423416137695
+11|a green fan |1|-29.85835838317871
+12|a green fan in the room|1|-31.141050338745117
+13|a green fan is facing to the left|1|-32.73738098144531
+14|a blue fan facing to the left|1|-31.02855682373047
+15|a small fan facing to the left, colored green|1|-31.877994537353516
+16|a small, green sofa facing to the left|1|-31.454198837280273
+17|a large, green fan facing to the left|1|-31.258636474609375
+18|a large, blue fan facing to the left|1|-30.361330032348633
+19|a fan, green|1|-31.431432723999023
+20|a little green fan|1|-32.271610260009766
+21|a green fan facing the left|1|-31.25228500366211
+22|a small, blue fan|1|-32.44636917114258
+23|a green fan is in the room|1|-31.737302780151367
+24|a green fan|1|-26.95210838317871
+25|a small fan in the room|1|-32.23238754272461
+26|a green fan in a room|1|-32.05400085449219
+27|a small fan, green, facing left|1|-32.6484489440918
+28|a large, red sofa facing backwards|1|-31.791139602661133
+29|a small green fan|1|-25.491771697998047
+30|a small green sofa|1|-31.835521697998047
+31|a small fan that is green in color and facing to the left|1|-32.66019058227539
+32|a green fan facing left|1|-29.2880859375
+33|a green, small fan facing to the left|1|-32.374908447265625
+34|a small fan|1|-31.01277732849121
+35|a green sofa|1|-31.566320419311523
+36|a green fan  facing to the left|1|-32.08208465576172
+37|a|1|-30.581111907958984
+38|a green fan  (2)|1|-32.37403106689453
+39|a small fan, green in color, facing to the left|1|-32.727073669433594
+40|a green fan, facing to the left|1|-30.70050811767578
+41|a green fan on the left|1|-32.03077697753906
+42|a small,|1|-32.25518035888672
+43|a little green fan facing left|1|-31.910720825195312
+44|a small, green sofa|1|-32.38740539550781
+0|a small, blue fan facing to the left|2|-8.375683784484863
+1|a fan facing to the left|2|-10.056473731994629
+2|a big blue fan facing left|2|-10.273845672607422
+3|a large blue fan in the room|2|-11.151358604431152
+4|a large blue fan facing to the left|2|-11.220742225646973
+5|a small, green fan facing to the left|2|-9.44381046295166
+6|a large fan, blue in color, facing left|2|-11.544344902038574
+7|a large  blue fan|2|-10.323026657104492
+8|a large fan is facing to the left|2|-10.505695343017578
+9|a large fan that is blue and facing to the left|2|-10.351155281066895
+10|a large, red fan|2|-10.400211334228516
+11|a large fan that is blue in color and facing left|2|-13.105292320251465
+12|a large, blue fan|2|-1.6842865943908691
+13|a large blue fan  facing to the left|2|-9.857321739196777
+14|a large, blue sofa facing to the left|2|-9.203585624694824
+15|a large blue fan, facing to the left|2|-8.388162612915039
+16|a large blue fan is facing to the left|2|-11.10389232635498
+17|a large fan facing to the left, colored blue|2|-11.361830711364746
+18|a large fan is blue and facing to the left|2|-13.067358016967773
+19|a large fan that is blue in color|2|-11.246955871582031
+20|a blue fan|2|-6.83335018157959
+21|a  large blue fan|2|-10.204061508178711
+22|a small, blue fan|2|-10.013653755187988
+23|a large blue fan to the left|2|-9.506682395935059
+24|a large blue fan face left|2|-10.245002746582031
+25|a large blue fan on the left|2|-10.960329055786133
+26|a large fan that is blue in color and facing to the left|2|-21.573402404785156
+27|a large blue fan facing the left|2|-10.14697265625
+28|a large blue fan facing left |2|-10.12192440032959
+29|a large,|2|-10.540217399597168
+30|a large blue fan, facing left|2|-11.084229469299316
+31|a large blue fan  (3)|2|-10.904552459716797
+32|a large fan facing left|2|-9.470372200012207
+33|a large fan, blue in color, facing to the left|2|-9.790237426757812
+34|a large blue fan that is facing to the left|2|-10.729212760925293
+35|a large blue fan faces left|2|-9.616439819335938
+36|a  large, blue fan|2|-8.97546672821045
+37|a large blue sofa|2|-9.189417839050293
+38|a blue sofa|2|-9.948687553405762
+39|a small blue fan|2|-9.073599815368652
+40|a large sofa|2|-10.095003128051758
+41|a small fan|2|-9.803483963012695
+42|a large fan that is blue in color and is facing to the left|2|-11.42103385925293
+43|a|2|-8.189931869506836
+44|a large fan, blue, facing left|2|-10.507537841796875
+45|a large fan facing to the left|2|-7.745632171630859
+46|a large blue fan facing left|2|-10.745166778564453
+47|a large blue fan is facing left|2|-9.749341011047363
+48|a large fan is blue and facing left|2|-11.010493278503418
+49|a large blue fan faces to the left|2|-9.774277687072754
+0|a small, blue fan facing to the left|3|-29.279621124267578
+1|a small, green fan|3|-30.399333953857422
+2|a large fan that is red in color and facing backwards|3|-31.353466033935547
+3|a small, green fan facing to the left|3|-28.45516586303711
+4|a red sofa facing backwards|3|-28.80339813232422
+5|a red fan that is facing backwards|3|-29.452608108520508
+6|a large, red, backwards fan|3|-30.711652755737305
+7|a large, red fan facing backward|3|-28.774934768676758
+8|a large, red fan|3|-24.71908187866211
+9|a large, red fan facing forwards|3|-31.411544799804688
+10|a red fan facing the opposite direction of the other fans|3|-32.3618049621582
+11|a backwards red fan|3|-29.070110321044922
+12|a red, large fan|3|-29.18769645690918
+13|a large, red fan faces backwards|3|-30.66634750366211
+14|a backwards-facing red fan|3|-29.600635528564453
+15|a large fan facing backwards|3|-27.414016723632812
+16|a large fan|3|-29.43193244934082
+17|a large red fan|3|-25.114856719970703
+18|a large, blue fan facing to the left|3|-29.701879501342773
+19|a large, red fan that is facing backwards|3|-29.33738136291504
+20|a large, red fan facing to the left|3|-31.665721893310547
+21|a large red sofa facing backwards|3|-29.58570671081543
+22|a small, blue fan|3|-30.24020004272461
+23|a red fan turned backwards|3|-30.008262634277344
+24|a red fan facing the opposite direction of the others|3|-32.27313995361328
+25|a fan facing backwards|3|-28.147510528564453
+26|a red fan, facing backwards|3|-28.64930534362793
+27|a large, red fan, facing backwards|3|-28.74582290649414
+28|a large, red fan facing backwards|3|-23.056184768676758
+29|a large, red, backwards-facing fan|3|-31.018890380859375
+30|a red fan facing to the right|3|-30.73860740661621
+31|a large, red sofa facing backwards|3|-28.551616668701172
+32|a large, red fan facing to the right|3|-30.129714965820312
+33|a red fan is backwards|3|-30.19985008239746
+34|a red fan is facing backwards|3|-29.940937042236328
+35|a large fan that is red and facing backwards|3|-30.918508529663086
+36|a red fan|3|-30.276817321777344
+37|a red fan facing backwards|3|-30.602689743041992
+38|a large, red fan |3|-27.79720687866211
+39|a large, red fan is facing backwards|3|-30.96681022644043
+40|a|3|-29.38344955444336
+41|a large, red fan is backwards|3|-30.99411392211914
+42|a red fan in the room|3|-30.312164306640625
+43|a large, red fan facing the opposite direction of the other fans|3|-32.69711685180664
+44|a large, red fan backwards|3|-29.647754669189453
+0|a small green sofa facing left|4|-30.09467124938965
+1|a green couch facing left|4|-30.7510986328125
+2|a small, green couch|4|-29.968204498291016
+3|a small sofa|4|-28.93260383605957
+4|a small, green sofa faced to the left|4|-31.002437591552734
+5|a small, green sofa faces left|4|-30.391918182373047
+6|a small green sofa  facing to the left|4|-31.044652938842773
+7|a small, green sofa is facing to the left in the room|4|-60.96452331542969
+8|a blue sofa facing to the left|4|-30.312856674194336
+9|a little green sofa facing left|4|-31.148439407348633
+10|a small, green sofa that is facing left|4|-32.81089782714844
+11|a large, blue sofa facing to the left|4|-29.184547424316406
+12|a small, green sofa facing to the left|4|-33.13570022583008
+13|a small green sofa facing the left|4|-30.069164276123047
+14|a small, green sofa facing left|4|-27.895105361938477
+15|a blue fan|4|-30.811494827270508
+16|a small, green sofa, facing left|4|-30.633642196655273
+17|a sofa|4|-31.143394470214844
+18|a sofa facing to the left|4|-29.89737892150879
+19|a green, small sofa facing left|4|-30.792619705200195
+20|a small, green sofa is in the room|4|-31.079923629760742
+21|a small, green sofa facing the left|4|-30.49579620361328
+22|a small, green sofa in the room|4|-30.875980377197266
+23|a small, green sofa is facing to the left|4|-31.296777725219727
+24|a small, green sofa, facing to the left|4|-27.823455810546875
+25|a small green sofa|4|-27.557222366333008
+26|a small, green sofa faces to the left|4|-30.207351684570312
+27|a small green sofa, facing to the left|4|-32.95810317993164
+28|a small green sofa facing to the left|4|-27.981128692626953
+29|a small green sofa is facing to the left|4|-32.84880065917969
+30|a green sofa|4|-24.667373657226562
+31|a small green sofa |4|-30.502534866333008
+32|a|4|-29.541091918945312
+33|a small, green sofa to the left|4|-33.80826187133789
+34|a green, small sofa facing to the left|4|-30.45000457763672
+35|a small, green sofa (5)|4|-31.006155014038086
+36|a small, green sofa that is facing to the left|4|-32.46842575073242
+37|a small, green sofa is in the room, facing to the left|4|-33.40670394897461
+38|a large, red sofa|4|-30.131555557250977
+0|a large blue sofa is facing to the left|5|-31.677907943725586
+1|a small, blue fan facing to the left|5|-32.38883972167969
+2|a large, blue sofa is facing to the left|5|-33.322364807128906
+3|a large, blue sofa faced to the left|5|-33.39631652832031
+4|a small, green fan|5|-32.43217849731445
+5|a large, blue sofa 6|5|-31.63119125366211
+6|a large blue sofa  facing to the left|5|-32.15818405151367
+7|a  large, blue sofa facing to the left|5|-31.299663543701172
+8|a large blue sofa faces to the left|5|-32.730621337890625
+9|a large, blue sofa, facing left|5|-32.79573059082031
+10|a large, blue couch facing to the left|5|-32.89266586303711
+11|a large, blue sofa that is facing to the left|5|-32.15321731567383
+12|a large blue sofa facing to the left |5|-31.03487777709961
+13|a large blue sofa facing to the left,|5|-33.69368362426758
+14|a large, blue sofa in the room|5|-32.09261703491211
+15|a large, blue sofa facing to the left|5|-33.20429229736328
+16|a small, green sofa facing to the left|5|-32.41983413696289
+17|a large, blue fan facing to the left|5|-32.47992706298828
+18|a large, blue sofa facing left|5|-30.667978286743164
+19|a large blue sofa facing to the left of the room|5|-32.78580093383789
+20|a large, blue sofa (6) facing to the left|5|-33.9680290222168
+21|a large blue sofa faces left|5|-32.416927337646484
+22|a large sofa facing to the left|5|-29.6058292388916
+23|a large, blue sofa  (6)|5|-32.35770797729492
+24|a sofa facing to the left|5|-32.72472381591797
+25|a large blue sofa |5|-32.57890319824219
+26|a large, blue sofa, facing to the left|5|-30.057409286499023
+27|a large, blue sofa faces left|5|-32.126686096191406
+28|"a large blue sofa facing to the left"""|5|-31.39425277709961
+29|a large blue sofa, facing left|5|-32.7461051940918
+30|a large blue sofa|5|-32.12577819824219
+31|a large blue sofa facing the left|5|-32.435001373291016
+32|a large, blue sofa to the left|5|-33.08741760253906
+33|a green sofa facing to the left|5|-31.35357093811035
+34|a large, blue sofa faces to the left|5|-31.8226318359375
+35|a blue sofa|5|-27.842151641845703
+36|a large, blue sofa facing the left|5|-32.829227447509766
+37|a|5|-30.16026496887207
+38|a large, blue sofa  facing to the left|5|-30.00395393371582
+39|a large blue sofa, facing to the left|5|-31.59368133544922
+40|a large  blue sofa|5|-32.30439758300781
+41|a large, blue sofa-facing to the left|5|-32.58115005493164
+42|a big blue sofa facing left|5|-32.40463638305664
+43|a large blue sofa facing to the left|5|-26.78487777709961
+0|a large, red sofa facing forwards|6|-8.43992805480957
+1|a large sofa facing backwards|6|-7.229547023773193
+2|a large red sofa facing backwards |6|-8.966039657592773
+3|a large, red sofa facing backwards |6|-10.776834487915039
+4|a large red sofa facing to the right|6|-10.90161418914795
+5|a large red sofa facing backward|6|-9.268182754516602
+6|a large, red sofa facing the opposite direction of other objects|6|-12.731379508972168
+7|a large, red sofa is facing backwards|6|-8.671614646911621
+8|a red sofa facing backwards|6|-9.14020824432373
+9|"a large red sofa facing backwards"""|6|-10.075414657592773
+10|a large, red sofa facing to the right|6|-9.54670238494873
+11|a large, red sofa facing to the left|6|-10.658555030822754
+12|a large, red sofa faces backwards|6|-10.165780067443848
+13|a large red sofa facing backwards in the room|6|-10.954252243041992
+14|a red sofa facing backward|6|-10.163125991821289
+15|a red sofa is facing backwards|6|-10.28748607635498
+16|a large, red sofa facing the wall|6|-10.5337495803833
+17|a large red sofa, facing backwards|6|-11.067212104797363
+18|a small, green sofa facing to the left|6|-10.587932586669922
+19|a large, red, backwards-facing sofa|6|-11.0761137008667
+20|a red sofa, facing backwards|6|-10.68295955657959
+21|a large red sofa facing backwards|6|-5.341038703918457
+22|a small, blue fan|6|-8.895164489746094
+23|a large, red sofa, facing backwards|6|-8.733550071716309
+24|a large, blue sofa|6|-8.370685577392578
+25|a large,|6|-10.05651569366455
+26|"a large, red sofa"""|6|-10.162556648254395
+27|a sofa facing backwards|6|-9.078755378723145
+28|a large, red fan facing backwards|6|-10.145180702209473
+29|a large, red sofa  facing backwards|6|-8.818851470947266
+30|a red, large sofa facing backwards|6|-10.463908195495605
+31|a large, red sofa facing backwards|6|-6.839334487915039
+32|a large, red sofa facing the opposite direction of the other objects|6|-12.371994972229004
+33|a large, red sofa  |6|-10.475056648254395
+34|a  large, red sofa facing backwards|6|-9.379236221313477
+35|a large red sofa|6|-10.421998977661133
+36|a large, red sofa |6|-7.4516191482543945
+37|a large, red sofa facing backward|6|-8.53367805480957
+38|a large sofa|6|-9.556061744689941
+39|a large, red, backwards sofa|6|-10.663190841674805
+40|a large, red sofa-facing backwards|6|-10.75971508026123
+41|a|6|-7.886533260345459
+42|a large red sofa |6|-10.203248977661133
+43|a large red sofa is facing backwards|6|-10.459118843078613
+44|a large, red sofa that is facing backwards|6|-10.528098106384277
+45|a large, red sofa|6|-8.248494148254395

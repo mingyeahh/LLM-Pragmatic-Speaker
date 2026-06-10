@@ -1,0 +1,109 @@
+data/corpus/s69t5.xml
+a grey thing facing forwards
+a grey thing facing to the left
+a grey thing
+a grey thing facing backwards
+a grey chair facing forwards
+a grey chair facing to the left
+a grey chair
+a grey chair facing backwards
+a grey fan facing forwards
+a grey fan facing to the left
+a grey fan
+a grey fan facing backwards
+a green thing facing forwards
+a green thing facing to the left
+a green thing
+a green thing facing backwards
+a green chair facing forwards
+a green chair facing to the left
+a green chair
+a green chair facing backwards
+a green fan facing forwards
+a green fan facing to the left
+a green fan
+a green fan facing backwards
+a thing facing forwards
+a thing facing to the left
+a thing
+a thing facing backwards
+a chair facing forwards
+a chair facing to the left
+a chair
+a chair facing backwards
+a fan facing forwards
+a fan facing to the left
+a fan
+a fan facing backwards
+a blue thing facing forwards
+a blue thing facing to the left
+a blue thing
+a blue thing facing backwards
+a blue chair facing forwards
+a blue chair facing to the left
+a blue chair
+a blue chair facing backwards
+a blue fan facing forwards
+a blue fan facing to the left
+a blue fan
+a blue fan facing backwards
+a large, grey thing facing to the left
+a large, grey thing
+a large, grey thing facing backwards
+a large, grey chair facing to the left
+a large, grey chair
+a large, grey chair facing backwards
+a large, grey fan facing to the left
+a large, grey fan
+a large, grey fan facing backwards
+a large, green thing facing to the left
+a large, green thing
+a large, green thing facing backwards
+a large, green chair facing to the left
+a large, green chair
+a large, green chair facing backwards
+a large, green fan facing to the left
+a large, green fan
+a large, green fan facing backwards
+a large thing facing to the left
+a large thing
+a large thing facing backwards
+a large chair facing to the left
+a large chair
+a large chair facing backwards
+a large fan facing to the left
+a large fan
+a large fan facing backwards
+a large, blue thing facing to the left
+a large, blue thing
+a large, blue thing facing backwards
+a large, blue chair facing to the left
+a large, blue chair
+a large, blue chair facing backwards
+a large, blue fan facing to the left
+a large, blue fan
+a large, blue fan facing backwards
+a small, grey thing facing forwards
+a small, grey thing
+a small, grey chair facing forwards
+a small, grey chair
+a small, grey fan facing forwards
+a small, grey fan
+a small, green thing facing forwards
+a small, green thing
+a small, green chair facing forwards
+a small, green chair
+a small, green fan facing forwards
+a small, green fan
+a small thing facing forwards
+a small thing
+a small chair facing forwards
+a small chair
+a small fan facing forwards
+a small fan
+a small, blue thing facing forwards
+a small, blue thing
+a small, blue chair facing forwards
+a small, blue chair
+a small, blue fan facing forwards
+a small, blue fan

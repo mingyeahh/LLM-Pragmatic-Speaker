@@ -1,0 +1,12 @@
+# Core
+# numpy capped <2.3 to match SciPy's supported range (SciPy <1.13 requires numpy <2.3).
+numpy>=1.24,<2.3
+pandas>=2.0
+scipy>=1.10
+
+# Plotting (analysis figures)
+matplotlib>=3.7
+
+# Local LLM inference (GGUF). Only needed for the scoring/generation phases,
+# not for parsing or analysis. See the README for build/install notes.
+llama-cpp-python>=0.2.70

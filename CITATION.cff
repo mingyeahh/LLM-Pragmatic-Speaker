@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Are LLMs good pragmatic speakers?"
+authors:
+  - family-names: Jian
+    given-names: Mingyue
+    affiliation: University of Edinburgh
+  - family-names: Siddharth
+    given-names: N.
+    affiliation: University of Edinburgh
+preferred-citation:
+  type: conference-paper
+  title: "Are LLMs good pragmatic speakers?"
+  authors:
+    - family-names: Jian
+      given-names: Mingyue
+    - family-names: Siddharth
+      given-names: N.
+  collection-title: "NeurIPS 2024 Workshop on Behavioral Machine Learning"
+  year: 2024
+  url: "https://arxiv.org/abs/2411.01562"
+identifiers:
+  - type: other
+    value: "arXiv:2411.01562"
+    description: arXiv preprint

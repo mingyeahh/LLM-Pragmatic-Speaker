@@ -1,0 +1,88 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,a thing facing forwards,1,0,1,0,0,1,0
+1,a thing facing to the left,0,0,0,1,0,0,1
+2,a thing,1,1,1,1,1,1,1
+3,a thing facing to the right,0,1,0,0,1,0,0
+4,a chair facing forwards,0,0,0,0,0,1,0
+5,a chair facing to the left,0,0,0,0,0,0,1
+6,a chair,0,0,0,0,1,1,1
+7,a chair facing to the right,0,0,0,0,1,0,0
+8,a desk facing forwards,1,0,1,0,0,0,0
+9,a desk facing to the left,0,0,0,1,0,0,0
+10,a desk,1,1,1,1,0,0,0
+11,a desk facing to the right,0,1,0,0,0,0,0
+12,a grey thing facing forwards,0,0,0,0,0,0,0
+13,a grey thing facing to the left,0,0,0,1,0,0,1
+14,a grey thing,0,0,0,1,0,0,1
+15,a grey thing facing to the right,0,0,0,0,0,0,0
+16,a grey chair facing forwards,0,0,0,0,0,0,0
+17,a grey chair facing to the left,0,0,0,0,0,0,1
+18,a grey chair,0,0,0,0,0,0,1
+19,a grey chair facing to the right,0,0,0,0,0,0,0
+20,a grey desk facing forwards,0,0,0,0,0,0,0
+21,a grey desk facing to the left,0,0,0,1,0,0,0
+22,a grey desk,0,0,0,1,0,0,0
+23,a grey desk facing to the right,0,0,0,0,0,0,0
+24,a green thing facing forwards,1,0,1,0,0,1,0
+25,a green thing facing to the left,0,0,0,0,0,0,0
+26,a green thing,1,1,1,0,1,1,0
+27,a green thing facing to the right,0,1,0,0,1,0,0
+28,a green chair facing forwards,0,0,0,0,0,1,0
+29,a green chair facing to the left,0,0,0,0,0,0,0
+30,a green chair,0,0,0,0,1,1,0
+31,a green chair facing to the right,0,0,0,0,1,0,0
+32,a green desk facing forwards,1,0,1,0,0,0,0
+33,a green desk facing to the left,0,0,0,0,0,0,0
+34,a green desk,1,1,1,0,0,0,0
+35,a green desk facing to the right,0,1,0,0,0,0,0
+36,a large thing facing forwards,0,0,1,0,0,1,0
+37,a large thing facing to the left,0,0,0,1,0,0,1
+38,a large thing,0,0,1,1,0,1,1
+39,a large chair facing forwards,0,0,0,0,0,1,0
+40,a large chair facing to the left,0,0,0,0,0,0,1
+41,a large chair,0,0,0,0,0,1,1
+42,a large desk facing forwards,0,0,1,0,0,0,0
+43,a large desk facing to the left,0,0,0,1,0,0,0
+44,a large desk,0,0,1,1,0,0,0
+45,"a large, grey thing facing forwards",0,0,0,0,0,0,0
+46,"a large, grey thing facing to the left",0,0,0,1,0,0,1
+47,"a large, grey thing",0,0,0,1,0,0,1
+48,"a large, grey chair facing forwards",0,0,0,0,0,0,0
+49,"a large, grey chair facing to the left",0,0,0,0,0,0,1
+50,"a large, grey chair",0,0,0,0,0,0,1
+51,"a large, grey desk facing forwards",0,0,0,0,0,0,0
+52,"a large, grey desk facing to the left",0,0,0,1,0,0,0
+53,"a large, grey desk",0,0,0,1,0,0,0
+54,"a large, green thing facing forwards",0,0,1,0,0,1,0
+55,"a large, green thing facing to the left",0,0,0,0,0,0,0
+56,"a large, green thing",0,0,1,0,0,1,0
+57,"a large, green chair facing forwards",0,0,0,0,0,1,0
+58,"a large, green chair facing to the left",0,0,0,0,0,0,0
+59,"a large, green chair",0,0,0,0,0,1,0
+60,"a large, green desk facing forwards",0,0,1,0,0,0,0
+61,"a large, green desk facing to the left",0,0,0,0,0,0,0
+62,"a large, green desk",0,0,1,0,0,0,0
+63,a small thing facing forwards,1,0,0,0,0,0,0
+64,a small thing,1,1,0,0,1,0,0
+65,a small thing facing to the right,0,1,0,0,1,0,0
+66,a small chair,0,0,0,0,1,0,0
+67,a small chair facing to the right,0,0,0,0,1,0,0
+68,a small desk facing forwards,1,0,0,0,0,0,0
+69,a small desk,1,1,0,0,0,0,0
+70,a small desk facing to the right,0,1,0,0,0,0,0
+71,"a small, grey thing facing forwards",0,0,0,0,0,0,0
+72,"a small, grey thing",0,0,0,0,0,0,0
+73,"a small, grey thing facing to the right",0,0,0,0,0,0,0
+74,"a small, grey chair",0,0,0,0,0,0,0
+75,"a small, grey chair facing to the right",0,0,0,0,0,0,0
+76,"a small, grey desk facing forwards",0,0,0,0,0,0,0
+77,"a small, grey desk",0,0,0,0,0,0,0
+78,"a small, grey desk facing to the right",0,0,0,0,0,0,0
+79,"a small, green thing facing forwards",1,0,0,0,0,0,0
+80,"a small, green thing",1,1,0,0,1,0,0
+81,"a small, green thing facing to the right",0,1,0,0,1,0,0
+82,"a small, green chair",0,0,0,0,1,0,0
+83,"a small, green chair facing to the right",0,0,0,0,1,0,0
+84,"a small, green desk facing forwards",1,0,0,0,0,0,0
+85,"a small, green desk",1,1,0,0,0,0,0
+86,"a small, green desk facing to the right",0,1,0,0,0,0,0

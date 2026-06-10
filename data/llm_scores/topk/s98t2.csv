@@ -1,0 +1,320 @@
+|Sequence|Object|p_llm
+0|a red, small chair facing right|0|-30.952665328979492
+1|a red chair facing to the right|0|-30.85196304321289
+2|a small red chair facing left|0|-30.636363983154297
+3|a small red chair facing to the right|0|-29.430898666381836
+4|a small, red chair facing to the  right|0|-32.712581634521484
+5|a small red chair|0|-30.225994110107422
+6|a red chair facing left|0|-30.14230728149414
+7|a small red chair facing to the left|0|-30.61254119873047
+8|a small, red chair facing the left|0|-31.98613739013672
+9|a small red chair is facing to the right|0|-31.22233009338379
+10|a small red chair facing the right|0|-31.9598331451416
+11|a small, red chair  (1)|0|-31.3416805267334
+12|a red chair |0|-30.769710540771484
+13|a small red chair  facing to the right|0|-31.023584365844727
+14|a small, red chair, facing right|0|-29.969905853271484
+15|a red chair facing the right|0|-32.348201751708984
+16|a small, red, facing-right chair|0|-30.865888595581055
+17|a red chair facing right|0|-30.645774841308594
+18|a chair|0|-30.100200653076172
+19|a small, red chair  facing to the right|0|-29.36431121826172
+20|a red chair, facing to the right|0|-30.53826141357422
+21|a small, red chair facing to the right|0|-30.67411994934082
+22|a red chair is facing to the right|0|-30.81480598449707
+23|a small red chair facing right|0|-29.67344856262207
+24|a small, red chair facing the right|0|-27.80381202697754
+25|a small chair, red, facing right|0|-32.02192687988281
+26|a small, red chair, facing to the right|0|-28.75809669494629
+27|a small, red chair that is facing to the right|0|-31.257179260253906
+28|a small, red chair 1|0|-32.47593688964844
+29|a small, red chair facing to the left|0|-29.846805572509766
+30|a red chair, facing right|0|-29.718122482299805
+31|a small chair facing to the right|0|-29.386924743652344
+32|a small chair|0|-29.74484634399414
+33|a small red chair, facing right|0|-30.82415771484375
+34|a small, red chair to the right|0|-30.569414138793945
+35|a small, red chair |0|-30.493305206298828
+36|a small, red chair is facing to the right|0|-30.55620574951172
+37|a red chair|0|-31.027523040771484
+38|a small red chair |0|-29.882244110107422
+39|a small red chair, facing to the right|0|-30.3289737701416
+40|a|0|-30.148239135742188
+41|a small red chair to the right|0|-30.21575927734375
+42|a small,|0|-30.7541446685791
+43|a small chair facing right|0|-29.07056427001953
+44|a chair facing right|0|-30.361743927001953
+45|a small red chair facing the right side|0|-32.012229919433594
+46|a chair facing to the right|0|-29.75164794921875
+47|a small, red, chair facing to the right|0|-31.534744262695312
+0|a small, red chair  (2)|1|-10.199203491210938
+1|a small red chair facing to the right|1|-9.504201889038086
+2|a small red chair, facing to the left|1|-9.932939529418945
+3|a small red chair|1|-10.305135726928711
+4|a small chair facing the left|1|-10.314760208129883
+5|a red chair facing left|1|-7.7076640129089355
+6|a small, red chair facing the left|1|-8.040024757385254
+7|a small red chair facing to the left|1|-10.931918144226074
+8|a small, red chair that is facing to the left|1|-9.964991569519043
+9|a small red chair facing the right|1|-10.59208869934082
+10|a small, red, left-facing chair|1|-10.559343338012695
+11|a red chair facing to the left|1|-6.916220188140869
+12|a small, red chair is facing to the left|1|-11.700121879577637
+13|a small, red chair  |1|-10.154804229736328
+14|a blue chair facing backwards|1|-10.251888275146484
+15|a chair|1|-6.982395648956299
+16|a small, red chair - facing to the left|1|-10.610270500183105
+17|a small red chair is facing to the left|1|-10.446520805358887
+18|a small, red chair facing to the right|1|-6.665853023529053
+19|a small, red chair facing left|1|-6.80222225189209
+20|a small, red chair 2|1|-10.325969696044922
+21|a small, red chair facing to the  left|1|-10.49240779876709
+22|a small red chair facing right|1|-10.556623458862305
+23|a small, red chair facing the right|1|-9.294631004333496
+24|a small, red chair (2) facing to the left|1|-10.470267295837402
+25|a small, red chair in the room|1|-9.893330574035645
+26|a small red chair  facing to the left|1|-10.456263542175293
+27|a red chair facing the left|1|-10.210742950439453
+28|a small, red chair to the left|1|-9.887892723083496
+29|a small chair facing left|1|-9.10081958770752
+30|a second red chair|1|-10.188469886779785
+31|a small, red chair facing|1|-10.44284725189209
+32|a small, red chair facing  to the left|1|-10.598756790161133
+33|a small, red chair |1|-6.904803276062012
+34|a small red chair facing the left|1|-7.357713222503662
+35|a small chair facing to the left|1|-8.363006591796875
+36|a small, red chair|1|-4.217303276062012
+37|a small red chair |1|-9.836385726928711
+38|a small red chair, facing left|1|-10.464883804321289
+39|a|1|-8.56833267211914
+40|a small, red chair, facing left|1|-9.421843528747559
+41|a small,|1|-9.614788055419922
+42|a  small, red chair facing to the left|1|-10.19287109375
+43|a small|1|-9.777700424194336
+44|a small, red chair, facing to the left|1|-7.1026105880737305
+45|a small, red chair  facing to the left|1|-7.844449520111084
+46|a small, red chair 1|1|-10.379313468933105
+0|a small, blue chair facing to the left|2|-31.21245574951172
+1|a small, blue chair  |2|-31.63633918762207
+2|a blue sofa facing backwards|2|-31.095510482788086
+3|a small, blue chair facing to the right|2|-31.33745574951172
+4|a small, blue chair facing backwards is in the room|2|-31.943561553955078
+5|a small chair facing backwards|2|-31.85347557067871
+6|a small, blue chair facing backwards |2|-28.127079010009766
+7|a large, grey chair|2|-32.040977478027344
+8|a small, blue chair |2|-29.21446418762207
+9|a small, blue chair facing backwards is object 3 in the room|2|-32.863922119140625
+10|a small, blue chair that's facing backwards|2|-32.797550201416016
+11|a small, blue sofa facing backwards|2|-29.38186264038086
+12|a small, blue chair, facing backwards|2|-30.247560501098633
+13|a small, blue chair facing backwards, object 3|2|-32.035186767578125
+14|a blue chair|2|-26.184844970703125
+15|a small, blue chair facing the opposite direction of the other chairs|2|-34.301815032958984
+16|a small, blue chair with its back facing us|2|-32.93537139892578
+17|a small, blue chair  facing backwards|2|-31.19329261779785
+18|a small, blue chair facing backwards  |2|-31.611454010009766
+19|a small, blue chair facing backwards|2|-23.970829010009766
+20|a small, blue chair facing backwards;|2|-31.525516510009766
+21|a small, blue chair with its back facing you|2|-32.99787139892578
+22|"a small, blue chair facing backwards"""|2|-29.205204010009766
+23|a small, blue chair backwards|2|-31.41758918762207
+24|a small, blue chair with its back to the viewer|2|-33.300636291503906
+25|a small, blue, backwards-facing chair|2|-31.462139129638672
+26|a small, blue chair is facing backwards|2|-30.490703582763672
+27|a small blue chair facing backwards|2|-30.13069725036621
+28|a small blue chair |2|-32.054656982421875
+29|a small, blue chair that faces backwards|2|-31.833703994750977
+30|a small, blue chair facing backwards'|2|-30.705204010009766
+31|a blue facing backwards|2|-31.88445472717285
+32|a small, blue chair facing backward|2|-30.078819274902344
+33|a small, blue chair that is facing backwards|2|-30.0778751373291
+34|a|2|-31.26250457763672
+35|a small blue chair facing backward|2|-30.585086822509766
+36|a small, blue, backwards chair|2|-32.07378005981445
+37|a small, blue chair facing backwards in the room|2|-31.306400299072266
+38|a small, blue chair facing backwards is object 3|2|-31.63652229309082
+39|a small, blue chair with its back to us|2|-32.53770446777344
+40|a small, blue chair facing forwards|2|-30.547569274902344
+41|a small, blue chair|2|-26.74571418762207
+0|a large grey chair faces forwards|3|-32.13779830932617
+1|a large, grey sofa facing forwards|3|-30.69693946838379
+2|a chair facing forwards|3|-29.405061721801758
+3|a grey chair|3|-31.783878326416016
+4|a large, grey chair faces forwards|3|-31.340595245361328
+5|a small red chair facing to the right|3|-31.991634368896484
+6|a grey chair facing forward|3|-31.1616268157959
+7|a small red chair|3|-32.1204719543457
+8|a grey chair is facing forwards|3|-31.18627166748047
+9|a large, grey chair facing forwards|3|-33.612300872802734
+10|a large grey chair, facing forwards|3|-32.124446868896484
+11|a large, grey chair is facing forwards|3|-33.87298583984375
+12|a grey sofa facing forwards|3|-31.6223201751709
+13|a large, grey, facing forwards chair|3|-32.14398193359375
+14|a large grey chair facing forwards|3|-33.70438003540039
+15|a grey, large chair facing forwards|3|-30.454824447631836
+16|a chair|3|-30.159910202026367
+17|a big grey chair facing forward|3|-32.01156997680664
+18|a small, red chair facing to the right|3|-30.888029098510742
+19|a small blue chair|3|-31.22974395751953
+20|a large grey chair|3|-31.83856201171875
+21|a large grey chair facing forward|3|-31.48499870300293
+22|a large, grey chair in the room|3|-32.87687301635742
+23|a large, grey chair  facing forwards|3|-31.33345603942871
+24|a large grey chair facing the front|3|-32.17332077026367
+25|a large, grey, forward-facing chair|3|-32.491790771484375
+26|a small, red chair facing to the left|3|-32.65705871582031
+27|a large, grey chair that is facing forwards|3|-31.718524932861328
+28|a large, grey chair  (4)|3|-33.553104400634766
+29|a large, grey chair that faces forwards|3|-32.3267822265625
+30|a large, grey chair, facing forwards|3|-33.118324279785156
+31|a  large, grey chair|3|-31.05495834350586
+32|a large, grey chair facing the front|3|-33.59910583496094
+33|a small, red chair|3|-31.967296600341797
+34|a large grey facing forwards chair|3|-31.772212982177734
+35|a large, gray chair facing forwards|3|-32.053218841552734
+36|a|3|-30.96977424621582
+37|a large grey sofa facing forwards|3|-31.600379943847656
+38|a large grey chair facing to the front|3|-33.197200775146484
+39|a large grey chair is facing forwards|3|-31.177928924560547
+40|a large gray chair facing forwards|3|-31.127046585083008
+41|a small, blue chair|3|-29.96280860900879
+42|a grey chair facing forwards|3|-29.69388198852539
+0|a small, red sofa faces left|4|-30.46693229675293
+1|a small, red sofa facing the left|4|-30.894886016845703
+2|a small sofa facing to the left|4|-30.651756286621094
+3|a small, red sofa in the room|4|-32.03044891357422
+4|a small, red  sofa|4|-31.525835037231445
+5|a small, red sofa to the left|4|-30.963775634765625
+6|a small, red, left-facing sofa|4|-31.665693283081055
+7|"a small, red sofa"""|4|-30.956283569335938
+8|a small, red couch facing to the left|4|-31.651430130004883
+9|a small, red sofa facing to the right|4|-31.781490325927734
+10|a small, red sofa faces to the left|4|-32.344478607177734
+11|a small, red sofa is in the room|4|-31.373964309692383
+12|a small red sofa|4|-25.414567947387695
+13|a small  red sofa facing to the left|4|-31.542558670043945
+14|a small, red sofa on the left|4|-31.45081329345703
+15|a small, red sofa  (5)|4|-31.563154220581055
+16|a small, red sofa  |4|-30.987533569335938
+17|a red sofa, facing to the left|4|-31.456012725830078
+18|a small, red sofa-facing to the left|4|-31.652921676635742
+19|a red sofa|4|-28.839733123779297
+20|a red sofa, facing left|4|-30.999656677246094
+21|a small, red sofa 5|4|-31.254953384399414
+22|a small, red chair facing to the left|4|-31.37362289428711
+23|a small, red sofa facing  to the left|4|-31.627042770385742
+24|a small, red sofa, facing left|4|-30.07456398010254
+25|a small, red sofa |4|-29.84691047668457
+26|a small, red sofa  facing to the left|4|-28.992307662963867
+27|a small, red sofa face|4|-30.925033569335938
+28|a small, red sofa (5)|4|-31.50888442993164
+29|a red chair|4|-30.865217208862305
+30|a|4|-29.052017211914062
+31|a small, red sofa|4|-30.537166595458984
+32|a red sofa facing to the left|4|-28.18784523010254
+33|a small, red sofa, facing to the left|4|-28.060575485229492
+34|a small,|4|-30.51441192626953
+35|a small, red sofa facing to the left|4|-30.77823829650879
+36|a small|4|-30.815265655517578
+37|a small, red sofa is facing to the left|4|-31.40262222290039
+38|a small, red sofa that faces to the left|4|-31.563859939575195
+39|a small, red sofa faced to the left|4|-31.66274070739746
+40|a small, red sofa that is facing to the left|4|-30.591140747070312
+41|a red sofa to the left|4|-31.548824310302734
+42|a red sofa facing the left|4|-30.46957778930664
+43|a red sofa facing left|4|-28.278812408447266
+44|a  small, red sofa facing to the left|4|-31.353286743164062
+0|a large, grey sofa facing forwards|5|-32.48137283325195
+1|a blue sofa that is facing backwards|5|-33.55776596069336
+2|a blue sofa facing backwards|5|-33.09727096557617
+3|a small, blue sofa facing upwards|5|-32.30360412597656
+4|a small, blue sofa facing to the right|5|-31.898208618164062
+5|a small, blue sofa faces backwards|5|-32.77256393432617
+6|a  small, blue sofa facing backwards|5|-32.78738784790039
+7|a small blue sofa is facing backwards|5|-33.21063995361328
+8|a small, blue sofa with its back to the viewer|5|-34.19620132446289
+9|a small, blue sofa facing backwards|5|-28.5496768951416
+10|a small, blue sofa facing backward|5|-30.780166625976562
+11|a blue chair facing backwards|5|-31.825439453125
+12|a blue small sofa facing backwards|5|-33.1369743347168
+13|a small, blue sofa that faces backwards|5|-32.69182205200195
+14|a small, blue, backwards-facing sofa|5|-32.53328323364258
+15|a blue sofa, facing backwards|5|-33.136287689208984
+16|a small, blue sofa|5|-30.596717834472656
+17|a small, blue chair facing backwards|5|-30.815279006958008
+18|a small blue sofa facing backwards|5|-31.7432804107666
+19|a small, blue sofa, facing backwards|5|-30.260881423950195
+20|a small blue sofa facing backward|5|-31.80064582824707
+21|a small, blue sofa is facing backwards|5|-31.094003677368164
+22|a small, blue sofa  |5|-33.002967834472656
+23|a small, blue sofa facing to the left|5|-32.68722915649414
+24|a blue, facing-backwards sofa|5|-32.95067596435547
+25|a small, blue sofa facing forwards|5|-30.725479125976562
+26|a small, blue sofa facing downwards|5|-32.81922912597656
+27|a small, blue sofa facing the back of the room|5|-33.60548782348633
+28|a blue, small sofa facing backwards|5|-32.11680603027344
+29|a sofa facing backwards|5|-33.009517669677734
+30|a small, blue sofa (6) facing backwards|5|-33.25164031982422
+31|a small blue sofa facing to the right|5|-33.591209411621094
+32|a small, blue couch facing backwards|5|-32.126739501953125
+33|a small blue sofa, facing backwards|5|-32.787479400634766
+34|a small, blue sofa  facing backwards|5|-30.780683517456055
+35|a small, blue sofa |5|-30.260780334472656
+36|"a small, blue sofa"""|5|-32.815467834472656
+37|a blue sofa facing backward|5|-32.389244079589844
+38|a|5|-30.512052536010742
+39|a blue facing backwards|5|-33.073631286621094
+40|a small, blue sofa  (6)|5|-33.47712326049805
+41|a small,|5|-32.750389099121094
+42|a small, red sofa facing to the left|5|-32.76835250854492
+43|a small|5|-32.955955505371094
+44|a small, blue sofa faced backwards|5|-33.102474212646484
+45|a small, blue sofa that is facing backwards|5|-33.4215087890625
+46|a small sofa facing backwards|5|-32.698158264160156
+0|a large, grey facing forwards|6|-30.73837661743164
+1|a large, grey sofa facing forwards|6|-28.85963249206543
+2|a large, gray sofa facing forwards|6|-31.704692840576172
+3|a blue sofa facing backwards|6|-32.326602935791016
+4|a small red chair facing to the right|6|-32.8054084777832
+5|a large, grey couch facing forwards|6|-32.47412109375
+6|a small red chair|6|-32.35717010498047
+7|a large, grey chair facing forwards|6|-30.122262954711914
+8|a small red chair facing to the left|6|-32.010711669921875
+9|a large grey sofa  facing forwards|6|-32.85771942138672
+10|a large, grey chair|6|-31.758609771728516
+11|a large,|6|-32.327754974365234
+12|a large, grey, forward-facing sofa|6|-32.47834396362305
+13|a small, blue sofa facing backwards|6|-29.39032554626465
+14|a large grey chair facing forwards|6|-31.327051162719727
+15|a  large, grey sofa facing forwards|6|-31.297422409057617
+16|a sofa|6|-31.097652435302734
+17|a large gray sofa facing forwards|6|-31.274330139160156
+18|a small blue chair|6|-32.3580436706543
+19|a large gray sofa facing forward|6|-32.821205139160156
+20|a small, blue sofa|6|-32.11346435546875
+21|a small, blue chair facing backwards|6|-30.394851684570312
+22|a large grey facing forwards|6|-32.18840026855469
+23|a small blue sofa facing backwards|6|-32.210872650146484
+24|a large, grey, sofa facing forwards|6|-33.24344253540039
+25|a large grey sofa |6|-31.997119903564453
+26|a large grey sofa is facing forwards|6|-32.88087463378906
+27|a large, grey sofa |6|-29.783151626586914
+28|a large, grey sofa is facing forwards|6|-31.477346420288086
+29|a large, grey sofa  facing forwards|6|-30.651891708374023
+30|a large grey sofa|6|-31.754932403564453
+31|a grey, large sofa facing forwards|6|-31.23046875
+32|a large, grey sofa, facing forwards|6|-31.560739517211914
+33|a large sofa facing forwards|6|-32.04823684692383
+34|a large, grey sofa facing forward|6|-31.869583129882812
+35|a large, grey sofa facing the front|6|-32.89813232421875
+36|a large, grey sofa-facing forwards|6|-32.655948638916016
+37|a large, grey sofa that is facing forwards|6|-31.938661575317383
+38|a small, red chair|6|-29.16668128967285
+39|a large grey facing forwards sofa|6|-31.532150268554688
+40|a large, grey sofa|6|-30.048776626586914
+41|a|6|-29.863277435302734
+42|a large, grey sofa faces forwards|6|-32.218719482421875
+43|a large, grey, sofa, facing forwards|6|-32.78300857543945
+44|a small, red sofa facing to the left|6|-31.304433822631836
+45|a large grey sofa facing forwards|6|-30.925811767578125
+46|"a large, grey sofa"""|6|-32.25190353393555

@@ -1,0 +1,302 @@
+|Sequence|Object|p_llm
+0|a green small desk facing forwards|0|-30.205095291137695
+1|a small desk facing forwards|0|-26.41082000732422
+2|a desk|0|-30.16376495361328
+3|a small green desk facing to the right|0|-30.49671745300293
+4|a small, green desk facing forwards'|0|-29.833345413208008
+5|a little green desk facing forward|0|-30.5502872467041
+6|a small, green desk facing forwards in a room|0|-29.328577041625977
+7|a small green desk |0|-29.400909423828125
+8|a small|0|-30.305822372436523
+9|a small desk|0|-28.31230354309082
+10|a small, green desk  |0|-30.533485412597656
+11|a small, green desk facing forwards, |0|-30.166858673095703
+12|a desk facing forwards|0|-28.89951515197754
+13|a small green desk, facing forwards|0|-29.41836929321289
+14|a small, green desk |0|-27.611610412597656
+15|a small green desk  facing forwards|0|-29.85392951965332
+16|a small, green desk facing forwards is in the room|0|-30.04186248779297
+17|a small, green desk facing forwards 1|0|-30.048555374145508
+18|a green desk facing forwards|0|-26.267642974853516
+19|a small, green desk facing forwards  |0|-30.200532913208008
+20|a small, green, desk facing forwards|0|-30.247316360473633
+21|a green desk, facing forwards|0|-29.993602752685547
+22|a small green desk|0|-30.182159423828125
+23|a green desk facing forwards in the room|0|-30.115942001342773
+24|a green desk facing forwards |0|-29.681705474853516
+25|a small green desk facing forwards|0|-29.034839630126953
+26|a|0|-29.434616088867188
+27|a small, green desk is facing forwards|0|-30.186214447021484
+28|"a small, green desk facing forwards"""|0|-27.942720413208008
+29|a small, green desk|0|-28.814735412597656
+30|a small green facing forwards desk|0|-30.530412673950195
+31|a small, green desk facing forwards |0|-26.263032913208008
+32|a small, green desk  facing forwards|0|-28.458303451538086
+33|a small green desk is facing forwards|0|-30.531225204467773
+34|a small, green desk, facing forwards|0|-30.648380279541016
+35|a small, green desk facing forwards|0|-23.630220413208008
+36|a small, green desk facing forwards  (1)|0|-30.600133895874023
+37|a green, small desk facing forwards|0|-28.929101943969727
+38|a small, green desk facing forwards in the room|0|-31.1527099609375
+0|a large, green desk facing to the right|1|-8.080897331237793
+1|a green desk facing the right|1|-9.709351539611816
+2|a small, green desk facing to the right of the room|1|-9.107526779174805
+3|a small green desk facing to the right|1|-9.407398223876953
+4|a desk facing to the right|1|-6.753542423248291
+5|a desk facing right|1|-9.03217887878418
+6|a small green desk facing the right|1|-7.960010528564453
+7|a desk facing the right|1|-9.896890640258789
+8|a small, green desk facing to the right'|1|-9.228060722351074
+9|a small desk|1|-9.986363410949707
+10|a small desk facing to the right|1|-7.213443279266357
+11|a small green desk facing right|1|-7.215271949768066
+12|a green desk facing right|1|-8.265849113464355
+13|a small, green desk |1|-7.276175498962402
+14|a small desk facing right|1|-8.413561820983887
+15|a small, green desk is facing to the right|1|-9.848675727844238
+16|a small, green desk, facing to the right|1|-9.89993953704834
+17|a small, green desk facing to the right in the room|1|-10.704771041870117
+18|a green desk facing to the right|1|-6.940986156463623
+19|a small green desk to the right|1|-8.650620460510254
+20|"a small, green desk facing to the right"""|1|-6.540561199188232
+21|a small, green desk to the right|1|-7.004265308380127
+22|a small, green desk turned to the right|1|-9.255342483520508
+23|a small, green desk facing to the right|1|-2.478060722351074
+24|a small, green desk facing right|1|-8.989748001098633
+25|a small, green desk  facing to the right|1|-10.829487800598145
+26|a|1|-8.47574234008789
+27|a small, green desk facing to the right,|1|-6.899936199188232
+28|a small, green desk|1|-4.502737998962402
+29|a small, green desk facing to the right  |1|-9.087435722351074
+30|a small, green desk facing the right|1|-7.345386028289795
+31|a small, green desk facing to the right |1|-5.431186199188232
+32|a small, green desk facing to the right in a room|1|-9.646347045898438
+33|a small, green desk facing to the right;|1|-9.118685722351074
+34|a small, green desk facing to the right is in the room|1|-9.704729080200195
+0|a large,|2|-10.579401016235352
+1|a small desk facing forwards|2|-11.038887977600098
+2|a desk|2|-8.870912551879883
+3|a large green desk facing to the left|2|-11.012840270996094
+4|a large green desk  facing forwards|2|-9.769688606262207
+5|a large, grey desk|2|-10.783343315124512
+6|a green chair facing forwards|2|-10.821761131286621
+7|a large green desk facing forwards|2|-11.563932418823242
+8|a  large, green desk  facing forwards|2|-11.163811683654785
+9|a large green desk facing to the front|2|-11.033411026000977
+10|a large, green desk|2|-1.4452286958694458
+11|a large green facing forwards desk|2|-11.067056655883789
+12|a large green desk is facing forwards|2|-9.6624116897583
+13|a large green desk |2|-11.060365676879883
+14|a green table|2|-10.189329147338867
+15|a desk facing forwards|2|-8.691246032714844
+16|a large green desk, facing forwards|2|-11.407718658447266
+17|a large green desk that is facing forwards|2|-10.920673370361328
+18|a large|2|-10.452936172485352
+19|a forward-facing green desk|2|-10.604225158691406
+20|a large green table|2|-10.683655738830566
+21|a large, green, desk facing forwards|2|-11.503284454345703
+22|a big green desk facing forward|2|-10.180520057678223
+23|a large grey desk|2|-10.689404487609863
+24|a large, green table facing forwards|2|-11.329305648803711
+25|a large, green, desk, facing forwards|2|-11.989723205566406
+26|a  large, green desk facing forwards|2|-10.7644681930542
+27|a small green desk|2|-10.275235176086426
+28|a green large desk facing forwards|2|-10.310976028442383
+29|a large, green table|2|-10.17480754852295
+30|a large green desk facing the front|2|-9.472841262817383
+31|a small, green desk facing to the right|2|-12.228828430175781
+32|a small green desk facing forwards|2|-9.873995780944824
+33|a large table|2|-11.080381393432617
+34|a|2|-7.850569725036621
+35|a large, green, forward-facing desk|2|-10.817739486694336
+36|a small, green desk|2|-9.550960540771484
+37|a green desk|2|-5.471960544586182
+38|a large green desk facing the camera|2|-11.580315589904785
+39|a small, green desk facing forwards|2|-7.78228759765625
+40|a green, large desk facing forwards|2|-11.11382007598877
+41|a large, green chair facing forwards|2|-10.714163780212402
+42|a large green desk faces forwards|2|-10.722555160522461
+43|a large green desk facing to the right|2|-10.021467208862305
+44|a forward-facing large green desk|2|-11.123624801635742
+45|a large green table facing forward|2|-11.08306884765625
+46|a big green table facing forward|2|-10.865596771240234
+0|a large desk|3|-32.455726623535156
+1|a large grey desk, facing to the left|3|-32.47507095336914
+2|a large desk, grey in color, facing to the left|3|-32.61143112182617
+3|a grey, large desk facing left|3|-32.81578826904297
+4|a large green desk facing to the left|3|-32.84642791748047
+5|a grey, large desk facing to the left|3|-32.00733947753906
+6|a grey chair|3|-32.958900451660156
+7|a large grey desk facing left|3|-29.541461944580078
+8|a large desk facing to the left|3|-29.35297393798828
+9|a large, grey desk|3|-23.66344451904297
+10|a  large, grey desk facing to the left|3|-31.723552703857422
+11|a large green desk facing forwards|3|-30.357666015625
+12|a large, green desk|3|-33.052555084228516
+13|a large desk, grey in color, facing left|3|-34.367881774902344
+14|a large green desk|3|-32.18714904785156
+15|a big grey desk facing left|3|-32.786983489990234
+16|a large, grey table|3|-31.92906951904297
+17|a large grey desk facing to the left|3|-27.51199722290039
+18|a large desk facing the left|3|-32.34776306152344
+19|a large gray desk facing left|3|-32.96925735473633
+20|a large grey desk|3|-28.318235397338867
+21|a large, gray desk facing to the left|3|-32.4581298828125
+22|a large gray desk facing to the left|3|-32.27114486694336
+23|a large grey desk |3|-31.411985397338867
+24|a large desk that is grey in color and facing to the left|3|-33.56447219848633
+25|a large, grey chair facing to the left|3|-30.631954193115234
+26|a large, grey chair|3|-32.96839141845703
+27|a grey chair facing to the left|3|-31.70619010925293
+28|a grey desk|3|-26.340810775756836
+29|a grey large desk|3|-31.900529861450195
+30|a small, green desk facing to the right|3|-32.129295349121094
+31|a small green desk facing forwards|3|-32.659420013427734
+32|a large grey desk is facing to the left|3|-33.23517990112305
+33|a large desk, facing to the left|3|-32.890926361083984
+34|a|3|-30.7154541015625
+35|a small, green desk|3|-32.97492218017578
+36|a large green chair facing forwards|3|-32.95028305053711
+37|a grey, large desk|3|-32.42327880859375
+38|a large desk, grey in colour, facing to the left|3|-33.340545654296875
+39|a green desk|3|-32.936187744140625
+40|a Grey desk|3|-32.239013671875
+41|a large desk facing to the left of the room|3|-32.907344818115234
+42|a large grey chair|3|-31.699737548828125
+43|a small, green desk facing forwards|3|-31.077808380126953
+44|a large grey desk facing the left|3|-31.355653762817383
+45|a large green desk facing to the right|3|-32.34642791748047
+46|a large, green desk facing forwards|3|-31.223304748535156
+0|a chair facing to the right|4|-8.483295440673828
+1|a small, green chair  facing to the right|4|-8.571527481079102
+2|a  small, green chair facing to the right|4|-10.53844928741455
+3|a small, green chair (5)|4|-11.329239845275879
+4|a small green chair |4|-10.730956077575684
+5|a small green desk facing to the right|4|-11.351370811462402
+6|a small, green chair 5|4|-11.230891227722168
+7|a small, green chair, facing to the right|4|-8.211901664733887
+8|a green desk chair facing to the right|4|-9.930704116821289
+9|a small, green chair facing  to the right|4|-10.841066360473633
+10|a small|4|-10.68844223022461
+11|"a small, green chair"""|4|-10.708166122436523
+12|a green chair to the right|4|-10.638427734375
+13|a small, green chair |4|-7.051915645599365
+14|a small chair facing to the right|4|-9.172883987426758
+15|a small, green chair|4|-4.036290168762207
+16|a small green chair facing to the right|4|-9.29496955871582
+17|a small chair facing right|4|-10.7297945022583
+18|a small, green desk chair facing to the right|4|-9.315313339233398
+19|a small, green chair that is facing to the right|4|-13.988290786743164
+20|a small, green chair to the right|4|-8.877814292907715
+21|a small, green chair, facing right|4|-11.472264289855957
+22|a small, green chair is facing to the right|4|-11.522441864013672
+23|a small,|4|-10.631956100463867
+24|a small, green chair that faces to the right|4|-11.430971145629883
+25|a green chair facing to the right|4|-10.486645698547363
+26|a small, green chair faces to the right|4|-10.82054328918457
+27|a little green chair facing right|4|-10.837603569030762
+28|a small, green chair in the room|4|-10.466531753540039
+29|a small, green desk chair|4|-11.000545501708984
+30|a small, green chair faced to the right|4|-10.377211570739746
+31|a small, green chair facing to the left|4|-10.204365730285645
+32|a small, green chair facing right|4|-7.789859294891357
+33|a large, grey chair facing to the left|4|-10.528401374816895
+34|a small green chair facing the right|4|-9.065909385681152
+35|a green, small chair facing to the right|4|-10.762798309326172
+36|a small, green desk facing to the right|4|-7.139739513397217
+37|a small, green chair face|4|-9.520666122436523
+38|a green chair facing the right|4|-9.336607933044434
+39|a|4|-8.864758491516113
+40|a small, green chair facing the right|4|-7.863365650177002
+41|a little green chair facing to the right|4|-10.967166900634766
+42|a small, green desk|4|-9.912850379943848
+43|a small green chair|4|-10.785643577575684
+44|a small, green desk facing forwards|4|-10.89055061340332
+45|a small, green chair  |4|-10.083166122436523
+46|a large, green chair facing forwards|4|-8.498454093933105
+0|a large, green chair facing to the left|5|-32.79707717895508
+1|a large, green chair  |5|-33.019256591796875
+2|a large green chair is facing forwards|5|-33.288597106933594
+3|a large green chair facing to the front|5|-33.26600646972656
+4|a large, green chair  facing forwards|5|-30.951478958129883
+5|a  large, green chair facing forwards|5|-32.1609001159668
+6|a green chair facing forwards|5|-28.922847747802734
+7|a large green chair facing to the right|5|-33.1024169921875
+8|a big green chair facing forward|5|-32.619956970214844
+9|a large green desk facing forwards|5|-33.445587158203125
+10|a large, green chair is facing forwards|5|-31.51034927368164
+11|a green chair facing forwards in the room|5|-33.04939651489258
+12|a large, green chair facing to the right|5|-31.872055053710938
+13|a large chair facing forwards|5|-30.49567413330078
+14|a green chair facing forwards |5|-32.430660247802734
+15|a large, green desk chair facing forwards|5|-31.555774688720703
+16|a large green chair  facing forwards|5|-33.23239517211914
+17|a large green chair facing the front|5|-31.972646713256836
+18|a large, green chair facing forward|5|-32.41123580932617
+19|a green desk chair facing forwards|5|-32.026458740234375
+20|a large green chair|5|-32.944149017333984
+21|a large green chair, facing forwards|5|-33.13422775268555
+22|a large, green chair, facing forwards|5|-31.240379333496094
+23|a large green chair |5|-32.772274017333984
+24|a large, green chair facing the front|5|-33.16817855834961
+25|a green chair facing to the right|5|-33.103004455566406
+26|a large, green chair|5|-27.058317184448242
+27|a large, green chair faces forwards|5|-32.6265869140625
+28|a large chair|5|-32.64768981933594
+29|a large, green chair-facing forwards|5|-33.49047088623047
+30|a large, green chair face forwards|5|-33.49777603149414
+31|a large green chair facing forward|5|-31.772008895874023
+32|a large, green chair that is facing forwards|5|-32.207149505615234
+33|a large green chair facing to the left|5|-32.64100646972656
+34|a large, green chair facing the camera|5|-33.05604934692383
+35|a|5|-30.977741241455078
+36|a large, green chair |5|-30.003629684448242
+37|a large, green chair that faces forwards|5|-32.96944808959961
+38|a large green chair facing forwards|5|-32.795894622802734
+39|a green chair is facing forwards|5|-33.065067291259766
+40|a chair facing forwards|5|-33.39247131347656
+41|a large, green chair facing forwards|5|-23.653423309326172
+42|a green, large chair facing forwards|5|-32.405147552490234
+43|a large, green desk facing forwards|5|-30.941713333129883
+44|a small, green chair facing to the right|5|-33.19419860839844
+0|a large, grey chair to the left of the room|6|-12.201987266540527
+1|a grey chair facing left|6|-7.5313262939453125
+2|a large, grey chair facing the left|6|-8.381858825683594
+3|a  large, grey chair facing to the left|6|-10.662050247192383
+4|a chair facing to the left|6|-10.675710678100586
+5|a grey chair facing the left|6|-9.603790283203125
+6|a large, grey, chair facing to the left|6|-10.929966926574707
+7|a large, grey chair face to the left|6|-11.237563133239746
+8|a grey chair|6|-7.778751373291016
+9|a large, grey chair faced to the left|6|-10.717280387878418
+10|a green chair facing forwards|6|-10.364741325378418
+11|a large, grey chair facing left|6|-8.067288398742676
+12|a large, grey desk facing to the left|6|-7.851381778717041
+13|a grey chair |6|-10.841251373291016
+14|a large grey chair facing to the left|6|-11.53641414642334
+15|a large grey chair |6|-10.73957633972168
+16|a large gray chair facing to the left|6|-10.824477195739746
+17|a grey, large chair facing to the left|6|-11.530961990356445
+18|a large chair facing to the left|6|-9.12690544128418
+19|a large, grey chair is facing to the left|6|-9.743438720703125
+20|a large, grey chair to the left|6|-11.16305923461914
+21|a large grey desk facing to the left|6|-10.79572868347168
+22|a large, grey desk chair facing to the left|6|-10.099020004272461
+23|a large, grey chair that is facing to the left|6|-10.956254005432129
+24|a large, grey chair faces to the left|6|-10.699753761291504
+25|a large, grey chair  |6|-10.252585411071777
+26|a chair, facing to the left|6|-10.68128490447998
+27|a large, grey chair facing to the left|6|-1.2551113367080688
+28|a large, grey chair|6|-4.361961364746094
+29|a large, grey chair, facing to the left|6|-8.6294584274292
+30|a large, grey desk facing to the left |6|-11.374818801879883
+31|a large grey chair facing left|6|-8.48043441772461
+32|a grey chair facing to the left|6|-6.283322811126709
+33|a large grey chair facing the left|6|-9.80974292755127
+34|a grey desk chair facing to the left|6|-10.440260887145996
+35|a large, gray chair facing to the left|6|-10.083990097045898
+36|a|6|-8.657622337341309
+37|a large, grey chair |6|-7.268211364746094
+38|a large, grey chair  facing to the left|6|-9.02058219909668
+39|a large grey chair|6|-10.71613883972168
+40|"a large, grey chair"""|6|-10.729147911071777

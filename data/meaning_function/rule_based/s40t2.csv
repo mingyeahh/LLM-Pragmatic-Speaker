@@ -1,0 +1,328 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,"a small, red chair  facing to the left",0,1,0,0,0,0,0
+1,"a small, red sofa facing to the left",0,0,0,0,1,0,0
+2,a large grey sofa  facing forwards,0,0,0,0,0,0,1
+3,a grey sofa,0,0,0,0,0,0,1
+4,"a large, grey sofa  facing forwards",0,0,0,0,0,0,1
+5,a red sofa facing to the left,0,0,0,0,1,0,0
+6,a small red chair facing the right side,1,0,0,0,0,0,0
+7,"a small, blue couch facing backwards",0,0,1,0,0,1,0
+8,a large grey facing forwards,0,0,0,1,0,0,1
+9,"a small, blue thing facing to the left",0,0,0,0,0,0,0
+10,a blue thing,0,0,1,0,0,1,0
+11,a large grey chair facing forwards ,0,0,0,1,0,0,0
+12,"a large, gray chair facing forwards",0,0,0,1,0,0,0
+13,a blue chair facing to the right,0,0,0,0,0,0,0
+14,"a small, blue thing",0,0,1,0,0,1,0
+15,"a small, blue chair, facing backwards",0,0,1,0,0,0,0
+16,"a large, blue thing",0,0,0,0,0,0,0
+17,a large grey chair facing forward,0,0,0,1,0,0,0
+18,a large grey sofa,0,0,0,0,0,0,1
+19,"a large, grey chair is facing forwards",0,0,0,1,0,0,0
+20,a blue sofa facing to the left,0,0,0,0,0,0,0
+21,a blue facing backwards,0,0,1,0,0,1,0
+22,a blue sofa,0,0,0,0,0,1,0
+23,"a large, grey facing forwards sofa",0,0,0,0,0,0,1
+24,a blue sofa facing forwards,0,0,0,0,0,0,0
+25,"a chair, red, small, facing left",0,1,0,0,0,0,0
+26,a small,0,0,0,0,0,0,0
+27,"a small, blue sofa facing the wall",0,0,0,0,0,1,0
+28,"a small, red chair facing to the left",0,1,0,0,0,0,0
+29,a grey thing,0,0,0,1,0,0,1
+30,"a small, red chair, facing left",0,1,0,0,0,0,0
+31,"a small, red chair facing the left side of the room",0,1,0,0,0,0,0
+32,a large grey sofa facing forwards,0,0,0,0,0,0,1
+33,"a large, grey thing",0,0,0,1,0,0,1
+34,a small red sofa facing the left,0,0,0,0,1,0,0
+35,"a small, red chair, facing right",1,0,0,0,0,0,0
+36,"a small, red chair that is facing to the left",0,1,0,0,0,0,0
+37,"a small, blue chair that's facing backwards",0,0,1,0,0,0,0
+38,"a large, grey sofa",0,0,0,0,0,0,1
+39,"a large, grey chair faces forwards",0,0,0,1,0,0,0
+40,"a small, red, facing-right chair",1,0,0,0,0,0,0
+41,a large gray chair facing forwards,0,0,0,1,0,0,0
+42,"a small, grey thing",0,0,0,0,0,0,0
+43,"a small, red chair  ",1,1,0,0,0,0,0
+44,"a small, blue, backwards chair",0,0,1,0,0,0,0
+45,"a large, grey sofa, facing forwards",0,0,0,0,0,0,1
+46,"a small, red sofa  facing to the left",0,0,0,0,1,0,0
+47,"a small, red chair ",1,1,0,0,0,0,0
+48,"a small, blue sofa facing upwards",0,0,0,0,0,0,0
+49,a small red chair to the right,1,0,0,0,0,0,0
+50,"a blue, facing-backwards sofa",0,0,0,0,0,1,0
+51,"a small, red",1,1,0,0,1,0,0
+52,a small red chair is facing to the right,1,0,0,0,0,0,0
+53,a small red chair facing the right,1,0,0,0,0,0,0
+54,"a small, blue sofa""",0,0,0,0,0,1,0
+55,a small chair facing right,1,0,0,0,0,0,0
+56,"a large, grey, forward-facing sofa",0,0,0,0,0,0,1
+57,a small red sofa ,0,0,0,0,1,0,0
+58,"a small, blue sofa  (6)",0,0,0,0,0,1,0
+59,a small blue chair facing backwards ,0,0,1,0,0,0,0
+60,a grey thing facing backwards,0,0,0,0,0,0,0
+61,a red sofa facing forwards,0,0,0,0,0,0,0
+62,a small chair facing the right,1,0,0,0,0,0,0
+63,a small blue sofa facing to the right,0,0,0,0,0,0,0
+64,"a small, blue, backwards-facing sofa",0,0,0,0,0,1,0
+65,a small thing facing to the right,1,0,0,0,0,0,0
+66,"a large, grey chair  facing forwards",0,0,0,1,0,0,0
+67,"a small, red sofa on the left",0,0,0,0,1,0,0
+68,"a small, blue sofa facing backward",0,0,0,0,0,1,0
+69,"a small, red chair facing the right",1,0,0,0,0,0,0
+70,"a small, red sofa 5",0,0,0,0,1,0,0
+71,a sofa,0,0,0,0,1,1,1
+72,a large grey chair facing forwards in a room,0,0,0,1,0,0,0
+73,a red thing,1,1,0,0,1,0,0
+74,a red chair facing the left,0,1,0,0,0,0,0
+75,"a small, red chair 2",1,1,0,0,0,0,0
+76,a sofa facing forwards,0,0,0,0,0,0,1
+77,a grey thing facing forwards,0,0,0,1,0,0,1
+78,"a small, blue chair in the room",0,0,1,0,0,0,0
+79,a large grey sofa ,0,0,0,0,0,0,1
+80,a small blue chair facing backwards,0,0,1,0,0,0,0
+81,"a large, grey, sofa facing forwards",0,0,0,0,0,0,1
+82,a small red chair ,1,1,0,0,0,0,0
+83,a red chair facing left,0,1,0,0,0,0,0
+84,"a small, red chair, facing to the right",1,0,0,0,0,0,0
+85,a blue chair,0,0,1,0,0,0,0
+86,"a small, blue sofa facing forwards",0,0,0,0,0,0,0
+87,"a small, blue sofa facing to the left",0,0,0,0,0,0,0
+88,"a  small, red chair facing to the left",0,1,0,0,0,0,0
+89,a red chair to the right,1,0,0,0,0,0,0
+90,"a small, blue sofa with its back to the viewer",0,0,0,0,0,1,0
+91,"a small, red chair""",1,1,0,0,0,0,0
+92,"a small red sofa, facing left",0,0,0,0,1,0,0
+93,"a small, red chair",1,1,0,0,0,0,0
+94,"a small, grey thing facing backwards",0,0,0,0,0,0,0
+95,a small chair facing to the right,1,0,0,0,0,0,0
+96,"a small, blue chair is facing backwards",0,0,1,0,0,0,0
+97,"a large, red sofa facing forwards",0,0,0,0,0,0,0
+98,"a small blue sofa facing backwards""",0,0,0,0,0,1,0
+99,"a small, red sofa faces left",0,0,0,0,1,0,0
+100,"a small, blue chair facing backwards",0,0,1,0,0,0,0
+101,"a small, blue chair facing backward",0,0,1,0,0,0,0
+102,a small thing,1,1,1,0,1,1,0
+103,a grey thing facing to the right,0,0,0,0,0,0,0
+104,a small red sofa,0,0,0,0,1,0,0
+105,"a small, blue chair that is facing backwards",0,0,1,0,0,0,0
+106,a small red chair facing to the left,0,1,0,0,0,0,0
+107,a blue chair is facing backwards,0,0,1,0,0,0,0
+108,a small blue chair ,0,0,1,0,0,0,0
+109,"a large, grey sofa is facing forwards",0,0,0,0,0,0,1
+110,"a large, grey sofa that is facing forwards",0,0,0,0,0,0,1
+111,a small blue sofa facing backwards,0,0,0,0,0,1,0
+112,a thing facing backwards,0,0,1,0,0,1,0
+113,a grey sofa facing to the left,0,0,0,0,0,0,0
+114,a large sofa facing forwards,0,0,0,0,0,0,1
+115,"a small red chair, facing to the right",1,0,0,0,0,0,0
+116,"a large, grey chair facing forwards",0,0,0,1,0,0,0
+117,"a small, blue sofa faced backwards",0,0,0,0,0,1,0
+118,"a small, blue sofa facing backwards",0,0,0,0,0,1,0
+119,a small chair facing to the left,0,1,0,0,0,0,0
+120,"a small, red sofa that is facing to the left",0,0,0,0,1,0,0
+121,a grey sofa facing backwards,0,0,0,0,0,0,0
+122,"a large, blue thing facing forwards",0,0,0,0,0,0,0
+123,a large grey chair,0,0,0,1,0,0,0
+124,"a red chair, facing left",0,1,0,0,0,0,0
+125,"a small, blue chair backwards",0,0,1,0,0,0,0
+126,"a red chair, facing right",1,0,0,0,0,0,0
+127,"a small, red chair facing backwards",0,0,0,0,0,0,0
+128,"a small, blue sofa faces backwards",0,0,0,0,0,1,0
+129,a small red chair facing right ,1,0,0,0,0,0,0
+130,a red chair,1,1,0,0,0,0,0
+131,"a  large, grey sofa facing forwards",0,0,0,0,0,0,1
+132,a red thing facing backwards,0,0,0,0,0,0,0
+133,"a small, red chair  (1)",1,1,0,0,0,0,0
+134,a red chair is facing to the right,1,0,0,0,0,0,0
+135,"a small, blue sofa ",0,0,0,0,0,1,0
+136,a small sofa facing to the left,0,0,0,0,1,0,0
+137,"a large, grey, facing forwards chair",0,0,0,1,0,0,0
+138,a blue sofa facing backward,0,0,0,0,0,1,0
+139,"a small,",0,0,0,0,0,0,0
+140,"a small, blue sofa facing to the right",0,0,0,0,0,0,0
+141,a red thing facing to the left,0,1,0,0,1,0,0
+142,"a small, blue chair  facing backwards",0,0,1,0,0,0,0
+143,"a large grey chair, facing forwards",0,0,0,1,0,0,0
+144,a blue sofa that is facing backwards,0,0,0,0,0,1,0
+145,"a small, blue chair facing to the left",0,0,0,0,0,0,0
+146,"a small, red sofa faces to the left",0,0,0,0,1,0,0
+147,a red sofa facing backwards,0,0,0,0,0,0,0
+148,a red chair facing the right,1,0,0,0,0,0,0
+149,"a small, blue chair ",0,0,1,0,0,0,0
+150,"a large, grey chair",0,0,0,1,0,0,0
+151,"a small, red sofa is facing to the left",0,0,0,0,1,0,0
+152,"a small, red chair is facing to the right",1,0,0,0,0,0,0
+153,a chair facing backwards,0,0,1,0,0,0,0
+154,a thing facing to the left,0,1,0,0,1,0,0
+155,a sofa facing to the left,0,0,0,0,1,0,0
+156,"a large, grey sofa""",0,0,0,0,0,0,1
+157,a,0,0,0,0,0,0,0
+158,"a small, red sofa  ",0,0,0,0,1,0,0
+159,a red sofa,0,0,0,0,1,0,0
+160,a grey chair facing forwards,0,0,0,1,0,0,0
+161,"a small, red thing facing to the left",0,1,0,0,1,0,0
+162,"a small, red chair - facing to the left",0,1,0,0,0,0,0
+163,a chair,1,1,1,1,0,0,0
+164,a thing facing to the right,1,0,0,0,0,0,0
+165,"a  large, grey chair facing forwards",0,0,0,1,0,0,0
+166,a blue thing facing to the right,0,0,0,0,0,0,0
+167,a red chair facing to the right,1,0,0,0,0,0,0
+168,"a small red chair, facing right",1,0,0,0,0,0,0
+169,"a small, red chair  facing to the right",1,0,0,0,0,0,0
+170,a blue chair facing forwards,0,0,0,0,0,0,0
+171,a red chair facing right,1,0,0,0,0,0,0
+172,a big gray chair,0,0,0,1,0,0,0
+173,a grey sofa facing forwards,0,0,0,0,0,0,1
+174,"a small, blue chair",0,0,1,0,0,0,0
+175,a grey chair is facing forwards,0,0,0,1,0,0,0
+176,"a small, blue sofa in the room",0,0,0,0,0,1,0
+177,"a small, red, chair facing to the right",1,0,0,0,0,0,0
+178,a small chair,1,1,1,0,0,0,0
+179,"a small, grey thing facing to the left",0,0,0,0,0,0,0
+180,a small blue chair facing backward,0,0,1,0,0,0,0
+181,a small chair facing backwards,0,0,1,0,0,0,0
+182,a sofa facing backwards,0,0,0,0,0,1,0
+183,a small red chair facing right,1,0,0,0,0,0,0
+184,"a large, blue sofa facing forwards",0,0,0,0,0,0,0
+185,"a large, grey sofa facing forward",0,0,0,0,0,0,1
+186,a large chair,0,0,0,1,0,0,0
+187,"a large, blue chair",0,0,0,0,0,0,0
+188,"a small, red chair facing to the right",1,0,0,0,0,0,0
+189,"a large, grey chair that is facing forwards",0,0,0,1,0,0,0
+190,a blue thing facing backwards,0,0,1,0,0,1,0
+191,"a small, red chair facing to the  left",0,1,0,0,0,0,0
+192,"a small, blue, backwards-facing chair",0,0,1,0,0,0,0
+193,a small sofa,0,0,0,0,1,1,0
+194,"a small, red chair is facing to the left",0,1,0,0,0,0,0
+195,a grey chair facing forward,0,0,0,1,0,0,0
+196,"a small, red chair to the right",1,0,0,0,0,0,0
+197,"a small, red sofa ",0,0,0,0,1,0,0
+198,"a small, grey chair",0,0,0,0,0,0,0
+199,"a large, grey couch facing forwards",0,0,0,1,0,0,1
+200,"a small blue sofa, facing backwards",0,0,0,0,0,1,0
+201,a thing facing forwards,0,0,0,1,0,0,1
+202,a small thing facing to the left,0,1,0,0,1,0,0
+203,"a large, grey, sofa, facing forwards",0,0,0,0,0,0,1
+204,a small blue chair is facing backwards,0,0,1,0,0,0,0
+205,"a small, blue chair with its back to us",0,0,1,0,0,0,0
+206,a chair facing to the right,1,0,0,0,0,0,0
+207,a grey chair,0,0,0,1,0,0,0
+208,"a small, red chair, facing to the left",0,1,0,0,0,0,0
+209,"a large, gray sofa facing forwards",0,0,0,0,0,0,1
+210,a small red sofa to the left,0,0,0,0,1,0,0
+211,a red thing facing forwards,0,0,0,0,0,0,0
+212,a blue chair facing to the left,0,0,0,0,0,0,0
+213,"a small, blue sofa (6)",0,0,0,0,0,1,0
+214,a large grey facing forwards chair,0,0,0,1,0,0,0
+215,"a small, red chair  (2)",1,1,0,0,0,0,0
+216,"a small, red chair (2) facing to the left",0,1,0,0,0,0,0
+217,"a blue chair, facing backwards",0,0,1,0,0,0,0
+218,"a small, grey sofa",0,0,0,0,0,0,0
+219,"a small, blue chair that faces backwards",0,0,1,0,0,0,0
+220,a large grey facing forwards sofa,0,0,0,0,0,0,1
+221,a chair facing forwards,0,0,0,1,0,0,0
+222,"a small, red thing facing backwards",0,0,0,0,0,0,0
+223,"a small, red sofa facing the left",0,0,0,0,1,0,0
+224,a large grey chair facing forwards in the room,0,0,0,1,0,0,0
+225,"a  small, blue sofa facing backwards",0,0,0,0,0,1,0
+226,a grey chair facing backwards,0,0,0,0,0,0,0
+227,"a large,",0,0,0,0,0,0,0
+228,"a large, grey thing facing forwards",0,0,0,1,0,0,1
+229,a large thing facing forwards,0,0,0,1,0,0,1
+230,"a small, red sofa facing backwards",0,0,0,0,0,0,0
+231,a small red sofa facing left,0,0,0,0,1,0,0
+232,"a small, blue sofa facing downwards",0,0,0,0,0,1,0
+233,"a small, red sofa",0,0,0,0,1,0,0
+234,"a small, blue chair  ",0,0,1,0,0,0,0
+235,"a large, grey sofa facing forwards",0,0,0,0,0,0,1
+236,"a large, grey facing forwards",0,0,0,1,0,0,1
+237,"a  small, red sofa facing to the left",0,0,0,0,1,0,0
+238,"a small, red thing",1,1,0,0,1,0,0
+239,"a small, grey chair facing to the left",0,0,0,0,0,0,0
+240,"a small, grey chair facing backwards",0,0,0,0,0,0,0
+241,"a small, blue chair facing to the right",0,0,0,0,0,0,0
+242,"a small, blue chair facing away",0,0,1,0,0,0,0
+243,"a small, red sofa is in the room",0,0,0,0,1,0,0
+244,"a small, red sofa  (5)",0,0,0,0,1,0,0
+245,a thing,1,1,1,1,1,1,1
+246,a large thing,0,0,0,1,0,0,1
+247,a large grey chair is facing forwards,0,0,0,1,0,0,0
+248,"a small blue chair, facing backwards",0,0,1,0,0,0,0
+249,a small thing facing backwards,0,0,1,0,0,1,0
+250,a small red chair facing to the right,1,0,0,0,0,0,0
+251,a grey chair facing to the left,0,0,0,0,0,0,0
+252,"a small, red thing facing to the right",1,0,0,0,0,0,0
+253,a large grey chair facing forwards,0,0,0,1,0,0,0
+254,a blue sofa facing backwards,0,0,0,0,0,1,0
+255,"a large, red thing facing forwards",0,0,0,0,0,0,0
+256,"a small red sofa, facing to the left",0,0,0,0,1,0,0
+257,"a blue, small sofa facing backwards",0,0,0,0,0,1,0
+258,"a small, blue sofa is facing backwards",0,0,0,0,0,1,0
+259,"a small, grey sofa facing backwards",0,0,0,0,0,0,0
+260,"a large, grey chair  (4)",0,0,0,1,0,0,0
+261,"a small, red sofa, facing left",0,0,0,0,1,0,0
+262,"a blue, small chair facing backwards",0,0,1,0,0,0,0
+263,a small chair facing left,0,1,0,0,0,0,0
+264,"a small, blue chair facing the opposite direction of the other chairs",0,0,1,0,0,0,0
+265,a blue thing facing forwards,0,0,0,0,0,0,0
+266,"a red, small chair facing right",1,0,0,0,0,0,0
+267,"a small, red sofa, facing to the left",0,0,0,0,1,0,0
+268,a red chair facing backwards,0,0,0,0,0,0,0
+269,"a small red chair facing right""",1,0,0,0,0,0,0
+270,a large grey chair ,0,0,0,1,0,0,0
+271,a blue chair that is facing backwards,0,0,1,0,0,0,0
+272,"a small, blue sofa  ",0,0,0,0,0,1,0
+273,a blue chair facing backwards,0,0,1,0,0,0,0
+274,a large chair facing forwards,0,0,0,1,0,0,0
+275,"a small, red, left-facing chair",0,1,0,0,0,0,0
+276,a small red chair,1,1,0,0,0,0,0
+277,a blue thing facing to the left,0,0,0,0,0,0,0
+278,"a small, red sofa facing left",0,0,0,0,1,0,0
+279,"a grey, large chair facing forwards",0,0,0,1,0,0,0
+280,"a small, red sofa that faces to the left",0,0,0,0,1,0,0
+281,"a small, blue sofa",0,0,0,0,0,1,0
+282,a small sofa facing backwards,0,0,0,0,0,1,0
+283,a red chair ,1,1,0,0,0,0,0
+284,a grey chair facing to the right,0,0,0,0,0,0,0
+285,"a grey, large sofa facing forwards",0,0,0,0,0,0,1
+286,"a large, red sofa",0,0,0,0,0,0,0
+287,a small blue sofa facing backward,0,0,0,0,0,1,0
+288,"a large, red chair facing forwards",0,0,0,0,0,0,0
+289,"a large, blue chair facing forwards",0,0,0,0,0,0,0
+290,"a small, grey chair facing to the right",0,0,0,0,0,0,0
+291,"a small, red chair facing",1,1,0,0,0,0,0
+292,a little red chair facing left,0,1,0,0,0,0,0
+293,"a large, grey sofa ",0,0,0,0,0,0,1
+294,"a small, blue chair turned around",0,0,1,0,0,0,0
+295,"a small, blue sofa  facing backwards",0,0,0,0,0,1,0
+296,"a small, red sofa to the left",0,0,0,0,1,0,0
+297,"a small, blue thing facing to the right",0,0,0,0,0,0,0
+298,"a small, grey thing facing to the right",0,0,0,0,0,0,0
+299,a red thing facing to the right,1,0,0,0,0,0,0
+300,"a large, grey chair, facing forwards",0,0,0,1,0,0,0
+301,a red chair facing to the left,0,1,0,0,0,0,0
+302,"a small, red sofa facing  to the left",0,0,0,0,1,0,0
+303,a small red sofa is facing to the left,0,0,0,0,1,0,0
+304,"a small, blue sofa that faces backwards",0,0,0,0,0,1,0
+305,"a small, red chair facing the left",0,1,0,0,0,0,0
+306,"a small, blue thing facing backwards",0,0,1,0,0,1,0
+307,a red chair facing forwards,0,0,0,0,0,0,0
+308,"a small, red chair, facing to the left, in the room",0,1,0,0,0,0,0
+309,"a small, blue chair  (3)",0,0,1,0,0,0,0
+310,a small blue sofa facing backwards in the room,0,0,0,0,0,1,0
+311,a grey thing facing to the left,0,0,0,0,0,0,0
+312,"a small, red chair facing left",0,1,0,0,0,0,0
+313,a small red sofa facing to the left,0,0,0,0,1,0,0
+314,"a small, blue sofa, facing backwards",0,0,0,0,0,1,0
+315,a chair facing to the left,0,1,0,0,0,0,0
+316,"a small, blue chair facing forwards",0,0,0,0,0,0,0
+317,"a large, red thing",0,0,0,0,0,0,0
+318,"a small, blue sofa that is facing backwards",0,0,0,0,0,1,0
+319,a large sofa,0,0,0,0,0,0,1
+320,a large grey sofa facing the front,0,0,0,0,0,0,1
+321,"a large, red chair",0,0,0,0,0,0,0
+322,"a small, grey sofa facing to the left",0,0,0,0,0,0,0
+323,"a small, blue sofa facing the back of the room",0,0,0,0,0,1,0
+324,"a large, grey sofa faces forwards",0,0,0,0,0,0,1
+325,"a small, red sofa""",0,0,0,0,1,0,0
+326,"a large, blue sofa",0,0,0,0,0,0,0

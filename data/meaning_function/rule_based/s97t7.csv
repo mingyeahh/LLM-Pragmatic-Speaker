@@ -1,0 +1,264 @@
+,Sequence,o1,o2,o3,o4,o5,o6,o7
+0,a large desk facing backwards,0,0,0,0,0,1,0
+1,a large grey desk is facing forwards,0,0,0,0,1,0,0
+2,"a large, grey chair facing forwards <|user|>",0,1,0,0,0,0,0
+3,"a grey, large chair, facing backwards",1,0,0,0,0,0,0
+4,a chair,1,1,1,1,0,0,0
+5,"a large, red desk face backwards",0,0,0,0,0,1,0
+6,"a  large, grey chair facing forwards",0,1,0,0,0,0,0
+7,"a  large, grey desk facing forwards",0,0,0,0,1,0,0
+8,"a large, grey chair facing forwards is object 2",0,1,0,0,0,0,0
+9,a small grey facing backwards chair,0,0,0,1,0,0,0
+10,"a large, red thing facing backwards",0,0,1,0,0,1,0
+11,a small grey chair facing backward,0,0,0,1,0,0,0
+12,a large grey desk ,0,0,0,0,1,0,0
+13,"a  large, grey desk  facing forwards",0,0,0,0,1,0,0
+14,a small gray chair facing backward,0,0,0,1,0,0,0
+15,a large grey facing forwards,0,1,0,0,1,0,0
+16,"a small, grey desk facing backward",0,0,0,0,0,0,1
+17,"a large, grey chair facing forwards  (1)",0,1,0,0,0,0,0
+18,"a large, red desk that is facing backwards",0,0,0,0,0,1,0
+19,"a large, grey chair facing forwards;",0,1,0,0,0,0,0
+20,a desk facing forwards,0,0,0,0,1,0,0
+21,"a large, red desk with its back facing you",0,0,0,0,0,1,0
+22,a grey chair that is facing backwards,1,0,0,1,0,0,0
+23,"a small grey chair, facing backwards",0,0,0,1,0,0,0
+24,a large red desk facing backwards,0,0,0,0,0,1,0
+25,a large grey chair that is facing backwards,1,0,0,0,0,0,0
+26,a red chair facing backward,0,0,1,0,0,0,0
+27,a small grey desk facing backwards,0,0,0,0,0,0,1
+28,"a large, red desk facing the wall",0,0,0,0,0,1,0
+29,"a large, grey chair facing forwards  (2)",0,1,0,0,0,0,0
+30,a small chair,0,0,0,1,0,0,0
+31,"a  small, grey chair facing backwards",0,0,0,1,0,0,0
+32,a large grey chair facing forward,0,1,0,0,0,0,0
+33,a small grey chair facing forwards,0,0,0,0,0,0,0
+34,a small chair facing backwards,0,0,0,1,0,0,0
+35,"a large, grey chair is facing forwards",0,1,0,0,0,0,0
+36,a grey chair is facing backwards,1,0,0,1,0,0,0
+37,"a grey, large chair facing backwards",1,0,0,0,0,0,0
+38,"a large, red chair is facing backwards",0,0,1,0,0,0,0
+39,"a large, red chair  facing backwards",0,0,1,0,0,0,0
+40,a grey chair ,1,1,0,1,0,0,0
+41,a large chair,1,1,1,0,0,0,0
+42,a desk is facing forwards,0,0,0,0,1,0,0
+43,"a large, red desk (6)",0,0,0,0,0,1,0
+44,"a large, grey chair 1",1,1,0,0,0,0,0
+45,"a large, grey chair that is facing forwards",0,1,0,0,0,0,0
+46,a large red chair ,0,0,1,0,0,0,0
+47,a small,0,0,0,0,0,0,0
+48,"a large, grey chair facing forwards, ",0,1,0,0,0,0,0
+49,a small grey desk facing forwards,0,0,0,0,0,0,0
+50,"a large, red desk in the room",0,0,0,0,0,1,0
+51,"a large, red desk with its back facing the viewer",0,0,0,0,0,1,0
+52,"a large, grey chair facing forwards'",0,1,0,0,0,0,0
+53,a backwards-facing small grey chair,0,0,0,1,0,0,0
+54,a small grey desk,0,0,0,0,0,0,1
+55,a grey thing,1,1,0,1,1,0,1
+56,"a large, red desk facing forwards",0,0,0,0,0,0,0
+57,"a large, grey thing",1,1,0,0,1,0,0
+58,a small desk facing backwards,0,0,0,0,0,0,1
+59,"a small, grey chair",0,0,0,1,0,0,0
+60,a grey chair facing backward,1,0,0,1,0,0,0
+61,a large red chair is facing backwards,0,0,1,0,0,0,0
+62,"a large, red desk, facing backwards",0,0,0,0,0,1,0
+63,"a small, gray desk facing backwards",0,0,0,0,0,0,1
+64,a red desk facing backwards,0,0,0,0,0,1,0
+65,"a large, grey chair facing forwards is object 2 in the room",0,1,0,0,0,0,0
+66,a thing facing forwards,0,1,0,0,1,0,0
+67,"a grey, large desk facing forwards",0,0,0,0,1,0,0
+68,"a small, grey thing",0,0,0,1,0,0,1
+69,a grey chair,1,1,0,1,0,0,0
+70,a huge grey chair facing away,1,0,0,1,0,0,0
+71,"a large, grey chair facing forwards 2",0,1,0,0,0,0,0
+72,a large red chair facing backwards,0,0,1,0,0,0,0
+73,"a small, grey desk  ",0,0,0,0,0,0,1
+74,a backwards-facing grey chair,1,0,0,1,0,0,0
+75,"a large, red desk  facing backwards",0,0,0,0,0,1,0
+76,a small Grey chair facing backwards,0,0,0,1,0,0,0
+77,"a small, red desk",0,0,0,0,0,0,0
+78,"a chair, facing forwards",0,1,0,0,0,0,0
+79,a grey desk facing forwards,0,0,0,0,1,0,0
+80,a red thing facing forwards,0,0,0,0,0,0,0
+81,"a large, red chair""",0,0,1,0,0,0,0
+82,"a small, grey desk facing",0,0,0,0,0,0,1
+83,a backwards-facing red desk,0,0,0,0,0,1,0
+84,"a large, red desk is facing backwards",0,0,0,0,0,1,0
+85,"a small, red desk facing backwards",0,0,0,0,0,0,0
+86,a small gray desk facing backwards,0,0,0,0,0,0,1
+87,a grey thing facing backwards,1,0,0,1,0,0,1
+88,"a small, grey, facing-backwards chair",0,0,0,1,0,0,0
+89,a small gray chair facing backwards,0,0,0,1,0,0,0
+90,a small desk,0,0,0,0,0,0,1
+91,"a large, red desk",0,0,0,0,0,1,0
+92,"a large, grey chair  facing forwards",0,1,0,0,0,0,0
+93,a grey desk facing forwards in a room,0,0,0,0,1,0,0
+94,a large red chair facing backwards ,0,0,1,0,0,0,0
+95,a backwards grey chair,1,0,0,1,0,0,0
+96,a small grey chair facing backwards,0,0,0,1,0,0,0
+97,a chair facing forwards,0,1,0,0,0,0,0
+98,"a small, red thing facing backwards",0,0,0,0,0,0,0
+99,a grey desk facing backwards,0,0,0,0,0,0,1
+100,a grey chair facing backwards,1,0,0,1,0,0,0
+101,"a large,",0,0,0,0,0,0,0
+102,"a large, grey thing facing forwards",0,1,0,0,1,0,0
+103,"a large, grey chair facing backward",1,0,0,0,0,0,0
+104,a large chair facing backwards,1,0,1,0,0,0,0
+105,a large thing facing forwards,0,1,0,0,1,0,0
+106,a large grey chair facing the opposite direction of the other objects,1,0,0,0,0,0,0
+107,"a large, grey chair facing backwards",1,0,0,0,0,0,0
+108,"a large, red chair that is facing backwards",0,0,1,0,0,0,0
+109,"a large, grey desk facing backwards",0,0,0,0,0,0,0
+110,a large grey desk that is facing forwards,0,0,0,0,1,0,0
+111,a backwards-facing large grey chair,1,0,0,0,0,0,0
+112,"a large, grey chair facing forwards,",0,1,0,0,0,0,0
+113,"a large, grey chair  (1)",1,1,0,0,0,0,0
+114,a red thing,0,0,1,0,0,1,0
+115,"a large, red desk (6) facing backwards",0,0,0,0,0,1,0
+116,"a large, grey desk",0,0,0,0,1,0,0
+117,"a small, grey desk  facing backwards",0,0,0,0,0,0,1
+118,"a large, grey chair facing forwards 1",0,1,0,0,0,0,0
+119,a grey thing facing forwards,0,1,0,0,1,0,0
+120,"a large red desk, facing backwards",0,0,0,0,0,1,0
+121,"a small, red thing",0,0,0,0,0,0,0
+122,a red desk facing forwards,0,0,0,0,0,0,0
+123,"a large grey chair, facing backwards",1,0,0,0,0,0,0
+124,"a small, grey chair facing backwards",0,0,0,1,0,0,0
+125,"a large, grey chair facing forward",0,1,0,0,0,0,0
+126,"a grey, small chair facing backwards",0,0,0,1,0,0,0
+127,"a large, red desk facing backwards",0,0,0,0,0,1,0
+128,"a large, red desk facing the opposite direction of the other objects",0,0,0,0,0,1,0
+129,a large grey desk facing forwards,0,0,0,0,1,0,0
+130,a thing,1,1,1,1,1,1,1
+131,"a large, grey chair is facing backwards",1,0,0,0,0,0,0
+132,a large thing,1,1,1,0,1,1,0
+133,a large grey facing backwards chair,1,0,0,0,0,0,0
+134,a large grey chair facing the opposite direction of the others,1,0,0,0,0,0,0
+135,a large desk facing forwards,0,0,0,0,1,0,0
+136,"a large, red desk faced backwards",0,0,0,0,0,1,0
+137,"a large, red desk ",0,0,0,0,0,1,0
+138,a large grey chair backwards,1,0,0,0,0,0,0
+139,a small thing facing backwards,0,0,0,1,0,0,1
+140,a desk facing backwards,0,0,0,0,0,1,1
+141,"a large, grey chair facing forwards in the room",0,1,0,0,0,0,0
+142,a large grey chair facing forwards,0,1,0,0,0,0,0
+143,a large desk is facing forwards,0,0,0,0,1,0,0
+144,"a large, red thing facing forwards",0,0,0,0,0,0,0
+145,"a large, red table facing backwards",0,0,0,0,0,1,0
+146,"a small, red chair",0,0,0,0,0,0,0
+147,"a small, grey thing facing backwards",0,0,0,1,0,0,1
+148,"a large, grey chair facing forwards """,0,1,0,0,0,0,0
+149,"a  large, red chair facing backwards",0,0,1,0,0,0,0
+150,a large,0,0,0,0,0,0,0
+151,a forward-facing grey desk,0,0,0,0,1,0,0
+152,"a large, red desk facing downwards",0,0,0,0,0,1,0
+153,a large red chair facing backward,0,0,1,0,0,0,0
+154,"a grey desk, facing forwards",0,0,0,0,1,0,0
+155,a large desk,0,0,0,0,1,1,0
+156,a small grey desk ,0,0,0,0,0,0,1
+157,"a small, grey desk is facing backwards",0,0,0,0,0,0,1
+158,"a large, grey chair ",1,1,0,0,0,0,0
+159,a small grey chair,0,0,0,1,0,0,0
+160,a grey desk facing forward,0,0,0,0,1,0,0
+161,a small thing,0,0,0,1,0,0,1
+162,a small grey chair face backwards,0,0,0,1,0,0,0
+163,"a large, red desk faces backwards",0,0,0,0,0,1,0
+164,a ,0,0,0,0,0,0,0
+165,"a grey chair, facing backwards",1,0,0,1,0,0,0
+166,a large grey chair  facing backwards,1,0,0,0,0,0,0
+167,a red chair facing backwards,0,0,1,0,0,0,0
+168,a small grey chair ,0,0,0,1,0,0,0
+169,a desk,0,0,0,0,1,1,1
+170,"a large, grey chair that is facing backwards",1,0,0,0,0,0,0
+171,"a large, red chair  ",0,0,1,0,0,0,0
+172,a large grey chair ,1,1,0,0,0,0,0
+173,"a small, grey desk facing forwards",0,0,0,0,0,0,0
+174,a large grey desk facing the front,0,0,0,0,1,0,0
+175,"a large, grey  desk",0,0,0,0,1,0,0
+176,a thing facing backwards,1,0,1,1,0,1,1
+177,"a large, grey chair facing forwards  ",0,1,0,0,0,0,0
+178,"a large, grey chair facing forwards",0,1,0,0,0,0,0
+179,"a large, grey table facing forwards",0,0,0,0,1,0,0
+180,"a large, red desk  (6)",0,0,0,0,0,1,0
+181,a large grey chair facing the opposite direction of the other chairs,1,0,0,0,0,0,0
+182,a large chair facing forwards,0,1,0,0,0,0,0
+183,"a large, red chair, facing backwards",0,0,1,0,0,0,0
+184,"a small, grey, backwards-facing chair",0,0,0,1,0,0,0
+185,"a large, red desk facing",0,0,0,0,0,1,0
+186,"a small, grey desk, facing backwards",0,0,0,0,0,0,1
+187,"a large, red desk""",0,0,0,0,0,1,0
+188,"a chair, grey, large, facing backwards",1,0,0,0,0,0,0
+189,"a red chair, facing backwards",0,0,1,0,0,0,0
+190,a small grey chair that is facing backwards,0,0,0,1,0,0,0
+191,a small grey chair turned away,0,0,0,1,0,0,0
+192,a large thing facing backwards,1,0,1,0,0,1,0
+193,a red chair ,0,0,1,0,0,0,0
+194,"a large, grey chair facing ",1,1,0,0,0,0,0
+195,a large grey chair,1,1,0,0,0,0,0
+196,"a small, grey desk facing backwards",0,0,0,0,0,0,1
+197,a small grey chair is facing backwards,0,0,0,1,0,0,0
+198,"a large, red chair ",0,0,1,0,0,0,0
+199,"a large grey desk, facing forwards",0,0,0,0,1,0,0
+200,"a large, grey chair facing forwards is in the room",0,1,0,0,0,0,0
+201,"a desk, large, grey, facing forwards",0,0,0,0,1,0,0
+202,"a large, grey thing facing backwards",1,0,0,0,0,0,0
+203,a grey chair facing away,1,0,0,1,0,0,0
+204,"a large, red chair (3)",0,0,1,0,0,0,0
+205,a small grey chair  facing backwards,0,0,0,1,0,0,0
+206,"a large, grey desk facing forwards",0,0,0,0,1,0,0
+207,"a large, grey chair facing forwards ",0,1,0,0,0,0,0
+208,a red table,0,0,0,0,0,1,0
+209,"a large, red chair facing forwards",0,0,0,0,0,0,0
+210,a red desk,0,0,0,0,0,1,0
+211,"a small, grey desk ",0,0,0,0,0,0,1
+212,"a small, grey table",0,0,0,0,0,0,1
+213,a small grey desk is facing backwards,0,0,0,0,0,0,1
+214,a red chair,0,0,1,0,0,0,0
+215,"a small, grey desk that is facing backwards",0,0,0,0,0,0,1
+216,a grey desk facing forwards ,0,0,0,0,1,0,0
+217,"a small, red chair facing backwards",0,0,0,0,0,0,0
+218,a red thing facing backwards,0,0,1,0,0,1,0
+219,"a large, red desk facing backward",0,0,0,0,0,1,0
+220,"a  large, grey desk",0,0,0,0,1,0,0
+221,"a  small, grey desk facing backwards",0,0,0,0,0,0,1
+222,"a small, gray chair facing backwards",0,0,0,1,0,0,0
+223,"a small,",0,0,0,0,0,0,0
+224,a large grey desk  facing forwards,0,0,0,0,1,0,0
+225,"a large, grey, backwards chair",1,0,0,0,0,0,0
+226,"a large, grey chair, facing forwards",0,1,0,0,0,0,0
+227,a large grey chair facing away,1,0,0,0,0,0,0
+228,"a large, gray desk facing forwards",0,0,0,0,1,0,0
+229,"a large, red chair facing backward",0,0,1,0,0,0,0
+230,"a large, grey chair  facing backwards",1,0,0,0,0,0,0
+231,"a large grey chair, facing forwards",0,1,0,0,0,0,0
+232,"a large, red chair facing backwards",0,0,1,0,0,0,0
+233,a grey desk is facing forwards,0,0,0,0,1,0,0
+234,a large grey chair is facing backwards,1,0,0,0,0,0,0
+235,"a large, red chair  (3)",0,0,1,0,0,0,0
+236,a red chair facing forwards,0,0,0,0,0,0,0
+237,"a small, grey desk",0,0,0,0,0,0,1
+238,"a large red chair, facing backwards",0,0,1,0,0,0,0
+239,a facing forwards large grey desk,0,0,0,0,1,0,0
+240,"a large, grey chair facing forwards""",0,1,0,0,0,0,0
+241,"a small, grey desk faces backwards",0,0,0,0,0,0,1
+242,"a large, grey chair",1,1,0,0,0,0,0
+243,a chair facing backwards,1,0,1,1,0,0,0
+244,a large gray chair facing backwards,1,0,0,0,0,0,0
+245,"a large, red desk  ",0,0,0,0,0,1,0
+246,"a large, red desk facing  backwards",0,0,0,0,0,1,0
+247,a desk ,0,0,0,0,1,1,1
+248,a backwards facing grey chair,1,0,0,1,0,0,0
+249,"a large desk, facing forwards",0,0,0,0,1,0,0
+250,"a small grey desk, facing backwards",0,0,0,0,0,0,1
+251,"a large, grey chair, facing backwards",1,0,0,0,0,0,0
+252,"a large, grey chair facing",1,1,0,0,0,0,0
+253,a large red chair,0,0,1,0,0,0,0
+254,a large grey desk,0,0,0,0,1,0,0
+255,"a large, grey, backwards-facing chair",1,0,0,0,0,0,0
+256,"a large, red thing",0,0,1,0,0,1,0
+257,"a large, red chair",0,0,1,0,0,0,0
+258,a small-grey-chair-facing-backwards,0,0,0,1,0,0,0
+259,a,0,0,0,0,0,0,0
+260,a grey desk,0,0,0,0,1,0,1
+261,a grey chair facing forwards,0,1,0,0,0,0,0
+262,"a  large, red desk facing backwards",0,0,0,0,0,1,0
