@@ -21,7 +21,7 @@ The evaluation pipeline has three phases (Figure 3 / Appendix C of the paper):
 ```
 Phase 1 — build spaces            Phase 2 — score                 Phase 3 — compare
 ┌────────────────────────┐        ┌─────────────────────────┐     ┌───────────────────┐
-│ meaning space O        │        │ vanilla LLM  p(u|O,oₜ)  │     │ PCC / SRCC / JSD  │
+│ meaning space O        │        │ vanilla LLM  p(u|O,oₜ)  │      │ PCC / SRCC / JSD  │
 │  (object descriptions) │        │                         │     │ per reference game│
 │ utterance space U:     │ ─────► │ RSA speaker S₁(u|o):    │ ──► │                   │
 │  • logical rules       │        │  literal listener L₀    │     │ histograms (Fig 1)│
